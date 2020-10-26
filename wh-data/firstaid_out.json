@@ -1,0 +1,151 @@
+{
+  "Linen Cloth": {
+    "id": 2589,
+    "quality": 1
+  },
+  "Linen Bandage": {
+    "id": 1251,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Linen Cloth": 1
+    }
+  },
+  "Heavy Linen Bandage": {
+    "id": 2581,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Linen Cloth": 2
+    }
+  },
+  "Wool Cloth": {
+    "id": 2592,
+    "quality": 1
+  },
+  "Wool Bandage": {
+    "id": 3530,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Wool Cloth": 1
+    }
+  },
+  "Heavy Wool Bandage": {
+    "id": 3531,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Wool Cloth": 2
+    }
+  },
+  "Silk Cloth": {
+    "id": 4306,
+    "quality": 1
+  },
+  "Silk Bandage": {
+    "id": 6450,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Silk Cloth": 1
+    }
+  },
+  "Heavy Silk Bandage": {
+    "id": 6451,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Silk Cloth": 2
+    }
+  },
+  "Small Venom Sac": {
+    "id": 1475,
+    "quality": 1
+  },
+  "Anti-Venom": {
+    "id": 6452,
+    "quality": 1,
+    "craftMin": 3,
+    "craftMax": 3,
+    "reagents": {
+      "Small Venom Sac": 1
+    }
+  },
+  "Large Venom Sac": {
+    "id": 1288,
+    "quality": 1
+  },
+  "Strong Anti-Venom": {
+    "id": 6453,
+    "quality": 1,
+    "craftMin": 3,
+    "craftMax": 3,
+    "reagents": {
+      "Large Venom Sac": 1
+    }
+  },
+  "Mageweave Cloth": {
+    "id": 4338,
+    "quality": 1
+  },
+  "Mageweave Bandage": {
+    "id": 8544,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mageweave Cloth": 1
+    }
+  },
+  "Heavy Mageweave Bandage": {
+    "id": 8545,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mageweave Cloth": 2
+    }
+  },
+  "Runecloth": {
+    "id": 14047,
+    "quality": 1
+  },
+  "Runecloth Bandage": {
+    "id": 14529,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Runecloth": 1
+    }
+  },
+  "Heavy Runecloth Bandage": {
+    "id": 14530,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Runecloth": 2
+    }
+  },
+  "Huge Venom Sac": {
+    "id": 19441,
+    "quality": 1
+  },
+  "Powerful Anti-Venom": {
+    "id": 19440,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Huge Venom Sac": 1
+    }
+  }
+}

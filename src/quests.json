@@ -1,0 +1,2330 @@
+{
+  "Qiraji Bindings of Command": {
+    "id": 20928,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Qiraji Bindings of Dominance": {
+    "id": 20932,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Skin of the Great Sandworm": {
+    "id": 20931,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Ouro's Intact Hide": {
+    "id": 20927,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Vek'lor's Diadem": {
+    "id": 20930,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Vek'nilash's Circlet": {
+    "id": 20926,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Husk of the Old God": {
+    "id": 20933,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Carapace of the Old God": {
+    "id": 20929,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Clay Scarab": {
+    "id": 20863,
+    "quality": 2
+  },
+  "Stone Scarab": {
+    "id": 20858,
+    "quality": 2
+  },
+  "Bone Scarab": {
+    "id": 20864,
+    "quality": 2
+  },
+  "Bronze Scarab": {
+    "id": 20861,
+    "quality": 2
+  },
+  "Crystal Scarab": {
+    "id": 20862,
+    "quality": 2
+  },
+  "Gold Scarab": {
+    "id": 20859,
+    "quality": 2
+  },
+  "Ivory Scarab": {
+    "id": 20865,
+    "quality": 2
+  },
+  "Silver Scarab": {
+    "id": 20860,
+    "quality": 2
+  },
+  "Idol of Death": {
+    "id": 20876,
+    "quality": 3
+  },
+  "Idol of Life": {
+    "id": 20879,
+    "quality": 3
+  },
+  "Idol of Night": {
+    "id": 20875,
+    "quality": 3
+  },
+  "Idol of Rebirth": {
+    "id": 20878,
+    "quality": 3
+  },
+  "Idol of Strife": {
+    "id": 20881,
+    "quality": 3
+  },
+  "Idol of the Sage": {
+    "id": 20877,
+    "quality": 3
+  },
+  "Idol of the Sun": {
+    "id": 20874,
+    "quality": 3
+  },
+  "Idol of War": {
+    "id": 20882,
+    "quality": 3
+  },
+  "Onyx Idol": {
+    "id": 20867,
+    "quality": 3
+  },
+  "Alabaster Idol": {
+    "id": 20873,
+    "quality": 3
+  },
+  "Obsidian Idol": {
+    "id": 20871,
+    "quality": 3
+  },
+  "Amber Idol": {
+    "id": 20869,
+    "quality": 3
+  },
+  "Jasper Idol": {
+    "id": 20870,
+    "quality": 3
+  },
+  "Vermillion Idol": {
+    "id": 20872,
+    "quality": 3
+  },
+  "Lambent Idol": {
+    "id": 20868,
+    "quality": 3
+  },
+  "Azure Idol": {
+    "id": 20866,
+    "quality": 3
+  },
+  "Qiraji Ceremonial Ring": {
+    "id": 20888,
+    "quality": 3,
+    "bindOnPickup": true
+  },
+  "Qiraji Magisterial Ring": {
+    "id": 20884,
+    "quality": 3,
+    "bindOnPickup": true
+  },
+  "Qiraji Regal Drape": {
+    "id": 20889,
+    "quality": 3,
+    "bindOnPickup": true
+  },
+  "Qiraji Martial Drape": {
+    "id": 20885,
+    "quality": 3,
+    "bindOnPickup": true
+  },
+  "Qiraji Ornate Hilt": {
+    "id": 20890,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Qiraji Spiked Hilt": {
+    "id": 20886,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Ring of Infinite Wisdom": {
+    "id": 21411,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ceremonial Ring": 1,
+      "Obsidian Idol": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Shroud of Infinite Wisdom": {
+    "id": 21412,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Martial Drape": 1,
+      "Jasper Idol": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Gavel of Infinite Wisdom": {
+    "id": 21410,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ornate Hilt": 1,
+      "Lambent Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Finery of Infinite Wisdom": {
+    "category": "tierset",
+    "reagents": {
+      "Ring of Infinite Wisdom": 1,
+      "Shroud of Infinite Wisdom": 1,
+      "Gavel of Infinite Wisdom": 1
+    }
+  },
+  "Footwraps of the Oracle": {
+    "id": 21349,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of Death": 2,
+      "Bronze Scarab": 5,
+      "Gold Scarab": 5
+    }
+  },
+  "Tiara of the Oracle": {
+    "id": 21348,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'nilash's Circlet": 1,
+      "Idol of the Sage": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Mantle of the Oracle": {
+    "id": 21350,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of Rebirth": 2,
+      "Silver Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Trousers of the Oracle": {
+    "id": 21352,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Ouro's Intact Hide": 1,
+      "Idol of Life": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Vestments of the Oracle": {
+    "id": 21351,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Husk of the Old God": 1,
+      "Idol of Death": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Garments of the Oracle": {
+    "category": "tierset",
+    "reagents": {
+      "Footwraps of the Oracle": 1,
+      "Tiara of the Oracle": 1,
+      "Mantle of the Oracle": 1,
+      "Trousers of the Oracle": 1,
+      "Vestments of the Oracle": 1
+    }
+  },
+  "Band of Vaulted Secrets": {
+    "id": 21414,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Magisterial Ring": 1,
+      "Azure Idol": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Drape of Vaulted Secrets": {
+    "id": 21415,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Martial Drape": 1,
+      "Alabaster Idol": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Blade of Vaulted Secrets": {
+    "id": 21413,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ornate Hilt": 1,
+      "Obsidian Idol": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Trappings of Vaulted Secrets": {
+    "category": "tierset",
+    "reagents": {
+      "Band of Vaulted Secrets": 1,
+      "Drape of Vaulted Secrets": 1,
+      "Blade of Vaulted Secrets": 1
+    }
+  },
+  "Ring of Unspoken Names": {
+    "id": 21417,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ceremonial Ring": 1,
+      "Jasper Idol": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Shroud of Unspoken Names": {
+    "id": 21418,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Regal Drape": 1,
+      "Amber Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Kris of Unspoken Names": {
+    "id": 21416,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ornate Hilt": 1,
+      "Onyx Idol": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Implements of Unspoken Names": {
+    "category": "tierset",
+    "reagents": {
+      "Ring of Unspoken Names": 1,
+      "Shroud of Unspoken Names": 1,
+      "Kris of Unspoken Names": 1
+    }
+  },
+  "Band of Veiled Shadows": {
+    "id": 21405,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ceremonial Ring": 1,
+      "Onyx Idol": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Cloak of Veiled Shadows": {
+    "id": 21406,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Martial Drape": 1,
+      "Azure Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Dagger of Veiled Shadows": {
+    "id": 21404,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Spiked Hilt": 1,
+      "Vermillion Idol": 2,
+      "Gold Scarab": 5,
+      "Stone Scarab": 5
+    }
+  },
+  "Emblems of Veiled Shadows": {
+    "category": "tierset",
+    "reagents": {
+      "Band of Veiled Shadows": 1,
+      "Cloak of Veiled Shadows": 1,
+      "Dagger of Veiled Shadows": 1
+    }
+  },
+  "Band of Unending Life": {
+    "id": 21408,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Magisterial Ring": 1,
+      "Alabaster Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Cloak of Unending Life": {
+    "id": 21409,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Regal Drape": 1,
+      "Vermillion Idol": 2,
+      "Bone Scarab": 5,
+      "Silver Scarab": 5
+    }
+  },
+  "Mace of Unending Life": {
+    "id": 21407,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ornate Hilt": 1,
+      "Jasper Idol": 2,
+      "Crystal Scarab": 5,
+      "Stone Scarab": 5
+    }
+  },
+  "Symbols of Unending Life": {
+    "category": "tierset",
+    "reagents": {
+      "Band of Unending Life": 1,
+      "Cloak of Unending Life": 1,
+      "Mace of Unending Life": 1
+    }
+  },
+  "Signet of the Unseen Path": {
+    "id": 21402,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Ceremonial Ring": 1,
+      "Amber Idol": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Cloak of the Unseen Path": {
+    "id": 21403,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Regal Drape": 1,
+      "Lambent Idol": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Scythe of the Unseen Path": {
+    "id": 21401,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Spiked Hilt": 1,
+      "Azure Idol": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Trappings of the Unseen Path": {
+    "category": "tierset",
+    "reagents": {
+      "Signet of the Unseen Path": 1,
+      "Cloak of the Unseen Path": 1,
+      "Scythe of the Unseen Path": 1
+    }
+  },
+  "Ring of the Gathering Storm": {
+    "id": 21399,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Magisterial Ring": 1,
+      "Vermillion Idol": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Cloak of the Gathering Storm": {
+    "id": 21400,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Regal Drape": 1,
+      "Obsidian Idol": 2,
+      "Clay Scarab": 5,
+      "Gold Scarab": 5
+    }
+  },
+  "Hammer of the Gathering Storm": {
+    "id": 21398,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Spiked Hilt": 1,
+      "Amber Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Gift of the Gathering Storm": {
+    "category": "tierset",
+    "reagents": {
+      "Ring of the Gathering Storm": 1,
+      "Cloak of the Gathering Storm": 1,
+      "Hammer of the Gathering Storm": 1
+    }
+  },
+  "Signet of Unyielding Strength": {
+    "id": 21393,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Magisterial Ring": 1,
+      "Lambent Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Drape of Unyielding Strength": {
+    "id": 21394,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Martial Drape": 1,
+      "Onyx Idol": 2,
+      "Bone Scarab": 5,
+      "Silver Scarab": 5
+    }
+  },
+  "Sickle of Unyielding Strength": {
+    "id": 21392,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Spiked Hilt": 1,
+      "Alabaster Idol": 2,
+      "Crystal Scarab": 5,
+      "Stone Scarab": 5
+    }
+  },
+  "Battlegear of Unyielding Strength": {
+    "category": "tierset",
+    "reagents": {
+      "Signet of Unyielding Strength": 1,
+      "Drape of Unyielding Strength": 1,
+      "Sickle of Unyielding Strength": 1
+    }
+  },
+  "Ring of Eternal Justice": {
+    "id": 21396,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Magisterial Ring": 1,
+      "Vermillion Idol": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Cape of Eternal Justice": {
+    "id": 21397,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Regal Drape": 1,
+      "Obsidian Idol": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Blade of Eternal Justice": {
+    "id": 21395,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Spiked Hilt": 1,
+      "Amber Idol": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Battlegear of Eternal Justice": {
+    "category": "tierset",
+    "reagents": {
+      "Ring of Eternal Justice": 1,
+      "Cape of Eternal Justice": 1,
+      "Blade of Eternal Justice": 1
+    }
+  },
+  "Enigma Boots": {
+    "id": 21344,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of the Sun": 2,
+      "Silver Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Enigma Circlet": {
+    "id": 21347,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'nilash's Circlet": 1,
+      "Idol of Night": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Enigma Shoulderpads": {
+    "id": 21345,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of Death": 2,
+      "Stone Scarab": 5,
+      "Bronze Scarab": 5
+    }
+  },
+  "Enigma Leggings": {
+    "id": 21346,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Ouro's Intact Hide": 1,
+      "Idol of the Sage": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Enigma Robes": {
+    "id": 21343,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Husk of the Old God": 1,
+      "Idol of the Sun": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Enigma Vestments": {
+    "category": "tierset",
+    "reagents": {
+      "Enigma Boots": 1,
+      "Enigma Circlet": 1,
+      "Enigma Shoulderpads": 1,
+      "Enigma Leggings": 1,
+      "Enigma Robes": 1
+    }
+  },
+  "Doomcaller's Footwraps": {
+    "id": 21338,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of Night": 2,
+      "Clay Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Doomcaller's Circlet": {
+    "id": 21337,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'nilash's Circlet": 1,
+      "Idol of Death": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Doomcaller's Mantle": {
+    "id": 21335,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of the Sage": 2,
+      "Bronze Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Doomcaller's Trousers": {
+    "id": 21336,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Skin of the Great Sandworm": 1,
+      "Idol of Rebirth": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Doomcaller's Robes": {
+    "id": 21334,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Husk of the Old God": 1,
+      "Idol of Night": 2,
+      "Crystal Scarab": 5,
+      "Stone Scarab": 5
+    }
+  },
+  "Doomcaller's Attire": {
+    "category": "tierset",
+    "reagents": {
+      "Doomcaller's Footwraps": 1,
+      "Doomcaller's Circlet": 1,
+      "Doomcaller's Mantle": 1,
+      "Doomcaller's Trousers": 1,
+      "Doomcaller's Robes": 1
+    }
+  },
+  "Deathdealer's Boots": {
+    "id": 21359,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of Strife": 2,
+      "Crystal Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Deathdealer's Helm": {
+    "id": 21360,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'lor's Diadem": 1,
+      "Idol of War": 2,
+      "Clay Scarab": 5,
+      "Gold Scarab": 5
+    }
+  },
+  "Deathdealer's Spaulders": {
+    "id": 21361,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of the Sun": 2,
+      "Silver Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Deathdealer's Leggings": {
+    "id": 21362,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Ouro's Intact Hide": 1,
+      "Idol of Night": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Deathdealer's Vest": {
+    "id": 21364,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Carapace of the Old God": 1,
+      "Idol of Strife": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Deathdealer's Embrace": {
+    "category": "tierset",
+    "reagents": {
+      "Deathdealer's Boots": 1,
+      "Deathdealer's Helm": 1,
+      "Deathdealer's Spaulders": 1,
+      "Deathdealer's Leggings": 1,
+      "Deathdealer's Vest": 1
+    }
+  },
+  "Genesis Boots": {
+    "id": 21355,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of Rebirth": 2,
+      "Stone Scarab": 5,
+      "Silver Scarab": 5
+    }
+  },
+  "Genesis Helm": {
+    "id": 21353,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'lor's Diadem": 1,
+      "Idol of Life": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Genesis Shoulderpads": {
+    "id": 21354,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of Strife": 2,
+      "Gold Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Genesis Trousers": {
+    "id": 21356,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Skin of the Great Sandworm": 1,
+      "Idol of War": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Genesis Vest": {
+    "id": 21357,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Husk of the Old God": 1,
+      "Idol of Rebirth": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Genesis Raiment": {
+    "category": "tierset",
+    "reagents": {
+      "Genesis Boots": 1,
+      "Genesis Helm": 1,
+      "Genesis Shoulderpads": 1,
+      "Genesis Trousers": 1,
+      "Genesis Vest": 1
+    }
+  },
+  "Striker's Footguards": {
+    "id": 21365,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of Life": 2,
+      "Stone Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Striker's Diadem": {
+    "id": 21366,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'lor's Diadem": 1,
+      "Idol of Strife": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Striker's Pauldrons": {
+    "id": 21367,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of War": 2,
+      "Crystal Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Striker's Leggings": {
+    "id": 21368,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Skin of the Great Sandworm": 1,
+      "Idol of the Sun": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Striker's Hauberk": {
+    "id": 21370,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Carapace of the Old God": 1,
+      "Idol of Life": 2,
+      "Gold Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Striker's Garb": {
+    "category": "tierset",
+    "reagents": {
+      "Striker's Footguards": 1,
+      "Striker's Diadem": 1,
+      "Striker's Pauldrons": 1,
+      "Striker's Leggings": 1,
+      "Striker's Hauberk": 1
+    }
+  },
+  "Stormcaller's Footguards": {
+    "id": 21373,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of the Sage": 2,
+      "Bronze Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Stormcaller's Diadem": {
+    "id": 21372,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'lor's Diadem": 1,
+      "Idol of Rebirth": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Stormcaller's Pauldrons": {
+    "id": 21376,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of Life": 2,
+      "Gold Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Stormcaller's Leggings": {
+    "id": 21375,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Skin of the Great Sandworm": 1,
+      "Idol of Strife": 2,
+      "Ivory Scarab": 5,
+      "Bronze Scarab": 5
+    }
+  },
+  "Stormcaller's Hauberk": {
+    "id": 21374,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Carapace of the Old God": 1,
+      "Idol of the Sage": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Stormcaller's Garb": {
+    "category": "tierset",
+    "reagents": {
+      "Stormcaller's Footguards": 1,
+      "Stormcaller's Diadem": 1,
+      "Stormcaller's Pauldrons": 1,
+      "Stormcaller's Leggings": 1,
+      "Stormcaller's Hauberk": 1
+    }
+  },
+  "Conqueror's Greaves": {
+    "id": 21333,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of War": 2,
+      "Ivory Scarab": 5,
+      "Gold Scarab": 5
+    }
+  },
+  "Conqueror's Crown": {
+    "id": 21329,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'nilash's Circlet": 1,
+      "Idol of the Sun": 2,
+      "Crystal Scarab": 5,
+      "Stone Scarab": 5
+    }
+  },
+  "Conqueror's Spaulders": {
+    "id": 21330,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Command": 1,
+      "Idol of Night": 2,
+      "Clay Scarab": 5,
+      "Stone Scarab": 5
+    }
+  },
+  "Conqueror's Legguards": {
+    "id": 21332,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Ouro's Intact Hide": 1,
+      "Idol of Death": 2,
+      "Bronze Scarab": 5,
+      "Ivory Scarab": 5
+    }
+  },
+  "Conqueror's Breastplate": {
+    "id": 21331,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Carapace of the Old God": 1,
+      "Idol of War": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Conqueror's Battlegear": {
+    "category": "tierset",
+    "reagents": {
+      "Conqueror's Greaves": 1,
+      "Conqueror's Crown": 1,
+      "Conqueror's Spaulders": 1,
+      "Conqueror's Legguards": 1,
+      "Conqueror's Breastplate": 1
+    }
+  },
+  "Avenger's Greaves": {
+    "id": 21388,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of the Sage": 2,
+      "Bronze Scarab": 5,
+      "Clay Scarab": 5
+    }
+  },
+  "Avenger's Crown": {
+    "id": 21387,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Vek'lor's Diadem": 1,
+      "Idol of Rebirth": 2,
+      "Stone Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Avenger's Pauldrons": {
+    "id": 21391,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Qiraji Bindings of Dominance": 1,
+      "Idol of Life": 2,
+      "Gold Scarab": 5,
+      "Crystal Scarab": 5
+    }
+  },
+  "Avenger's Legguards": {
+    "id": 21390,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Skin of the Great Sandworm": 1,
+      "Idol of Strife": 2,
+      "Ivory Scarab": 5,
+      "Bronze Scarab": 5
+    }
+  },
+  "Avenger's Breastplate": {
+    "id": 21389,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Carapace of the Old God": 1,
+      "Idol of the Sage": 2,
+      "Silver Scarab": 5,
+      "Bone Scarab": 5
+    }
+  },
+  "Avenger's Battlegear": {
+    "category": "tierset",
+    "reagents": {
+      "Avenger's Greaves": 1,
+      "Avenger's Crown": 1,
+      "Avenger's Pauldrons": 1,
+      "Avenger's Legguards": 1,
+      "Avenger's Breastplate": 1
+    }
+  },
+  "Desecrated Bracers": {
+    "id": 22355,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Bindings": {
+    "id": 22369,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Wristguards": {
+    "id": 22362,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Gloves": {
+    "id": 22371,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Handguards": {
+    "id": 22364,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Gauntlets": {
+    "id": 22357,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Girdle": {
+    "id": 22363,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Belt": {
+    "id": 22370,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Waistguard": {
+    "id": 22356,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Leggings": {
+    "id": 22366,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Legguards": {
+    "id": 22359,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Legplates": {
+    "id": 22352,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Sandals": {
+    "id": 22372,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Boots": {
+    "id": 22365,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Sabatons": {
+    "id": 22358,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Robe": {
+    "id": 22351,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Tunic": {
+    "id": 22350,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Breastplate": {
+    "id": 22349,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Shoulderpads": {
+    "id": 22368,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Spaulders": {
+    "id": 22361,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Pauldrons": {
+    "id": 22354,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Circlet": {
+    "id": 22367,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Headpiece": {
+    "id": 22360,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Desecrated Helmet": {
+    "id": 22353,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Wartorn Cloth Scrap": {
+    "id": 22376,
+    "quality": 3
+  },
+  "Wartorn Leather Scrap": {
+    "id": 22373,
+    "quality": 3
+  },
+  "Wartorn Chain Scrap": {
+    "id": 22374,
+    "quality": 3
+  },
+  "Wartorn Plate Scrap": {
+    "id": 22375,
+    "quality": 3
+  },
+  "Circlet of Faith": {
+    "id": 22514,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Circlet": 1,
+      "Wartorn Cloth Scrap": 15,
+      "Mooncloth": 3,
+      "Nexus Crystal": 3
+    }
+  },
+  "Shoulderpads of Faith": {
+    "id": 22515,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Shoulderpads": 1,
+      "Wartorn Cloth Scrap": 12,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Robe of Faith": {
+    "id": 22512,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Robe": 1,
+      "Wartorn Cloth Scrap": 25,
+      "Mooncloth": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Bindings of Faith": {
+    "id": 22519,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Bindings": 1,
+      "Wartorn Cloth Scrap": 6,
+      "Arcane Crystal": 1,
+      "Nexus Crystal": 1
+    }
+  },
+  "Gloves of Faith": {
+    "id": 22517,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Gloves": 1,
+      "Wartorn Cloth Scrap": 8,
+      "Mooncloth": 4
+    }
+  },
+  "Belt of Faith": {
+    "id": 22518,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Belt": 1,
+      "Wartorn Cloth Scrap": 8,
+      "Arcane Crystal": 2,
+      "Mooncloth": 2
+    }
+  },
+  "Leggings of Faith": {
+    "id": 22513,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Leggings": 1,
+      "Wartorn Cloth Scrap": 20,
+      "Mooncloth": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Sandals of Faith": {
+    "id": 22516,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Sandals": 1,
+      "Wartorn Cloth Scrap": 12,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Ring of Faith": {
+    "id": 23061,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Vestments of Faith": {
+    "category": "tierset",
+    "reagents": {
+      "Circlet of Faith": 1,
+      "Shoulderpads of Faith": 1,
+      "Robe of Faith": 1,
+      "Bindings of Faith": 1,
+      "Gloves of Faith": 1,
+      "Belt of Faith": 1,
+      "Leggings of Faith": 1,
+      "Sandals of Faith": 1,
+      "Ring of Faith": 1
+    }
+  },
+  "Frostfire Circlet": {
+    "id": 22498,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Circlet": 1,
+      "Wartorn Cloth Scrap": 15,
+      "Mooncloth": 3,
+      "Nexus Crystal": 3
+    }
+  },
+  "Frostfire Shoulderpads": {
+    "id": 22499,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Shoulderpads": 1,
+      "Wartorn Cloth Scrap": 12,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Frostfire Robe": {
+    "id": 22496,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Robe": 1,
+      "Wartorn Cloth Scrap": 25,
+      "Mooncloth": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Frostfire Bindings": {
+    "id": 22503,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Bindings": 1,
+      "Wartorn Cloth Scrap": 6,
+      "Arcane Crystal": 1,
+      "Nexus Crystal": 1
+    }
+  },
+  "Frostfire Gloves": {
+    "id": 22501,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Gloves": 1,
+      "Wartorn Cloth Scrap": 8,
+      "Mooncloth": 4
+    }
+  },
+  "Frostfire Belt": {
+    "id": 22502,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Belt": 1,
+      "Wartorn Cloth Scrap": 8,
+      "Arcane Crystal": 2,
+      "Mooncloth": 2
+    }
+  },
+  "Frostfire Leggings": {
+    "id": 22497,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Leggings": 1,
+      "Wartorn Cloth Scrap": 20,
+      "Mooncloth": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Frostfire Sandals": {
+    "id": 22500,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Sandals": 1,
+      "Wartorn Cloth Scrap": 12,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Frostfire Ring": {
+    "id": 23062,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Frostfire Regalia": {
+    "category": "tierset",
+    "reagents": {
+      "Frostfire Circlet": 1,
+      "Frostfire Shoulderpads": 1,
+      "Frostfire Robe": 1,
+      "Frostfire Bindings": 1,
+      "Frostfire Gloves": 1,
+      "Frostfire Belt": 1,
+      "Frostfire Leggings": 1,
+      "Frostfire Sandals": 1,
+      "Frostfire Ring": 1
+    }
+  },
+  "Plagueheart Circlet": {
+    "id": 22506,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Circlet": 1,
+      "Wartorn Cloth Scrap": 15,
+      "Mooncloth": 3,
+      "Large Brilliant Shard": 3
+    }
+  },
+  "Plagueheart Shoulderpads": {
+    "id": 22507,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Shoulderpads": 1,
+      "Wartorn Cloth Scrap": 12,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Plagueheart Robe": {
+    "id": 22504,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Robe": 1,
+      "Wartorn Cloth Scrap": 25,
+      "Mooncloth": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Plagueheart Bindings": {
+    "id": 22511,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Bindings": 1,
+      "Wartorn Cloth Scrap": 6,
+      "Arcane Crystal": 1,
+      "Nexus Crystal": 1
+    }
+  },
+  "Plagueheart Gloves": {
+    "id": 22509,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Gloves": 1,
+      "Wartorn Cloth Scrap": 8,
+      "Mooncloth": 4
+    }
+  },
+  "Plagueheart Belt": {
+    "id": 22510,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Belt": 1,
+      "Wartorn Cloth Scrap": 8,
+      "Arcane Crystal": 2,
+      "Mooncloth": 2
+    }
+  },
+  "Plagueheart Leggings": {
+    "id": 22505,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Leggings": 1,
+      "Wartorn Cloth Scrap": 20,
+      "Mooncloth": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Plagueheart Sandals": {
+    "id": 22508,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Sandals": 1,
+      "Wartorn Cloth Scrap": 12,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Plagueheart Ring": {
+    "id": 23063,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Plagueheart Raiment": {
+    "category": "tierset",
+    "reagents": {
+      "Plagueheart Circlet": 1,
+      "Plagueheart Shoulderpads": 1,
+      "Plagueheart Robe": 1,
+      "Plagueheart Bindings": 1,
+      "Plagueheart Gloves": 1,
+      "Plagueheart Belt": 1,
+      "Plagueheart Leggings": 1,
+      "Plagueheart Sandals": 1,
+      "Plagueheart Ring": 1
+    }
+  },
+  "Bonescythe Helmet": {
+    "id": 22478,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Helmet": 1,
+      "Wartorn Leather Scrap": 15,
+      "Cured Rugged Hide": 8,
+      "Nexus Crystal": 1
+    },
+    "requiredMoney": 750000
+  },
+  "Bonescythe Pauldrons": {
+    "id": 22479,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Pauldrons": 1,
+      "Wartorn Leather Scrap": 12,
+      "Cured Rugged Hide": 5,
+      "Nexus Crystal": 1
+    },
+    "requiredMoney": 500000
+  },
+  "Bonescythe Breastplate": {
+    "id": 22476,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Breastplate": 1,
+      "Wartorn Leather Scrap": 25,
+      "Arcanite Bar": 2,
+      "Cured Rugged Hide": 6
+    }
+  },
+  "Bonescythe Bracers": {
+    "id": 22483,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Bracers": 1,
+      "Wartorn Leather Scrap": 6,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 2
+    },
+    "requiredMoney": 100000
+  },
+  "Bonescythe Gauntlets": {
+    "id": 22481,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Gauntlets": 1,
+      "Wartorn Leather Scrap": 8,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Bonescythe Waistguard": {
+    "id": 22482,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Waistguard": 1,
+      "Wartorn Leather Scrap": 8,
+      "Cured Rugged Hide": 5,
+      "Nexus Crystal": 1
+    },
+    "requiredMoney": 150000
+  },
+  "Bonescythe Legplates": {
+    "id": 22477,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Legplates": 1,
+      "Wartorn Leather Scrap": 20,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 8
+    },
+    "requiredMoney": 1000000
+  },
+  "Bonescythe Sabatons": {
+    "id": 22480,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Sabatons": 1,
+      "Wartorn Leather Scrap": 12,
+      "Cured Rugged Hide": 3,
+      "Nexus Crystal": 2
+    },
+    "requiredMoney": 250000
+  },
+  "Bonescythe Ring": {
+    "id": 23060,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Bonescythe Armor": {
+    "category": "tierset",
+    "reagents": {
+      "Bonescythe Helmet": 1,
+      "Bonescythe Pauldrons": 1,
+      "Bonescythe Breastplate": 1,
+      "Bonescythe Bracers": 1,
+      "Bonescythe Gauntlets": 1,
+      "Bonescythe Waistguard": 1,
+      "Bonescythe Legplates": 1,
+      "Bonescythe Sabatons": 1,
+      "Bonescythe Ring": 1
+    }
+  },
+  "Dreamwalker Headpiece": {
+    "id": 22490,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Headpiece": 1,
+      "Wartorn Leather Scrap": 15,
+      "Cured Rugged Hide": 6,
+      "Nexus Crystal": 2
+    }
+  },
+  "Dreamwalker Spaulders": {
+    "id": 22491,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Spaulders": 1,
+      "Wartorn Leather Scrap": 12,
+      "Cured Rugged Hide": 5,
+      "Nexus Crystal": 1
+    }
+  },
+  "Dreamwalker Tunic": {
+    "id": 22488,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Tunic": 1,
+      "Wartorn Leather Scrap": 25,
+      "Cured Rugged Hide": 6,
+      "Nexus Crystal": 2
+    }
+  },
+  "Dreamwalker Wristguards": {
+    "id": 22495,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Wristguards": 1,
+      "Wartorn Leather Scrap": 6,
+      "Arcane Crystal": 1,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Dreamwalker Handguards": {
+    "id": 22493,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Handguards": 1,
+      "Wartorn Leather Scrap": 8,
+      "Cured Rugged Hide": 5,
+      "Nexus Crystal": 1
+    }
+  },
+  "Dreamwalker Girdle": {
+    "id": 22494,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Girdle": 1,
+      "Wartorn Leather Scrap": 8,
+      "Mooncloth": 3,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Dreamwalker Legguards": {
+    "id": 22489,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Legguards": 1,
+      "Wartorn Leather Scrap": 20,
+      "Cured Rugged Hide": 8,
+      "Nexus Crystal": 1
+    }
+  },
+  "Dreamwalker Boots": {
+    "id": 22492,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Boots": 1,
+      "Wartorn Leather Scrap": 12,
+      "Mooncloth": 3,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Ring of the Dreamwalker": {
+    "id": 23064,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Dreamwalker Raiment": {
+    "category": "tierset",
+    "reagents": {
+      "Dreamwalker Headpiece": 1,
+      "Dreamwalker Spaulders": 1,
+      "Dreamwalker Tunic": 1,
+      "Dreamwalker Wristguards": 1,
+      "Dreamwalker Handguards": 1,
+      "Dreamwalker Girdle": 1,
+      "Dreamwalker Legguards": 1,
+      "Dreamwalker Boots": 1,
+      "Ring of the Dreamwalker": 1
+    }
+  },
+  "Cryptstalker Headpiece": {
+    "id": 22438,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Headpiece": 1,
+      "Wartorn Chain Scrap": 15,
+      "Arcanite Bar": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Cryptstalker Spaulders": {
+    "id": 22439,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Spaulders": 1,
+      "Wartorn Chain Scrap": 12,
+      "Arcanite Bar": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Cryptstalker Tunic": {
+    "id": 22436,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Tunic": 1,
+      "Wartorn Chain Scrap": 25,
+      "Arcanite Bar": 4,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Cryptstalker Wristguards": {
+    "id": 22443,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Wristguards": 1,
+      "Wartorn Chain Scrap": 6,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Cryptstalker Handguards": {
+    "id": 22441,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Handguards": 1,
+      "Wartorn Chain Scrap": 8,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Cryptstalker Girdle": {
+    "id": 22442,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Girdle": 1,
+      "Wartorn Chain Scrap": 8,
+      "Arcanite Bar": 1,
+      "Nexus Crystal": 3
+    }
+  },
+  "Cryptstalker Legguards": {
+    "id": 22437,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Legguards": 1,
+      "Wartorn Chain Scrap": 20,
+      "Arcanite Bar": 3,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Cryptstalker Boots": {
+    "id": 22440,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Boots": 1,
+      "Wartorn Chain Scrap": 12,
+      "Arcanite Bar": 1,
+      "Nexus Crystal": 3
+    }
+  },
+  "Ring of the Cryptstalker": {
+    "id": 23067,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Cryptstalker Armor": {
+    "category": "tierset",
+    "reagents": {
+      "Cryptstalker Headpiece": 1,
+      "Cryptstalker Spaulders": 1,
+      "Cryptstalker Tunic": 1,
+      "Cryptstalker Wristguards": 1,
+      "Cryptstalker Handguards": 1,
+      "Cryptstalker Girdle": 1,
+      "Cryptstalker Legguards": 1,
+      "Cryptstalker Boots": 1,
+      "Ring of the Cryptstalker": 1
+    }
+  },
+  "Earthshatter Headpiece": {
+    "id": 22466,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Headpiece": 1,
+      "Wartorn Chain Scrap": 15,
+      "Arcanite Bar": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Earthshatter Spaulders": {
+    "id": 22467,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Spaulders": 1,
+      "Wartorn Chain Scrap": 12,
+      "Arcanite Bar": 2,
+      "Mooncloth": 2
+    }
+  },
+  "Earthshatter Tunic": {
+    "id": 22464,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Tunic": 1,
+      "Wartorn Chain Scrap": 25,
+      "Arcanite Bar": 4,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Earthshatter Wristguards": {
+    "id": 22471,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Wristguards": 1,
+      "Wartorn Chain Scrap": 6,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Earthshatter Handguards": {
+    "id": 22469,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Handguards": 1,
+      "Wartorn Chain Scrap": 8,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Earthshatter Girdle": {
+    "id": 22470,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Girdle": 1,
+      "Wartorn Chain Scrap": 8,
+      "Arcanite Bar": 1,
+      "Nexus Crystal": 3
+    }
+  },
+  "Earthshatter Legguards": {
+    "id": 22465,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Legguards": 1,
+      "Wartorn Chain Scrap": 20,
+      "Arcanite Bar": 3,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Earthshatter Boots": {
+    "id": 22468,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Boots": 1,
+      "Wartorn Chain Scrap": 12,
+      "Arcanite Bar": 1,
+      "Nexus Crystal": 3
+    }
+  },
+  "Ring of the Earthshatterer": {
+    "id": 23065,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "The Earthshatterer": {
+    "category": "tierset",
+    "reagents": {
+      "Earthshatter Headpiece": 1,
+      "Earthshatter Spaulders": 1,
+      "Earthshatter Tunic": 1,
+      "Earthshatter Wristguards": 1,
+      "Earthshatter Handguards": 1,
+      "Earthshatter Girdle": 1,
+      "Earthshatter Legguards": 1,
+      "Earthshatter Boots": 1,
+      "Ring of the Earthshatterer": 1
+    }
+  },
+  "Dreadnaught Helmet": {
+    "id": 22418,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Helmet": 1,
+      "Wartorn Plate Scrap": 15,
+      "Arcanite Bar": 5,
+      "Nexus Crystal": 1
+    }
+  },
+  "Dreadnaught Pauldrons": {
+    "id": 22419,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Pauldrons": 1,
+      "Wartorn Plate Scrap": 12,
+      "Arcanite Bar": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Dreadnaught Breastplate": {
+    "id": 22416,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Breastplate": 1,
+      "Wartorn Plate Scrap": 25,
+      "Arcanite Bar": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Dreadnaught Bracers": {
+    "id": 22423,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Bracers": 1,
+      "Wartorn Plate Scrap": 6,
+      "Arcanite Bar": 1,
+      "Nexus Crystal": 1
+    }
+  },
+  "Dreadnaught Gauntlets": {
+    "id": 22421,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Gauntlets": 1,
+      "Wartorn Plate Scrap": 8,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Dreadnaught Waistguard": {
+    "id": 22422,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Waistguard": 1,
+      "Wartorn Plate Scrap": 8,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Dreadnaught Legplates": {
+    "id": 22417,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Legplates": 1,
+      "Wartorn Plate Scrap": 20,
+      "Arcanite Bar": 4,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Dreadnaught Sabatons": {
+    "id": 22420,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Sabatons": 1,
+      "Wartorn Plate Scrap": 12,
+      "Arcanite Bar": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Ring of the Dreadnaught": {
+    "id": 23059,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Dreadnaught's Battlegear": {
+    "category": "tierset",
+    "reagents": {
+      "Dreadnaught Helmet": 1,
+      "Dreadnaught Pauldrons": 1,
+      "Dreadnaught Breastplate": 1,
+      "Dreadnaught Bracers": 1,
+      "Dreadnaught Gauntlets": 1,
+      "Dreadnaught Waistguard": 1,
+      "Dreadnaught Legplates": 1,
+      "Dreadnaught Sabatons": 1,
+      "Ring of the Dreadnaught": 1
+    }
+  },
+  "Redemption Headpiece": {
+    "id": 22428,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Headpiece": 1,
+      "Wartorn Plate Scrap": 15,
+      "Arcanite Bar": 5,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Redemption Spaulders": {
+    "id": 22429,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Spaulders": 1,
+      "Wartorn Plate Scrap": 12,
+      "Arcanite Bar": 2,
+      "Nexus Crystal": 2
+    }
+  },
+  "Redemption Tunic": {
+    "id": 22425,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Tunic": 1,
+      "Wartorn Plate Scrap": 25,
+      "Arcanite Bar": 4,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Redemption Wristguards": {
+    "id": 22424,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Wristguards": 1,
+      "Wartorn Plate Scrap": 6,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Redemption Handguards": {
+    "id": 22426,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Handguards": 1,
+      "Wartorn Plate Scrap": 8,
+      "Arcanite Bar": 1,
+      "Cured Rugged Hide": 5
+    }
+  },
+  "Redemption Girdle": {
+    "id": 22431,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Girdle": 1,
+      "Wartorn Plate Scrap": 8,
+      "Arcanite Bar": 1,
+      "Nexus Crystal": 3
+    }
+  },
+  "Redemption Legguards": {
+    "id": 22427,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Legguards": 1,
+      "Wartorn Plate Scrap": 20,
+      "Arcanite Bar": 4,
+      "Nexus Crystal": 2
+    }
+  },
+  "Redemption Boots": {
+    "id": 22430,
+    "quality": 4,
+    "category": "tierset",
+    "reagents": {
+      "Desecrated Boots": 1,
+      "Wartorn Plate Scrap": 12,
+      "Arcanite Bar": 2,
+      "Cured Rugged Hide": 3
+    }
+  },
+  "Ring of Redemption": {
+    "id": 23066,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Redemption Armor": {
+    "category": "tierset",
+    "reagents": {
+      "Redemption Headpiece": 1,
+      "Redemption Spaulders": 1,
+      "Redemption Tunic": 1,
+      "Redemption Wristguards": 1,
+      "Redemption Handguards": 1,
+      "Redemption Girdle": 1,
+      "Redemption Legguards": 1,
+      "Redemption Boots": 1,
+      "Ring of Redemption": 1
+    }
+  },
+  "Logistics Task I": {
+    "category": "quest",
+    "reagents": {
+      "Globe of Water": 4,
+      "Powerful Anti-Venom": 4,
+      "Smoked Desert Dumplings": 4
+    }
+  },
+  "Logistics Task II": {
+    "category": "quest",
+    "reagents": {
+      "Ornate Mithril Boots": 3
+    }
+  },
+  "Logistics Task III": {
+    "category": "quest",
+    "reagents": {
+      "Dense Grinding Stone": 10,
+      "Solid Grinding Stone": 10,
+      "Heavy Grinding Stone": 10
+    }
+  },
+  "Logistics Task IV": {
+    "category": "quest",
+    "reagents": {
+      "Oil of Immolation": 6,
+      "Goblin Rocket Fuel": 5,
+      "Dense Blasting Powder": 10
+    }
+  },
+  "Logistics Task V": {
+    "category": "quest",
+    "reagents": {
+      "Large Brilliant Shard": 1,
+      "Large Radiant Shard": 1,
+      "Huge Emerald": 1
+    }
+  },
+  "Logistics Task VI": {
+    "category": "quest",
+    "reagents": {
+      "Moonsteel Broadsword": 2
+    }
+  },
+  "Logistics Task VII": {
+    "category": "quest",
+    "reagents": {
+      "Rugged Armor Kit": 8,
+      "Heavy Armor Kit": 8
+    }
+  },
+  "Logistics Task VIII": {
+    "category": "quest",
+    "reagents": {
+      "Mooncloth": 1,
+      "Bolt of Runecloth": 2,
+      "Ironweb Spider Silk": 1
+    }
+  },
+  "Logistics Task IX": {
+    "category": "quest",
+    "reagents": {
+      "Enchanted Thorium Bar": 2,
+      "Enchanted Leather": 2
+    }
+  },
+  "Logistics Task X": {
+    "category": "quest",
+    "reagents": {
+      "Heavy Runecloth Bandage": 30,
+      "Heavy Mageweave Bandage": 30,
+      "Heavy Silk Bandage": 30
+    }
+  },
+  "Frayed Abomination Stitching": {
+    "id": 12735,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Twilight Cultist Robe": {
+    "id": 20407,
+    "quality": 2
+  },
+  "Logistics Task XI": {
+    "category": "quest",
+    "reagents": {
+      "Skin of Shadow": 1,
+      "Frayed Abomination Stitching": 3,
+      "Twilight Cultist Robe": 1
+    }
+  },
+  "Logistics Tasks": {
+    "category": "quest",
+    "reagents": {
+      "Logistics Task I": 0,
+      "Logistics Task II": 0,
+      "Logistics Task III": 0,
+      "Logistics Task IV": 0,
+      "Logistics Task V": 0,
+      "Logistics Task VI": 0,
+      "Logistics Task VII": 0,
+      "Logistics Task VIII": 0,
+      "Logistics Task IX": 0,
+      "Logistics Task X": 0
+    }
+  }
+}

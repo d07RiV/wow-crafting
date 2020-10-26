@@ -1,0 +1,3251 @@
+{
+  "Rough Stone": {
+    "id": 2835,
+    "quality": 1
+  },
+  "Rough Sharpening Stone": {
+    "id": 2862,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rough Stone": 1
+    }
+  },
+  "Copper Bar": {
+    "id": 2840,
+    "quality": 1
+  },
+  "Copper Chain Belt": {
+    "id": 2851,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 6
+    }
+  },
+  "Copper Chain Pants": {
+    "id": 2852,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 4
+    }
+  },
+  "Copper Bracers": {
+    "id": 2853,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 2
+    }
+  },
+  "Rough Grinding Stone": {
+    "id": 3470,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rough Stone": 2
+    }
+  },
+  "Runed Copper Bracers": {
+    "id": 2854,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 10,
+      "Rough Grinding Stone": 3
+    }
+  },
+  "Coarse Stone": {
+    "id": 2836,
+    "quality": 1
+  },
+  "Coarse Sharpening Stone": {
+    "id": 2863,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Coarse Stone": 1
+    }
+  },
+  "Runed Copper Belt": {
+    "id": 2857,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 10
+    }
+  },
+  "Shadowgem": {
+    "id": 1210,
+    "quality": 2
+  },
+  "Runed Copper Breastplate": {
+    "id": 2864,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 12,
+      "Shadowgem": 1,
+      "Rough Grinding Stone": 2
+    }
+  },
+  "Bronze Bar": {
+    "id": 2841,
+    "quality": 1
+  },
+  "Rough Bronze Leggings": {
+    "id": 2865,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 6
+    }
+  },
+  "Rough Bronze Cuirass": {
+    "id": 2866,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 7
+    }
+  },
+  "Coarse Grinding Stone": {
+    "id": 3478,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Coarse Stone": 2
+    }
+  },
+  "Patterned Bronze Bracers": {
+    "id": 2868,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 5,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Heavy Stone": {
+    "id": 2838,
+    "quality": 1
+  },
+  "Heavy Sharpening Stone": {
+    "id": 2871,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Stone": 1
+    }
+  },
+  "Moss Agate": {
+    "id": 1206,
+    "quality": 2
+  },
+  "Lesser Moonstone": {
+    "id": 1705,
+    "quality": 2
+  },
+  "Iridescent Pearl": {
+    "id": 5500,
+    "quality": 2
+  },
+  "Silver Bar": {
+    "id": 2842,
+    "quality": 2
+  },
+  "Shining Silver Breastplate": {
+    "id": 2870,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 20,
+      "Moss Agate": 2,
+      "Lesser Moonstone": 2,
+      "Iridescent Pearl": 2,
+      "Silver Bar": 4
+    }
+  },
+  "Weak Flux": {
+    "id": 2880,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Linen Cloth": {
+    "id": 2589,
+    "quality": 1
+  },
+  "Copper Mace": {
+    "id": 2844,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 6,
+      "Weak Flux": 1,
+      "Linen Cloth": 2
+    }
+  },
+  "Medium Leather": {
+    "id": 2319,
+    "quality": 1
+  },
+  "Bronze Mace": {
+    "id": 2848,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 6,
+      "Weak Flux": 4,
+      "Medium Leather": 1
+    }
+  },
+  "Bronze Axe": {
+    "id": 2849,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 7,
+      "Weak Flux": 4,
+      "Medium Leather": 1
+    }
+  },
+  "Copper Axe": {
+    "id": 2845,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 6,
+      "Weak Flux": 1,
+      "Linen Cloth": 2
+    }
+  },
+  "Copper Shortsword": {
+    "id": 2847,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 6,
+      "Weak Flux": 1,
+      "Linen Cloth": 2
+    }
+  },
+  "Bronze Shortsword": {
+    "id": 2850,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 5,
+      "Weak Flux": 4,
+      "Medium Leather": 2
+    }
+  },
+  "Rough Weightstone": {
+    "id": 3239,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rough Stone": 1,
+      "Linen Cloth": 1
+    }
+  },
+  "Wool Cloth": {
+    "id": 2592,
+    "quality": 1
+  },
+  "Heavy Weightstone": {
+    "id": 3241,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Stone": 1,
+      "Wool Cloth": 1
+    }
+  },
+  "Coarse Weightstone": {
+    "id": 3240,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Coarse Stone": 1,
+      "Wool Cloth": 1
+    }
+  },
+  "Tigerseye": {
+    "id": 818,
+    "quality": 2
+  },
+  "Heavy Copper Broadsword": {
+    "id": 3487,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 14,
+      "Weak Flux": 2,
+      "Tigerseye": 2,
+      "Medium Leather": 2
+    }
+  },
+  "Malachite": {
+    "id": 774,
+    "quality": 2
+  },
+  "Light Leather": {
+    "id": 2318,
+    "quality": 1
+  },
+  "Copper Battle Axe": {
+    "id": 3488,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 12,
+      "Weak Flux": 2,
+      "Malachite": 2,
+      "Rough Grinding Stone": 2,
+      "Light Leather": 2
+    }
+  },
+  "Thick War Axe": {
+    "id": 3489,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 10,
+      "Weak Flux": 2,
+      "Silver Bar": 2,
+      "Rough Grinding Stone": 2,
+      "Light Leather": 2
+    }
+  },
+  "Strong Flux": {
+    "id": 3466,
+    "quality": 1,
+    "vendor": 2000
+  },
+  "Swiftness Potion": {
+    "id": 2459,
+    "quality": 1
+  },
+  "Deadly Bronze Poniard": {
+    "id": 3490,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 4,
+      "Strong Flux": 1,
+      "Swiftness Potion": 1,
+      "Shadowgem": 2,
+      "Coarse Grinding Stone": 2,
+      "Medium Leather": 2
+    }
+  },
+  "Heavy Bronze Mace": {
+    "id": 3491,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 8,
+      "Strong Flux": 1,
+      "Moss Agate": 1,
+      "Shadowgem": 1,
+      "Coarse Grinding Stone": 2,
+      "Medium Leather": 2
+    }
+  },
+  "Iron Bar": {
+    "id": 3575,
+    "quality": 1
+  },
+  "Elixir of Ogre's Strength": {
+    "id": 3391,
+    "quality": 1
+  },
+  "Mighty Iron Hammer": {
+    "id": 3492,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 6,
+      "Strong Flux": 2,
+      "Elixir of Ogre's Strength": 1,
+      "Lesser Moonstone": 2,
+      "Coarse Grinding Stone": 2,
+      "Medium Leather": 2
+    }
+  },
+  "Copper Chain Boots": {
+    "id": 3469,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 8
+    }
+  },
+  "Copper Chain Vest": {
+    "id": 3471,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 8,
+      "Malachite": 1,
+      "Rough Grinding Stone": 2
+    }
+  },
+  "Runed Copper Gauntlets": {
+    "id": 3472,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 8,
+      "Rough Grinding Stone": 2
+    }
+  },
+  "Fine Thread": {
+    "id": 2321,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Runed Copper Pants": {
+    "id": 3473,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 8,
+      "Fine Thread": 2,
+      "Rough Grinding Stone": 3
+    }
+  },
+  "Gemmed Copper Gauntlets": {
+    "id": 3474,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 8,
+      "Tigerseye": 1,
+      "Malachite": 1
+    }
+  },
+  "Rough Bronze Shoulders": {
+    "id": 3480,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 5,
+      "Shadowgem": 1,
+      "Coarse Grinding Stone": 1
+    }
+  },
+  "Silvered Bronze Shoulders": {
+    "id": 3481,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 8,
+      "Silver Bar": 2,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Silvered Bronze Boots": {
+    "id": 3482,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 6,
+      "Silver Bar": 1,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Silvered Bronze Gauntlets": {
+    "id": 3483,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 8,
+      "Silver Bar": 1,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Green Dye": {
+    "id": 2605,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Green Iron Boots": {
+    "id": 3484,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 4,
+      "Lesser Moonstone": 2,
+      "Coarse Grinding Stone": 2,
+      "Green Dye": 1
+    }
+  },
+  "Small Lustrous Pearl": {
+    "id": 5498,
+    "quality": 2
+  },
+  "Green Iron Gauntlets": {
+    "id": 3485,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 4,
+      "Small Lustrous Pearl": 2,
+      "Coarse Grinding Stone": 2,
+      "Green Dye": 1
+    }
+  },
+  "Heavy Grinding Stone": {
+    "id": 3486,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Stone": 3
+    }
+  },
+  "Big Bronze Knife": {
+    "id": 3848,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 6,
+      "Weak Flux": 4,
+      "Rough Grinding Stone": 2,
+      "Tigerseye": 1,
+      "Medium Leather": 1
+    }
+  },
+  "Heavy Leather": {
+    "id": 4234,
+    "quality": 1
+  },
+  "Hardened Iron Shortsword": {
+    "id": 3849,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 6,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 1,
+      "Lesser Moonstone": 2,
+      "Heavy Leather": 3
+    }
+  },
+  "Jade": {
+    "id": 1529,
+    "quality": 2
+  },
+  "Jade Serpentblade": {
+    "id": 3850,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 8,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 2,
+      "Jade": 2,
+      "Heavy Leather": 3
+    }
+  },
+  "Solid Iron Maul": {
+    "id": 3851,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 8,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 1,
+      "Silver Bar": 4,
+      "Heavy Leather": 2
+    }
+  },
+  "Gold Bar": {
+    "id": 3577,
+    "quality": 2
+  },
+  "Golden Iron Destroyer": {
+    "id": 3852,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 10,
+      "Gold Bar": 4,
+      "Lesser Moonstone": 2,
+      "Strong Flux": 2,
+      "Heavy Leather": 2,
+      "Heavy Grinding Stone": 2
+    }
+  },
+  "Steel Bar": {
+    "id": 3859,
+    "quality": 1
+  },
+  "Moonsteel Broadsword": {
+    "id": 3853,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 8,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 2,
+      "Lesser Moonstone": 3,
+      "Heavy Leather": 3
+    }
+  },
+  "Frost Oil": {
+    "id": 3829,
+    "quality": 1
+  },
+  "Frost Tiger Blade": {
+    "id": 3854,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 8,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 2,
+      "Jade": 2,
+      "Frost Oil": 1,
+      "Heavy Leather": 4
+    }
+  },
+  "Massive Iron Axe": {
+    "id": 3855,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 14,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 2,
+      "Gold Bar": 4,
+      "Heavy Leather": 2
+    }
+  },
+  "Citrine": {
+    "id": 3864,
+    "quality": 2
+  },
+  "Shadow Oil": {
+    "id": 3824,
+    "quality": 1
+  },
+  "Shadow Crescent Axe": {
+    "id": 3856,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 10,
+      "Strong Flux": 2,
+      "Heavy Grinding Stone": 3,
+      "Citrine": 2,
+      "Shadow Oil": 1,
+      "Heavy Leather": 3
+    }
+  },
+  "Green Iron Bracers": {
+    "id": 3835,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 6,
+      "Green Dye": 1
+    }
+  },
+  "Green Iron Helm": {
+    "id": 3836,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 12,
+      "Citrine": 1,
+      "Green Dye": 1
+    }
+  },
+  "Golden Scale Coif": {
+    "id": 3837,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 8,
+      "Gold Bar": 2,
+      "Heavy Grinding Stone": 2
+    }
+  },
+  "Green Iron Shoulders": {
+    "id": 3840,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 7,
+      "Heavy Grinding Stone": 1,
+      "Green Dye": 1
+    }
+  },
+  "Golden Scale Shoulders": {
+    "id": 3841,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 6,
+      "Gold Bar": 2,
+      "Heavy Grinding Stone": 1
+    }
+  },
+  "Green Iron Leggings": {
+    "id": 3842,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 8,
+      "Heavy Grinding Stone": 1,
+      "Green Dye": 1
+    }
+  },
+  "Golden Scale Leggings": {
+    "id": 3843,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 10,
+      "Gold Bar": 2,
+      "Heavy Grinding Stone": 1
+    }
+  },
+  "Green Leather Armor": {
+    "id": 4255,
+    "quality": 2
+  },
+  "Green Iron Hauberk": {
+    "id": 3844,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 20,
+      "Heavy Grinding Stone": 4,
+      "Jade": 2,
+      "Moss Agate": 2,
+      "Green Leather Armor": 1
+    }
+  },
+  "Golden Scale Cuirass": {
+    "id": 3845,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 12,
+      "Gold Bar": 2,
+      "Heavy Grinding Stone": 4,
+      "Jade": 2
+    }
+  },
+  "Polished Steel Boots": {
+    "id": 3846,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 8,
+      "Citrine": 1,
+      "Lesser Moonstone": 1,
+      "Heavy Grinding Stone": 2
+    }
+  },
+  "Golden Scale Boots": {
+    "id": 3847,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 10,
+      "Gold Bar": 4,
+      "Heavy Grinding Stone": 4,
+      "Citrine": 1
+    }
+  },
+  "Iridescent Hammer": {
+    "id": 5541,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 10,
+      "Strong Flux": 1,
+      "Iridescent Pearl": 1,
+      "Coarse Grinding Stone": 2,
+      "Medium Leather": 2
+    }
+  },
+  "Pearl-handled Dagger": {
+    "id": 5540,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 6,
+      "Strong Flux": 1,
+      "Small Lustrous Pearl": 2,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Rough Bronze Bracers": {
+    "id": 2867,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 4
+    }
+  },
+  "Silvered Bronze Breastplate": {
+    "id": 2869,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 10,
+      "Silver Bar": 2,
+      "Coarse Grinding Stone": 2,
+      "Lesser Moonstone": 1
+    }
+  },
+  "Steel Weapon Chain": {
+    "id": 6041,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 8,
+      "Heavy Grinding Stone": 2,
+      "Heavy Leather": 4
+    }
+  },
+  "Golden Scale Bracers": {
+    "id": 6040,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 5,
+      "Heavy Grinding Stone": 2
+    }
+  },
+  "Iron Shield Spike": {
+    "id": 6042,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 6,
+      "Coarse Grinding Stone": 4
+    }
+  },
+  "Iron Counterweight": {
+    "id": 6043,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 4,
+      "Coarse Grinding Stone": 2,
+      "Lesser Moonstone": 1
+    }
+  },
+  "Heavy Copper Maul": {
+    "id": 6214,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 12,
+      "Weak Flux": 2,
+      "Light Leather": 2
+    }
+  },
+  "Rough Bronze Boots": {
+    "id": 6350,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 6,
+      "Rough Grinding Stone": 6
+    }
+  },
+  "Silver Rod": {
+    "id": 6338,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Silver Bar": 1,
+      "Rough Grinding Stone": 2
+    }
+  },
+  "Ironforge Chain": {
+    "id": 6730,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 12,
+      "Malachite": 2,
+      "Rough Grinding Stone": 2
+    }
+  },
+  "Ironforge Breastplate": {
+    "id": 6731,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 16,
+      "Tigerseye": 2,
+      "Rough Grinding Stone": 3
+    }
+  },
+  "Ironforge Gauntlets": {
+    "id": 6733,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 8,
+      "Shadowgem": 3,
+      "Coarse Grinding Stone": 4
+    }
+  },
+  "Iron Buckle": {
+    "id": 7071,
+    "quality": 1,
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Iron Bar": 1
+    }
+  },
+  "Copper Dagger": {
+    "id": 7166,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 6,
+      "Weak Flux": 1,
+      "Rough Grinding Stone": 1,
+      "Light Leather": 1
+    }
+  },
+  "Sharp Claw": {
+    "id": 5635,
+    "quality": 1
+  },
+  "Barbaric Iron Shoulders": {
+    "id": 7913,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 8,
+      "Sharp Claw": 4,
+      "Shadowgem": 2,
+      "Heavy Grinding Stone": 2
+    }
+  },
+  "Barbaric Iron Breastplate": {
+    "id": 7914,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 20,
+      "Heavy Grinding Stone": 4
+    }
+  },
+  "Large Fang": {
+    "id": 5637,
+    "quality": 1
+  },
+  "Barbaric Iron Helm": {
+    "id": 7915,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 10,
+      "Large Fang": 2,
+      "Sharp Claw": 2
+    }
+  },
+  "Barbaric Iron Boots": {
+    "id": 7916,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 12,
+      "Large Fang": 4,
+      "Tigerseye": 4,
+      "Heavy Grinding Stone": 2
+    }
+  },
+  "Barbaric Iron Gloves": {
+    "id": 7917,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Iron Bar": 14,
+      "Heavy Grinding Stone": 3,
+      "Large Fang": 2
+    }
+  },
+  "Steel Breastplate": {
+    "id": 7963,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 16,
+      "Heavy Grinding Stone": 3
+    }
+  },
+  "Solid Stone": {
+    "id": 7912,
+    "quality": 1
+  },
+  "Solid Sharpening Stone": {
+    "id": 7964,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Solid Stone": 1
+    }
+  },
+  "Silk Cloth": {
+    "id": 4306,
+    "quality": 1
+  },
+  "Solid Weightstone": {
+    "id": 7965,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Solid Stone": 1,
+      "Silk Cloth": 1
+    }
+  },
+  "Solid Grinding Stone": {
+    "id": 7966,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Solid Stone": 4
+    }
+  },
+  "Mithril Bar": {
+    "id": 3860,
+    "quality": 1
+  },
+  "Heavy Mithril Shoulder": {
+    "id": 7918,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Heavy Leather": 6
+    }
+  },
+  "Mageweave Cloth": {
+    "id": 4338,
+    "quality": 1
+  },
+  "Heavy Mithril Gauntlet": {
+    "id": 7919,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 6,
+      "Mageweave Cloth": 4
+    }
+  },
+  "Mithril Scale Pants": {
+    "id": 7920,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12
+    }
+  },
+  "Heavy Mithril Pants": {
+    "id": 7921,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 10,
+      "Lesser Moonstone": 2
+    }
+  },
+  "Steel Plate Helm": {
+    "id": 7922,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 14,
+      "Solid Grinding Stone": 1
+    }
+  },
+  "Mithril Scale Bracers": {
+    "id": 7924,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Citrine": 2
+    }
+  },
+  "Truesilver Bar": {
+    "id": 6037,
+    "quality": 2
+  },
+  "Mithril Shield Spike": {
+    "id": 7967,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 4,
+      "Truesilver Bar": 2,
+      "Solid Grinding Stone": 4
+    }
+  },
+  "Mithril Scale Gloves": {
+    "id": 7925,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Heavy Leather": 6,
+      "Mageweave Cloth": 4
+    }
+  },
+  "Aquamarine": {
+    "id": 7909,
+    "quality": 2
+  },
+  "Ornate Mithril Pants": {
+    "id": 7926,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Truesilver Bar": 1,
+      "Solid Grinding Stone": 1,
+      "Aquamarine": 1
+    }
+  },
+  "Ornate Mithril Gloves": {
+    "id": 7927,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 10,
+      "Mageweave Cloth": 6,
+      "Truesilver Bar": 1,
+      "Solid Grinding Stone": 1
+    }
+  },
+  "Thick Leather": {
+    "id": 4304,
+    "quality": 1
+  },
+  "Ornate Mithril Shoulder": {
+    "id": 7928,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Truesilver Bar": 1,
+      "Thick Leather": 6
+    }
+  },
+  "Guardian Gloves": {
+    "id": 5966,
+    "quality": 1
+  },
+  "Truesilver Gauntlets": {
+    "id": 7938,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 10,
+      "Truesilver Bar": 8,
+      "Aquamarine": 3,
+      "Citrine": 3,
+      "Guardian Gloves": 1,
+      "Solid Grinding Stone": 2
+    }
+  },
+  "Elemental Earth": {
+    "id": 7067,
+    "quality": 1
+  },
+  "Orcish War Leggings": {
+    "id": 7929,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Elemental Earth": 1
+    }
+  },
+  "Heavy Mithril Breastplate": {
+    "id": 7930,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 16
+    }
+  },
+  "Mithril Coif": {
+    "id": 7931,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 10,
+      "Mageweave Cloth": 6
+    }
+  },
+  "Mithril Spurs": {
+    "id": 7969,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 4,
+      "Solid Grinding Stone": 3
+    }
+  },
+  "Mithril Scale Shoulders": {
+    "id": 7932,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Thick Leather": 4,
+      "Citrine": 4
+    }
+  },
+  "Heavy Mithril Boots": {
+    "id": 7933,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Thick Leather": 4
+    }
+  },
+  "Heavy Mithril Helm": {
+    "id": 7934,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Aquamarine": 1
+    }
+  },
+  "Heart of Fire": {
+    "id": 7077,
+    "quality": 1
+  },
+  "Ornate Mithril Breastplate": {
+    "id": 7935,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 16,
+      "Truesilver Bar": 6,
+      "Heart of Fire": 1,
+      "Solid Grinding Stone": 1
+    }
+  },
+  "Star Ruby": {
+    "id": 7910,
+    "quality": 2
+  },
+  "Black Pearl": {
+    "id": 7971,
+    "quality": 2
+  },
+  "Truesilver Breastplate": {
+    "id": 7939,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Truesilver Bar": 24,
+      "Star Ruby": 4,
+      "Black Pearl": 4,
+      "Solid Grinding Stone": 2
+    }
+  },
+  "Ornate Mithril Boots": {
+    "id": 7936,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Truesilver Bar": 2,
+      "Thick Leather": 4,
+      "Solid Grinding Stone": 1,
+      "Aquamarine": 1
+    }
+  },
+  "Ornate Mithril Helm": {
+    "id": 7937,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 16,
+      "Truesilver Bar": 2,
+      "Black Pearl": 1,
+      "Solid Grinding Stone": 1
+    }
+  },
+  "Copper Claymore": {
+    "id": 7955,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 10,
+      "Weak Flux": 2,
+      "Rough Grinding Stone": 1,
+      "Light Leather": 1
+    }
+  },
+  "Bronze Warhammer": {
+    "id": 7956,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 8,
+      "Strong Flux": 1,
+      "Medium Leather": 1
+    }
+  },
+  "Bronze Greatsword": {
+    "id": 7957,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 12,
+      "Strong Flux": 2,
+      "Medium Leather": 2
+    }
+  },
+  "Bronze Battle Axe": {
+    "id": 7958,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 14,
+      "Strong Flux": 1,
+      "Medium Leather": 2
+    }
+  },
+  "Heavy Mithril Axe": {
+    "id": 7941,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Citrine": 2,
+      "Solid Grinding Stone": 1,
+      "Heavy Leather": 4
+    }
+  },
+  "Blue Glittering Axe": {
+    "id": 7942,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 16,
+      "Aquamarine": 2,
+      "Solid Grinding Stone": 1,
+      "Thick Leather": 4
+    }
+  },
+  "Wicked Mithril Blade": {
+    "id": 7943,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Truesilver Bar": 4,
+      "Solid Grinding Stone": 1,
+      "Thick Leather": 2
+    }
+  },
+  "Big Black Mace": {
+    "id": 7945,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 16,
+      "Black Pearl": 1,
+      "Shadowgem": 4,
+      "Solid Grinding Stone": 1,
+      "Thick Leather": 2
+    }
+  },
+  "Core of Earth": {
+    "id": 7075,
+    "quality": 1
+  },
+  "The Shatterer": {
+    "id": 7954,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 24,
+      "Core of Earth": 4,
+      "Truesilver Bar": 6,
+      "Citrine": 5,
+      "Jade": 5,
+      "Solid Grinding Stone": 4,
+      "Thick Leather": 4
+    }
+  },
+  "Dazzling Mithril Rapier": {
+    "id": 7944,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Aquamarine": 1,
+      "Lesser Moonstone": 2,
+      "Moss Agate": 2,
+      "Solid Grinding Stone": 1,
+      "Mageweave Cloth": 2
+    }
+  },
+  "Breath of Wind": {
+    "id": 7081,
+    "quality": 1
+  },
+  "Lesser Invisibility Potion": {
+    "id": 3823,
+    "quality": 1
+  },
+  "Phantom Blade": {
+    "id": 7961,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 28,
+      "Breath of Wind": 6,
+      "Truesilver Bar": 8,
+      "Lesser Invisibility Potion": 2,
+      "Aquamarine": 6,
+      "Solid Grinding Stone": 4,
+      "Thick Leather": 2
+    }
+  },
+  "Runed Mithril Hammer": {
+    "id": 7946,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 18,
+      "Core of Earth": 2,
+      "Solid Grinding Stone": 1,
+      "Thick Leather": 4
+    }
+  },
+  "Ichor of Undeath": {
+    "id": 7972,
+    "quality": 1
+  },
+  "Blight": {
+    "id": 7959,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 28,
+      "Ichor of Undeath": 10,
+      "Truesilver Bar": 10,
+      "Solid Grinding Stone": 6,
+      "Thick Leather": 6
+    }
+  },
+  "Ebon Shiv": {
+    "id": 7947,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Truesilver Bar": 6,
+      "Star Ruby": 2,
+      "Solid Grinding Stone": 1,
+      "Thick Leather": 2
+    }
+  },
+  "Truesilver Champion": {
+    "id": 7960,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 30,
+      "Truesilver Bar": 16,
+      "Star Ruby": 6,
+      "Breath of Wind": 4,
+      "Solid Grinding Stone": 8,
+      "Thick Leather": 6
+    }
+  },
+  "Golden Scale Gauntlets": {
+    "id": 9366,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 10,
+      "Gold Bar": 4,
+      "Heavy Grinding Stone": 4,
+      "Citrine": 1
+    }
+  },
+  "Rough Copper Vest": {
+    "id": 10421,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Bar": 4
+    }
+  },
+  "Silvered Bronze Leggings": {
+    "id": 10423,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bronze Bar": 12,
+      "Silver Bar": 4,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Inlaid Mithril Cylinder": {
+    "id": 9060,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 5,
+      "Gold Bar": 1,
+      "Truesilver Bar": 1
+    }
+  },
+  "Golden Rod": {
+    "id": 11128,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Gold Bar": 1,
+      "Coarse Grinding Stone": 2
+    }
+  },
+  "Truesilver Rod": {
+    "id": 11144,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Truesilver Bar": 1,
+      "Heavy Grinding Stone": 1
+    }
+  },
+  "Dark Iron Bar": {
+    "id": 11371,
+    "quality": 1
+  },
+  "Dark Iron Plate": {
+    "id": 11604,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 20,
+      "Heart of Fire": 8
+    }
+  },
+  "Dark Iron Mail": {
+    "id": 11606,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 10,
+      "Heart of Fire": 2
+    }
+  },
+  "Dark Iron Pulverizer": {
+    "id": 11608,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 18,
+      "Heart of Fire": 4
+    }
+  },
+  "Dark Iron Sunderer": {
+    "id": 11607,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 26,
+      "Heart of Fire": 4
+    }
+  },
+  "Dark Iron Shoulders": {
+    "id": 11605,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 6,
+      "Heart of Fire": 1
+    }
+  },
+  "Glinting Steel Dagger": {
+    "id": 12259,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 10,
+      "Strong Flux": 2,
+      "Moss Agate": 1,
+      "Elemental Earth": 1,
+      "Heavy Leather": 1
+    }
+  },
+  "Elemental Fire": {
+    "id": 7068,
+    "quality": 1
+  },
+  "Searing Golden Blade": {
+    "id": 12260,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 10,
+      "Gold Bar": 4,
+      "Elemental Fire": 2,
+      "Heavy Leather": 2
+    }
+  },
+  "Dense Stone": {
+    "id": 12365,
+    "quality": 1
+  },
+  "Dense Sharpening Stone": {
+    "id": 12404,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dense Stone": 1
+    }
+  },
+  "Runecloth": {
+    "id": 14047,
+    "quality": 1
+  },
+  "Dense Weightstone": {
+    "id": 12643,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dense Stone": 1,
+      "Runecloth": 1
+    }
+  },
+  "Dense Grinding Stone": {
+    "id": 12644,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dense Stone": 4
+    }
+  },
+  "Thorium Bar": {
+    "id": 12359,
+    "quality": 1
+  },
+  "Blue Sapphire": {
+    "id": 12361,
+    "quality": 2
+  },
+  "Yellow Power Crystal": {
+    "id": 11188,
+    "quality": 1
+  },
+  "Thorium Armor": {
+    "id": 12405,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 16,
+      "Blue Sapphire": 1,
+      "Yellow Power Crystal": 4
+    }
+  },
+  "Red Power Crystal": {
+    "id": 11186,
+    "quality": 1
+  },
+  "Thorium Belt": {
+    "id": 12406,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 12,
+      "Red Power Crystal": 4
+    }
+  },
+  "Blue Power Crystal": {
+    "id": 11184,
+    "quality": 1
+  },
+  "Thorium Bracers": {
+    "id": 12408,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 12,
+      "Blue Power Crystal": 4
+    }
+  },
+  "Radiant Belt": {
+    "id": 12416,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 10,
+      "Heart of Fire": 2
+    }
+  },
+  "Rugged Leather": {
+    "id": 8170,
+    "quality": 1
+  },
+  "Imperial Plate Shoulders": {
+    "id": 12428,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 24,
+      "Rugged Leather": 6,
+      "Citrine": 2
+    }
+  },
+  "Imperial Plate Belt": {
+    "id": 12424,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 22,
+      "Rugged Leather": 6,
+      "Aquamarine": 1
+    }
+  },
+  "Radiant Breastplate": {
+    "id": 12415,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 18,
+      "Heart of Fire": 2,
+      "Star Ruby": 1
+    }
+  },
+  "Imperial Plate Bracers": {
+    "id": 12425,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Star Ruby": 1
+    }
+  },
+  "Enchanted Thorium Bar": {
+    "id": 12655,
+    "quality": 1
+  },
+  "Living Essence": {
+    "id": 12803,
+    "quality": 2
+  },
+  "Wildvine": {
+    "id": 8153,
+    "quality": 1
+  },
+  "Huge Emerald": {
+    "id": 12364,
+    "quality": 2
+  },
+  "Wildthorn Mail": {
+    "id": 12624,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Enchanted Thorium Bar": 2,
+      "Living Essence": 4,
+      "Wildvine": 4,
+      "Huge Emerald": 1
+    }
+  },
+  "Essence of Earth": {
+    "id": 7076,
+    "quality": 2
+  },
+  "Thorium Shield Spike": {
+    "id": 12645,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 4,
+      "Dense Grinding Stone": 4,
+      "Essence of Earth": 2
+    }
+  },
+  "Green Power Crystal": {
+    "id": 11185,
+    "quality": 1
+  },
+  "Thorium Boots": {
+    "id": 12409,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Rugged Leather": 8,
+      "Green Power Crystal": 4
+    }
+  },
+  "Thorium Helm": {
+    "id": 12410,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 24,
+      "Star Ruby": 1,
+      "Yellow Power Crystal": 4
+    }
+  },
+  "Radiant Gloves": {
+    "id": 12418,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 18,
+      "Heart of Fire": 4
+    }
+  },
+  "Demonic Rune": {
+    "id": 12662,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Demon Forged Breastplate": {
+    "id": 12628,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Demonic Rune": 10,
+      "Blue Sapphire": 4,
+      "Star Ruby": 4
+    }
+  },
+  "Radiant Boots": {
+    "id": 12419,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 14,
+      "Heart of Fire": 4
+    }
+  },
+  "Arcanite Bar": {
+    "id": 12360,
+    "quality": 2
+  },
+  "Essence of Water": {
+    "id": 7080,
+    "quality": 2
+  },
+  "Dawnbringer Shoulders": {
+    "id": 12625,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Arcanite Bar": 4,
+      "Huge Emerald": 2,
+      "Essence of Water": 2
+    }
+  },
+  "Essence of Fire": {
+    "id": 7078,
+    "quality": 2
+  },
+  "Fiery Plate Gauntlets": {
+    "id": 12631,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Enchanted Thorium Bar": 6,
+      "Essence of Fire": 2,
+      "Star Ruby": 4
+    }
+  },
+  "Imperial Plate Boots": {
+    "id": 12426,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 34,
+      "Star Ruby": 1,
+      "Aquamarine": 1
+    }
+  },
+  "Imperial Plate Helm": {
+    "id": 12427,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 34,
+      "Star Ruby": 2
+    }
+  },
+  "Radiant Circlet": {
+    "id": 12417,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 18,
+      "Heart of Fire": 4
+    }
+  },
+  "Thorium Leggings": {
+    "id": 12414,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 26,
+      "Red Power Crystal": 4
+    }
+  },
+  "Imperial Plate Chest": {
+    "id": 12422,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Star Ruby": 2
+    }
+  },
+  "Runic Plate Shoulders": {
+    "id": 12610,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Arcanite Bar": 2,
+      "Gold Bar": 6
+    }
+  },
+  "Runic Plate Boots": {
+    "id": 12611,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Arcanite Bar": 2,
+      "Silver Bar": 10
+    }
+  },
+  "Azerothian Diamond": {
+    "id": 12800,
+    "quality": 2
+  },
+  "Whitesoul Helm": {
+    "id": 12633,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Enchanted Thorium Bar": 4,
+      "Truesilver Bar": 6,
+      "Gold Bar": 6,
+      "Azerothian Diamond": 2
+    }
+  },
+  "Radiant Leggings": {
+    "id": 12420,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Heart of Fire": 4
+    }
+  },
+  "Runic Plate Helm": {
+    "id": 12612,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 30,
+      "Arcanite Bar": 2,
+      "Truesilver Bar": 2,
+      "Huge Emerald": 1
+    }
+  },
+  "Imperial Plate Leggings": {
+    "id": 12429,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 44,
+      "Star Ruby": 2
+    }
+  },
+  "Jet Black Feather": {
+    "id": 8168,
+    "quality": 1
+  },
+  "Large Opal": {
+    "id": 12799,
+    "quality": 2
+  },
+  "Helm of the Great Chief": {
+    "id": 12636,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Enchanted Thorium Bar": 4,
+      "Jet Black Feather": 60,
+      "Large Opal": 6,
+      "Huge Emerald": 2
+    }
+  },
+  "Wicked Claw": {
+    "id": 8146,
+    "quality": 1
+  },
+  "Lionheart Helm": {
+    "id": 12640,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 80,
+      "Arcanite Bar": 12,
+      "Wicked Claw": 40,
+      "Blue Sapphire": 10,
+      "Azerothian Diamond": 4
+    }
+  },
+  "Runic Breastplate": {
+    "id": 12613,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Arcanite Bar": 2,
+      "Star Ruby": 1
+    }
+  },
+  "Runic Plate Leggings": {
+    "id": 12614,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Arcanite Bar": 2,
+      "Star Ruby": 1
+    }
+  },
+  "Stronghold Gauntlets": {
+    "id": 12639,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 15,
+      "Enchanted Thorium Bar": 20,
+      "Essence of Earth": 10,
+      "Blue Sapphire": 4,
+      "Large Opal": 4
+    }
+  },
+  "Enchanted Thorium Helm": {
+    "id": 12620,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 6,
+      "Enchanted Thorium Bar": 16,
+      "Essence of Earth": 6,
+      "Large Opal": 2,
+      "Azerothian Diamond": 1
+    }
+  },
+  "Enchanted Thorium Leggings": {
+    "id": 12619,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 10,
+      "Enchanted Thorium Bar": 20,
+      "Essence of Water": 6,
+      "Blue Sapphire": 2,
+      "Huge Emerald": 1
+    }
+  },
+  "Enchanted Thorium Breastplate": {
+    "id": 12618,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 8,
+      "Enchanted Thorium Bar": 24,
+      "Essence of Earth": 4,
+      "Essence of Water": 4,
+      "Huge Emerald": 2,
+      "Azerothian Diamond": 2
+    }
+  },
+  "Invulnerable Mail": {
+    "id": 12641,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 30,
+      "Enchanted Thorium Bar": 30,
+      "Huge Emerald": 6,
+      "Azerothian Diamond": 6
+    }
+  },
+  "Thorium Greatsword": {
+    "id": 12764,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 16,
+      "Dense Grinding Stone": 2,
+      "Rugged Leather": 4
+    }
+  },
+  "Bleakwood Hew": {
+    "id": 12769,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 30,
+      "Living Essence": 6,
+      "Wildvine": 6,
+      "Large Opal": 6,
+      "Dense Grinding Stone": 2,
+      "Rugged Leather": 8
+    }
+  },
+  "Inlaid Thorium Hammer": {
+    "id": 12772,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 30,
+      "Gold Bar": 4,
+      "Truesilver Bar": 2,
+      "Blue Sapphire": 2,
+      "Rugged Leather": 4
+    }
+  },
+  "Ornate Thorium Handaxe": {
+    "id": 12773,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Large Opal": 2,
+      "Dense Grinding Stone": 2,
+      "Rugged Leather": 4
+    }
+  },
+  "Dawn's Edge": {
+    "id": 12774,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 30,
+      "Enchanted Thorium Bar": 4,
+      "Star Ruby": 4,
+      "Blue Sapphire": 4,
+      "Dense Grinding Stone": 2,
+      "Rugged Leather": 4
+    }
+  },
+  "Huge Thorium Battleaxe": {
+    "id": 12775,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Dense Grinding Stone": 6,
+      "Rugged Leather": 6
+    }
+  },
+  "Powerful Mojo": {
+    "id": 12804,
+    "quality": 1
+  },
+  "Enchanted Battlehammer": {
+    "id": 12776,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Enchanted Thorium Bar": 6,
+      "Huge Emerald": 2,
+      "Powerful Mojo": 4,
+      "Rugged Leather": 4
+    }
+  },
+  "Blazing Rapier": {
+    "id": 12777,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 10,
+      "Essence of Fire": 4,
+      "Heart of Fire": 4,
+      "Azerothian Diamond": 2,
+      "Dense Grinding Stone": 2
+    }
+  },
+  "Rune Edge": {
+    "id": 12779,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 30,
+      "Large Opal": 2,
+      "Dense Grinding Stone": 2,
+      "Rugged Leather": 4
+    }
+  },
+  "Serenity": {
+    "id": 12781,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 6,
+      "Arcanite Bar": 2,
+      "Powerful Mojo": 4,
+      "Large Opal": 2,
+      "Blue Sapphire": 2,
+      "Huge Emerald": 1
+    }
+  },
+  "Volcanic Hammer": {
+    "id": 12792,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 30,
+      "Heart of Fire": 4,
+      "Star Ruby": 4,
+      "Rugged Leather": 4
+    }
+  },
+  "Essence of Undeath": {
+    "id": 12808,
+    "quality": 2
+  },
+  "Corruption": {
+    "id": 12782,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Arcanite Bar": 2,
+      "Demonic Rune": 16,
+      "Essence of Undeath": 8,
+      "Blue Sapphire": 2,
+      "Dense Grinding Stone": 2,
+      "Rugged Leather": 4
+    }
+  },
+  "Blood Talon": {
+    "id": 12795,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 10,
+      "Arcanite Bar": 10,
+      "Demonic Rune": 8,
+      "Star Ruby": 10,
+      "Dense Grinding Stone": 2
+    }
+  },
+  "Darkspear": {
+    "id": 12802,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 20,
+      "Powerful Mojo": 20,
+      "Huge Emerald": 2,
+      "Azerothian Diamond": 2,
+      "Dense Grinding Stone": 2
+    }
+  },
+  "Guardian Stone": {
+    "id": 12809,
+    "quality": 2
+  },
+  "Enchanted Leather": {
+    "id": 12810,
+    "quality": 1
+  },
+  "Hammer of the Titans": {
+    "id": 12796,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 50,
+      "Arcanite Bar": 15,
+      "Guardian Stone": 4,
+      "Enchanted Leather": 6,
+      "Essence of Earth": 10
+    }
+  },
+  "Righteous Orb": {
+    "id": 12811,
+    "quality": 2
+  },
+  "Arcanite Champion": {
+    "id": 12790,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 15,
+      "Azerothian Diamond": 8,
+      "Righteous Orb": 1,
+      "Large Opal": 4,
+      "Enchanted Leather": 8,
+      "Dense Grinding Stone": 2
+    }
+  },
+  "Annihilator": {
+    "id": 12798,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 40,
+      "Arcanite Bar": 12,
+      "Essence of Undeath": 10,
+      "Huge Emerald": 8,
+      "Dense Grinding Stone": 2,
+      "Enchanted Leather": 4
+    }
+  },
+  "Frostguard": {
+    "id": 12797,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 18,
+      "Blue Sapphire": 8,
+      "Azerothian Diamond": 8,
+      "Essence of Water": 4,
+      "Dense Grinding Stone": 2,
+      "Enchanted Leather": 4
+    }
+  },
+  "Masterwork Stormhammer": {
+    "id": 12794,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 20,
+      "Huge Emerald": 8,
+      "Large Opal": 8,
+      "Essence of Earth": 6,
+      "Enchanted Leather": 4
+    }
+  },
+  "Arcanite Reaper": {
+    "id": 12784,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 20,
+      "Enchanted Leather": 6,
+      "Dense Grinding Stone": 2
+    }
+  },
+  "Heartseeker": {
+    "id": 12783,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 10,
+      "Enchanted Thorium Bar": 10,
+      "Enchanted Leather": 2,
+      "Star Ruby": 6,
+      "Azerothian Diamond": 6,
+      "Large Opal": 6,
+      "Dense Grinding Stone": 4
+    }
+  },
+  "Storm Gauntlets": {
+    "id": 12632,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Enchanted Thorium Bar": 4,
+      "Essence of Water": 4,
+      "Blue Sapphire": 4
+    }
+  },
+  "Silver Skeleton Key": {
+    "id": 15869,
+    "quality": 2,
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Silver Bar": 1,
+      "Rough Grinding Stone": 1
+    }
+  },
+  "Golden Skeleton Key": {
+    "id": 15870,
+    "quality": 2,
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Gold Bar": 1,
+      "Heavy Grinding Stone": 1
+    }
+  },
+  "Truesilver Skeleton Key": {
+    "id": 15871,
+    "quality": 2,
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Truesilver Bar": 1,
+      "Solid Grinding Stone": 1
+    }
+  },
+  "Arcanite Skeleton Key": {
+    "id": 15872,
+    "quality": 2,
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Arcanite Bar": 1,
+      "Dense Grinding Stone": 1
+    }
+  },
+  "Arcanite Rod": {
+    "id": 16206,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 3,
+      "Dense Grinding Stone": 1
+    }
+  },
+  "Fiery Core": {
+    "id": 17010,
+    "quality": 3
+  },
+  "Lava Core": {
+    "id": 17011,
+    "quality": 3
+  },
+  "Dark Iron Bracers": {
+    "id": 17014,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 4,
+      "Fiery Core": 2,
+      "Lava Core": 2
+    }
+  },
+  "Fiery Chain Girdle": {
+    "id": 16989,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 6,
+      "Fiery Core": 3,
+      "Lava Core": 3
+    }
+  },
+  "Dark Iron Leggings": {
+    "id": 17013,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 16,
+      "Fiery Core": 4,
+      "Lava Core": 6
+    }
+  },
+  "Fiery Chain Shoulders": {
+    "id": 16988,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 16,
+      "Fiery Core": 4,
+      "Lava Core": 5
+    }
+  },
+  "Blood of the Mountain": {
+    "id": 11382,
+    "quality": 2
+  },
+  "Dark Iron Destroyer": {
+    "id": 17016,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 18,
+      "Lava Core": 12,
+      "Blood of the Mountain": 2,
+      "Enchanted Leather": 2
+    }
+  },
+  "Dark Iron Reaver": {
+    "id": 17015,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Bar": 16,
+      "Fiery Core": 12,
+      "Blood of the Mountain": 2,
+      "Enchanted Leather": 2
+    }
+  },
+  "Sulfuron Ingot": {
+    "id": 17203,
+    "quality": 4
+  },
+  "Sulfuron Hammer": {
+    "id": 17193,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Sulfuron Ingot": 8,
+      "Dark Iron Bar": 20,
+      "Arcanite Bar": 50,
+      "Essence of Fire": 25,
+      "Blood of the Mountain": 10,
+      "Lava Core": 10,
+      "Fiery Core": 10
+    }
+  },
+  "Elemental Water": {
+    "id": 7070,
+    "quality": 1
+  },
+  "Elemental Air": {
+    "id": 7069,
+    "quality": 1
+  },
+  "Edge of Winter": {
+    "id": 17704,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Steel Bar": 10,
+      "Frost Oil": 1,
+      "Elemental Water": 2,
+      "Elemental Air": 2,
+      "Heavy Leather": 2
+    }
+  },
+  "Elemental Sharpening Stone": {
+    "id": 18262,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Elemental Earth": 2,
+      "Dense Stone": 3
+    }
+  },
+  "Heavy Timbermaw Belt": {
+    "id": 19043,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 12,
+      "Essence of Earth": 3,
+      "Living Essence": 3
+    }
+  },
+  "Heavy Timbermaw Boots": {
+    "id": 19048,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 4,
+      "Essence of Earth": 6,
+      "Living Essence": 6
+    }
+  },
+  "Girdle of the Dawn": {
+    "id": 19051,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 8,
+      "Truesilver Bar": 6,
+      "Righteous Orb": 1
+    }
+  },
+  "Gloves of the Dawn": {
+    "id": 19057,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 2,
+      "Truesilver Bar": 10,
+      "Righteous Orb": 1
+    }
+  },
+  "Dark Iron Helm": {
+    "id": 19148,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 4,
+      "Fiery Core": 2,
+      "Dark Iron Bar": 4
+    }
+  },
+  "Core Leather": {
+    "id": 17012,
+    "quality": 1
+  },
+  "Dark Iron Gauntlets": {
+    "id": 19164,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 3,
+      "Fiery Core": 5,
+      "Core Leather": 4,
+      "Dark Iron Bar": 4,
+      "Blood of the Mountain": 2
+    }
+  },
+  "Black Amnesty": {
+    "id": 19166,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 3,
+      "Fiery Core": 6,
+      "Arcanite Bar": 12,
+      "Blood of the Mountain": 1,
+      "Dark Iron Bar": 4
+    }
+  },
+  "Blackfury": {
+    "id": 19167,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 5,
+      "Fiery Core": 2,
+      "Arcanite Bar": 16,
+      "Dark Iron Bar": 6
+    }
+  },
+  "Ebon Hand": {
+    "id": 19170,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 4,
+      "Fiery Core": 7,
+      "Arcanite Bar": 12,
+      "Dark Iron Bar": 8,
+      "Azerothian Diamond": 4
+    }
+  },
+  "Blackguard": {
+    "id": 19168,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 6,
+      "Fiery Core": 6,
+      "Arcanite Bar": 10,
+      "Dark Iron Bar": 6,
+      "Guardian Stone": 12
+    }
+  },
+  "Nightfall": {
+    "id": 19169,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 8,
+      "Fiery Core": 5,
+      "Arcanite Bar": 10,
+      "Dark Iron Bar": 12,
+      "Huge Emerald": 4
+    }
+  },
+  "Souldarite": {
+    "id": 19774,
+    "quality": 2
+  },
+  "Bloodvine": {
+    "id": 19726,
+    "quality": 2
+  },
+  "Bloodsoul Breastplate": {
+    "id": 19690,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Souldarite": 10,
+      "Bloodvine": 2,
+      "Star Ruby": 2
+    }
+  },
+  "Bloodsoul Gauntlets": {
+    "id": 19692,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 12,
+      "Souldarite": 6,
+      "Bloodvine": 2,
+      "Enchanted Leather": 4
+    }
+  },
+  "Bloodsoul Shoulders": {
+    "id": 19691,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 16,
+      "Souldarite": 8,
+      "Bloodvine": 2,
+      "Star Ruby": 1
+    }
+  },
+  "Darksoul Breastplate": {
+    "id": 19693,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Souldarite": 14,
+      "Large Opal": 2
+    }
+  },
+  "Darksoul Leggings": {
+    "id": 19694,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 18,
+      "Souldarite": 12,
+      "Large Opal": 2
+    }
+  },
+  "Darksoul Shoulders": {
+    "id": 19695,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 16,
+      "Souldarite": 10,
+      "Large Opal": 1
+    }
+  },
+  "Dark Iron Boots": {
+    "id": 20039,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 3,
+      "Fiery Core": 3,
+      "Core Leather": 4,
+      "Dark Iron Bar": 6
+    }
+  },
+  "Dark Rune": {
+    "id": 20520,
+    "quality": 2
+  },
+  "Darkrune Breastplate": {
+    "id": 20550,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 20,
+      "Dark Rune": 10,
+      "Truesilver Bar": 10
+    }
+  },
+  "Darkrune Gauntlets": {
+    "id": 20549,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 12,
+      "Dark Rune": 6,
+      "Truesilver Bar": 6,
+      "Enchanted Leather": 2
+    }
+  },
+  "Black Diamond": {
+    "id": 11754,
+    "quality": 2
+  },
+  "Darkrune Helm": {
+    "id": 20551,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 16,
+      "Dark Rune": 8,
+      "Truesilver Bar": 8,
+      "Black Diamond": 1
+    }
+  },
+  "Small Obsidian Shard": {
+    "id": 22202,
+    "quality": 1
+  },
+  "Heavy Obsidian Belt": {
+    "id": 22197,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Small Obsidian Shard": 14,
+      "Enchanted Thorium Bar": 4,
+      "Essence of Earth": 2
+    }
+  },
+  "Light Obsidian Belt": {
+    "id": 22195,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Small Obsidian Shard": 14,
+      "Enchanted Leather": 4
+    }
+  },
+  "Large Obsidian Shard": {
+    "id": 22203,
+    "quality": 1
+  },
+  "Jagged Obsidian Shield": {
+    "id": 22198,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Large Obsidian Shard": 8,
+      "Small Obsidian Shard": 24,
+      "Enchanted Thorium Bar": 8,
+      "Essence of Earth": 4
+    }
+  },
+  "Flask of Supreme Power": {
+    "id": 13512,
+    "quality": 1
+  },
+  "Black Grasp of the Destroyer": {
+    "id": 22194,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Large Obsidian Shard": 8,
+      "Small Obsidian Shard": 24,
+      "Enchanted Leather": 8,
+      "Flask of Supreme Power": 1
+    }
+  },
+  "Obsidian Mail Tunic": {
+    "id": 22191,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Large Obsidian Shard": 15,
+      "Small Obsidian Shard": 36,
+      "Enchanted Leather": 12,
+      "Guardian Stone": 10,
+      "Azerothian Diamond": 4
+    }
+  },
+  "Thick Obsidian Breastplate": {
+    "id": 22196,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Large Obsidian Shard": 18,
+      "Small Obsidian Shard": 40,
+      "Enchanted Thorium Bar": 12,
+      "Essence of Earth": 10,
+      "Huge Emerald": 4
+    }
+  },
+  "Devilsaur Leather": {
+    "id": 15417,
+    "quality": 1
+  },
+  "Skin of Shadow": {
+    "id": 12753,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Persuader": {
+    "id": 22384,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 15,
+      "Dark Iron Bar": 10,
+      "Essence of Undeath": 20,
+      "Dark Rune": 20,
+      "Devilsaur Leather": 10,
+      "Skin of Shadow": 2
+    }
+  },
+  "Flask of the Titans": {
+    "id": 13510,
+    "quality": 1
+  },
+  "Titanic Leggings": {
+    "id": 22385,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 12,
+      "Enchanted Thorium Bar": 20,
+      "Essence of Earth": 10,
+      "Flask of the Titans": 2
+    }
+  },
+  "Nexus Crystal": {
+    "id": 20725,
+    "quality": 4
+  },
+  "Sageblade": {
+    "id": 22383,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Arcanite Bar": 12,
+      "Nexus Crystal": 2,
+      "Flask of Supreme Power": 2,
+      "Enchanted Leather": 4
+    }
+  },
+  "Frozen Rune": {
+    "id": 22682,
+    "quality": 3
+  },
+  "Icebane Bracers": {
+    "id": 22671,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 4,
+      "Thorium Bar": 12,
+      "Arcanite Bar": 2,
+      "Essence of Water": 2
+    }
+  },
+  "Icebane Breastplate": {
+    "id": 22669,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 7,
+      "Thorium Bar": 16,
+      "Arcanite Bar": 2,
+      "Essence of Water": 4
+    }
+  },
+  "Icebane Gauntlets": {
+    "id": 22670,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 5,
+      "Thorium Bar": 12,
+      "Arcanite Bar": 2,
+      "Essence of Water": 2
+    }
+  },
+  "Ironvine Breastplate": {
+    "id": 22762,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 12,
+      "Bloodvine": 2,
+      "Arcanite Bar": 2,
+      "Living Essence": 2
+    }
+  },
+  "Ironvine Gloves": {
+    "id": 22763,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 8,
+      "Bloodvine": 1,
+      "Living Essence": 2
+    }
+  },
+  "Ironvine Belt": {
+    "id": 22764,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Thorium Bar": 6,
+      "Living Essence": 2
+    }
+  }
+}

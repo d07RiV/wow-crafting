@@ -1,0 +1,133 @@
+body {
+  background-color: #121212;
+  color: #eee;
+}
+
+.App {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-size: 16px;
+
+  .select-server, .select-faction, .select-item {
+    display: inline-block;
+    margin: 4px;
+    color: #333;
+  }
+  .select-server {
+    width: 220px;
+  }
+  .select-faction {
+    width: 120px;
+  }
+  .select-item {
+    width: 400px;
+  }
+
+  button {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background: #fff;
+    height: 38px;
+    padding: 0 1em;
+    &:hover {
+      border-color: #b3b3b3;
+    }
+  }
+
+  .Results {
+    font-family: Verdana,open sans,Arial,helvetica neue,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 1em;
+
+    .inactive {
+      color: #777;
+      cursor: pointer;
+    }
+
+    li, .header {
+      margin: 4px 0;
+    }
+    .count {
+      color: #999;
+      margin-right: 6px;
+    }
+    .crafting {
+      padding-left: 16px;
+    }
+    a {
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .quality-0 { color: #9d9d9d; }
+    .quality-1 { color: #ffffff; }
+    .quality-2 { color: #1eff00; }
+    .quality-3 { color: #0070dd; }
+    .quality-4 { color: #a335ee; }
+    .quality-5 { color: #ff8800; }
+    .quality-6 { color: #e5cc80; }
+
+    .results-main {
+      vertical-align: top;
+      display: inline-block;
+    }
+    .shopping-list {
+      vertical-align: top;
+      display: inline-block;
+      margin-left: 5em;  
+      padding: 1em;
+      border: 1px solid #444;
+      border-radius: 0.8em;
+    }
+
+    .trade-icon {
+      display: inline-block;
+      position: relative;
+      width: 18px;
+      height: 0;
+      margin-right: 3px;
+      vertical-align: middle;
+    }
+    .trade-icon::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: -9px;
+      width: 18px;
+      height: 18px;
+      background-repeat: no-repeat;
+    }
+    .trade-alchemy::before {
+      background-image: url(./assets/trade_alchemy.jpg);
+    }
+    .trade-blacksmithing::before {
+      background-image: url(./assets/trade_blacksmithing.jpg);
+    }
+    .trade-cooking::before {
+      background-image: url(./assets/inv_misc_food_15.jpg);
+    }
+    .trade-enchanting::before {
+      background-image: url(./assets/trade_engraving.jpg);
+    }
+    .trade-engineering::before {
+      background-image: url(./assets/trade_engineering.jpg);
+    }
+    .trade-firstaid::before {
+      background-image: url(./assets/spell_holy_sealofsacrifice.jpg);
+    }
+    .trade-leatherworking::before {
+      background-image: url(./assets/inv_misc_armorkit_17.jpg);
+    }
+    .trade-tailoring::before {
+      background-image: url(./assets/trade_tailoring.jpg);
+    }
+  }
+
+  .money-gold, .money-silver, .money-copper {
+    background: no-repeat right center;
+    display: inline-block;
+    padding-right: 15px;
+  }
+  .money-gold { background-image: url(./assets/money-gold.gif); }
+  .money-silver { background-image: url(./assets/money-silver.gif); }
+  .money-copper { background-image: url(./assets/money-copper.gif); }
+}

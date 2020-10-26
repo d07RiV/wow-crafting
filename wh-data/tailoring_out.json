@@ -1,0 +1,3017 @@
+{
+  "Linen Cloth": {
+    "id": 2589,
+    "quality": 1
+  },
+  "Bolt of Linen Cloth": {
+    "id": 2996,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Linen Cloth": 2
+    }
+  },
+  "Coarse Thread": {
+    "id": 2320,
+    "quality": 1,
+    "vendor": 10
+  },
+  "Linen Cloak": {
+    "id": 2570,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 1,
+      "Coarse Thread": 1
+    }
+  },
+  "Brown Linen Vest": {
+    "id": 2568,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 1,
+      "Coarse Thread": 1
+    }
+  },
+  "Red Dye": {
+    "id": 2604,
+    "quality": 1,
+    "vendor": 50
+  },
+  "Red Linen Robe": {
+    "id": 2572,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 2,
+      "Red Dye": 2
+    }
+  },
+  "Light Leather": {
+    "id": 2318,
+    "quality": 1
+  },
+  "Linen Boots": {
+    "id": 2569,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 1,
+      "Light Leather": 1
+    }
+  },
+  "Red Linen Shirt": {
+    "id": 2575,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Coarse Thread": 1,
+      "Red Dye": 1
+    }
+  },
+  "Bleach": {
+    "id": 2324,
+    "quality": 1,
+    "vendor": 25
+  },
+  "White Linen Shirt": {
+    "id": 2576,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 1,
+      "Coarse Thread": 1,
+      "Bleach": 1
+    }
+  },
+  "Blue Dye": {
+    "id": 6260,
+    "quality": 1,
+    "vendor": 50
+  },
+  "Blue Linen Shirt": {
+    "id": 2577,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Coarse Thread": 1,
+      "Blue Dye": 1
+    }
+  },
+  "Reinforced Linen Cape": {
+    "id": 2580,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Coarse Thread": 3
+    }
+  },
+  "Fine Thread": {
+    "id": 2321,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Barbaric Linen Vest": {
+    "id": 2578,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 4,
+      "Light Leather": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Green Dye": {
+    "id": 2605,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Green Linen Shirt": {
+    "id": 2579,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Fine Thread": 1,
+      "Green Dye": 1
+    }
+  },
+  "Wool Cloth": {
+    "id": 2592,
+    "quality": 1
+  },
+  "Bolt of Woolen Cloth": {
+    "id": 2997,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Wool Cloth": 3
+    }
+  },
+  "Woolen Cape": {
+    "id": 2584,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Green Woolen Vest": {
+    "id": 2582,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 2,
+      "Fine Thread": 2,
+      "Green Dye": 1
+    }
+  },
+  "Woolen Boots": {
+    "id": 2583,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Fine Thread": 2,
+      "Light Leather": 2
+    }
+  },
+  "Gray Dye": {
+    "id": 4340,
+    "quality": 1,
+    "vendor": 350
+  },
+  "Gray Woolen Robe": {
+    "id": 2585,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Fine Thread": 3,
+      "Gray Dye": 1
+    }
+  },
+  "Gray Woolen Shirt": {
+    "id": 2587,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 2,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+    }
+  },
+  "Silk Cloth": {
+    "id": 4306,
+    "quality": 1
+  },
+  "Bolt of Silk Cloth": {
+    "id": 4305,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Silk Cloth": 4
+    }
+  },
+  "Mageweave Cloth": {
+    "id": 4338,
+    "quality": 1
+  },
+  "Bolt of Mageweave": {
+    "id": 4339,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mageweave Cloth": 5
+    }
+  },
+  "Heavy Linen Gloves": {
+    "id": 4307,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Coarse Thread": 1
+    }
+  },
+  "Green Linen Bracers": {
+    "id": 4308,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 2,
+      "Green Dye": 1
+    }
+  },
+  "Handstitched Linen Britches": {
+    "id": 4309,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 4,
+      "Fine Thread": 2
+    }
+  },
+  "Heavy Woolen Gloves": {
+    "id": 4310,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Fine Thread": 1
+    }
+  },
+  "Small Lustrous Pearl": {
+    "id": 5498,
+    "quality": 2
+  },
+  "Heavy Woolen Cloak": {
+    "id": 4311,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Fine Thread": 2,
+      "Small Lustrous Pearl": 2
+    }
+  },
+  "Soft-soled Linen Boots": {
+    "id": 4312,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 5,
+      "Light Leather": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Red Woolen Boots": {
+    "id": 4313,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Light Leather": 2,
+      "Fine Thread": 1,
+      "Red Dye": 2
+    }
+  },
+  "Double-stitched Woolen Shoulders": {
+    "id": 4314,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Fine Thread": 2
+    }
+  },
+  "Medium Leather": {
+    "id": 2319,
+    "quality": 1
+  },
+  "Reinforced Woolen Shoulders": {
+    "id": 4315,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 6,
+      "Medium Leather": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Heavy Woolen Pants": {
+    "id": 4316,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 5,
+      "Fine Thread": 4
+    }
+  },
+  "Iridescent Pearl": {
+    "id": 5500,
+    "quality": 2
+  },
+  "Phoenix Pants": {
+    "id": 4317,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 6,
+      "Iridescent Pearl": 1,
+      "Fine Thread": 3
+    }
+  },
+  "Elixir of Wisdom": {
+    "id": 3383,
+    "quality": 1
+  },
+  "Gloves of Meditation": {
+    "id": 4318,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Fine Thread": 3,
+      "Elixir of Wisdom": 1
+    }
+  },
+  "Heavy Leather": {
+    "id": 4234,
+    "quality": 1
+  },
+  "Azure Silk Gloves": {
+    "id": 4319,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Heavy Leather": 2,
+      "Blue Dye": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Spider's Silk": {
+    "id": 3182,
+    "quality": 1
+  },
+  "Spidersilk Boots": {
+    "id": 4320,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 2,
+      "Medium Leather": 4,
+      "Spider's Silk": 4,
+      "Iridescent Pearl": 2
+    }
+  },
+  "Spider Silk Slippers": {
+    "id": 4321,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Spider's Silk": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Thick Spider's Silk": {
+    "id": 4337,
+    "quality": 1
+  },
+  "Enchanter's Cowl": {
+    "id": 4322,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Fine Thread": 2,
+      "Thick Spider's Silk": 2
+    }
+  },
+  "Silken Thread": {
+    "id": 4291,
+    "quality": 1,
+    "vendor": 500
+  },
+  "Shadow Oil": {
+    "id": 3824,
+    "quality": 1
+  },
+  "Shadow Hood": {
+    "id": 4323,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Silken Thread": 1,
+      "Shadow Oil": 1
+    }
+  },
+  "Azure Silk Vest": {
+    "id": 4324,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Blue Dye": 4
+    }
+  },
+  "Boots of the Enchanter": {
+    "id": 4325,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Silken Thread": 1,
+      "Thick Spider's Silk": 2
+    }
+  },
+  "Mana Potion": {
+    "id": 3827,
+    "quality": 1
+  },
+  "Long Silken Cloak": {
+    "id": 4326,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Mana Potion": 1,
+      "Silken Thread": 1
+    }
+  },
+  "Frost Oil": {
+    "id": 3829,
+    "quality": 1
+  },
+  "Icy Cloak": {
+    "id": 4327,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Silken Thread": 2,
+      "Frost Oil": 1,
+      "Thick Spider's Silk": 2
+    }
+  },
+  "Iron Buckle": {
+    "id": 7071,
+    "quality": 1
+  },
+  "Spider Belt": {
+    "id": 4328,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Thick Spider's Silk": 2,
+      "Iron Buckle": 1
+    }
+  },
+  "Citrine": {
+    "id": 3864,
+    "quality": 2
+  },
+  "Star Belt": {
+    "id": 4329,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Heavy Leather": 4,
+      "Citrine": 1,
+      "Iron Buckle": 1,
+      "Silken Thread": 1
+    }
+  },
+  "Stylish Red Shirt": {
+    "id": 4330,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Red Dye": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Phoenix Gloves": {
+    "id": 4331,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Iridescent Pearl": 1,
+      "Fine Thread": 4,
+      "Bleach": 2
+    }
+  },
+  "Yellow Dye": {
+    "id": 4341,
+    "quality": 1,
+    "vendor": 500
+  },
+  "Bright Yellow Shirt": {
+    "id": 4332,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 1,
+      "Yellow Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Dark Silk Shirt": {
+    "id": 4333,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 2,
+      "Gray Dye": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Formal White Shirt": {
+    "id": 4334,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Bleach": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Purple Dye": {
+    "id": 4342,
+    "quality": 1,
+    "vendor": 2500
+  },
+  "Rich Purple Silk Shirt": {
+    "id": 4335,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Purple Dye": 1,
+      "Silken Thread": 1
+    }
+  },
+  "Black Dye": {
+    "id": 2325,
+    "quality": 1,
+    "vendor": 1000
+  },
+  "Black Swashbuckler's Shirt": {
+    "id": 4336,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Black Dye": 1,
+      "Silken Thread": 1
+    }
+  },
+  "Brown Linen Pants": {
+    "id": 4343,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Coarse Thread": 1
+    }
+  },
+  "Brown Linen Shirt": {
+    "id": 4344,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 1,
+      "Coarse Thread": 1
+    }
+  },
+  "Pearl-clasped Cloak": {
+    "id": 5542,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Fine Thread": 2,
+      "Small Lustrous Pearl": 1
+    }
+  },
+  "Green Woolen Bag": {
+    "id": 4241,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Green Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Linen Bag": {
+    "id": 4238,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 3
+    }
+  },
+  "Woolen Bag": {
+    "id": 4240,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Fine Thread": 1
+    }
+  },
+  "Small Silk Pack": {
+    "id": 4245,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Heavy Leather": 2,
+      "Fine Thread": 3
+    }
+  },
+  "Red Linen Bag": {
+    "id": 5762,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 4,
+      "Fine Thread": 1,
+      "Red Dye": 1
+    }
+  },
+  "Red Woolen Bag": {
+    "id": 5763,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Red Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Lesser Wizard's Robe": {
+    "id": 5766,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 2,
+      "Fine Thread": 2,
+      "Spider's Silk": 2
+    }
+  },
+  "Robes of Arcana": {
+    "id": 5770,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Fine Thread": 2,
+      "Spider's Silk": 2
+    }
+  },
+  "Green Silk Pack": {
+    "id": 5764,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Heavy Leather": 3,
+      "Fine Thread": 3,
+      "Green Dye": 1
+    }
+  },
+  "Black Silk Pack": {
+    "id": 5765,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Black Dye": 1,
+      "Fine Thread": 4
+    }
+  },
+  "Brown Linen Robe": {
+    "id": 6238,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 1
+    }
+  },
+  "White Linen Robe": {
+    "id": 6241,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 1,
+      "Bleach": 1
+    }
+  },
+  "Blue Linen Vest": {
+    "id": 6240,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 1,
+      "Blue Dye": 1
+    }
+  },
+  "Red Linen Vest": {
+    "id": 6239,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 3,
+      "Coarse Thread": 1,
+      "Red Dye": 1
+    }
+  },
+  "Blue Linen Robe": {
+    "id": 6242,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 4,
+      "Coarse Thread": 2,
+      "Blue Dye": 2
+    }
+  },
+  "Green Woolen Robe": {
+    "id": 6243,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Fine Thread": 2,
+      "Green Dye": 1
+    }
+  },
+  "Blue Overalls": {
+    "id": 6263,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Fine Thread": 2,
+      "Blue Dye": 2
+    }
+  },
+  "Greater Adept's Robe": {
+    "id": 6264,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 5,
+      "Fine Thread": 3,
+      "Red Dye": 3
+    }
+  },
+  "Stylish Blue Shirt": {
+    "id": 6384,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Blue Dye": 2,
+      "Gray Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Stylish Green Shirt": {
+    "id": 6385,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 4,
+      "Green Dye": 2,
+      "Gray Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Simple Dress": {
+    "id": 6786,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Coarse Thread": 1,
+      "Blue Dye": 1,
+      "Bleach": 1
+    }
+  },
+  "White Woolen Dress": {
+    "id": 6787,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 3,
+      "Bleach": 4,
+      "Fine Thread": 1
+    }
+  },
+  "Red Swashbuckler's Shirt": {
+    "id": 6796,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Red Dye": 2,
+      "Silken Thread": 1
+    }
+  },
+  "White Swashbuckler's Shirt": {
+    "id": 6795,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Bleach": 2,
+      "Silken Thread": 1
+    }
+  },
+  "Linen Belt": {
+    "id": 7026,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 1,
+      "Coarse Thread": 1
+    }
+  },
+  "Azure Silk Pants": {
+    "id": 7046,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Blue Dye": 2,
+      "Fine Thread": 3
+    }
+  },
+  "Azure Silk Hood": {
+    "id": 7048,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 2,
+      "Blue Dye": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Silk Headband": {
+    "id": 7050,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Fine Thread": 2
+    }
+  },
+  "Elemental Earth": {
+    "id": 7067,
+    "quality": 1
+  },
+  "Earthen Vest": {
+    "id": 7051,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Elemental Earth": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Elemental Water": {
+    "id": 7070,
+    "quality": 1
+  },
+  "Azure Silk Belt": {
+    "id": 7052,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Elemental Water": 1,
+      "Blue Dye": 2,
+      "Fine Thread": 2,
+      "Iron Buckle": 1
+    }
+  },
+  "Elemental Fire": {
+    "id": 7068,
+    "quality": 1
+  },
+  "Elemental Air": {
+    "id": 7069,
+    "quality": 1
+  },
+  "Robe of Power": {
+    "id": 7054,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Elemental Earth": 2,
+      "Elemental Water": 2,
+      "Elemental Fire": 2,
+      "Elemental Air": 2,
+      "Silken Thread": 2
+    }
+  },
+  "Crimson Silk Belt": {
+    "id": 7055,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Iron Buckle": 1,
+      "Red Dye": 2,
+      "Silken Thread": 1
+    }
+  },
+  "Green Silken Shoulders": {
+    "id": 7057,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Silken Thread": 2
+    }
+  },
+  "Shadow Protection Potion": {
+    "id": 6048,
+    "quality": 1
+  },
+  "Boots of Darkness": {
+    "id": 7027,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Medium Leather": 2,
+      "Shadow Protection Potion": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Hands of Darkness": {
+    "id": 7047,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Heavy Leather": 2,
+      "Shadow Protection Potion": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Healing Potion": {
+    "id": 929,
+    "quality": 1
+  },
+  "Truefaith Gloves": {
+    "id": 7049,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Heavy Leather": 2,
+      "Healing Potion": 4,
+      "Fine Thread": 1
+    }
+  },
+  "Green Silk Armor": {
+    "id": 7065,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Green Dye": 2,
+      "Silken Thread": 1
+    }
+  },
+  "Azure Silk Cloak": {
+    "id": 7053,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 3,
+      "Blue Dye": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Fire Oil": {
+    "id": 6371,
+    "quality": 1
+  },
+  "Crimson Silk Cloak": {
+    "id": 7056,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Red Dye": 2,
+      "Fire Oil": 2,
+      "Silken Thread": 1
+    }
+  },
+  "Crimson Silk Vest": {
+    "id": 7058,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Red Dye": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Crimson Silk Shoulders": {
+    "id": 7059,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Fire Oil": 2,
+      "Red Dye": 2,
+      "Silken Thread": 2
+    }
+  },
+  "Naga Scale": {
+    "id": 7072,
+    "quality": 1
+  },
+  "Azure Shoulders": {
+    "id": 7060,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 6,
+      "Naga Scale": 2,
+      "Blue Dye": 2,
+      "Silken Thread": 2
+    }
+  },
+  "Earthen Silk Belt": {
+    "id": 7061,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Elemental Earth": 4,
+      "Heavy Leather": 4,
+      "Iron Buckle": 1,
+      "Silken Thread": 2
+    }
+  },
+  "Crimson Silk Pantaloons": {
+    "id": 7062,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 4,
+      "Red Dye": 2,
+      "Silken Thread": 2
+    }
+  },
+  "Crimson Silk Robe": {
+    "id": 7063,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 8,
+      "Elemental Fire": 4,
+      "Mana Potion": 2,
+      "Red Dye": 4,
+      "Silken Thread": 1
+    }
+  },
+  "Thick Leather": {
+    "id": 4304,
+    "quality": 1
+  },
+  "Crimson Silk Gloves": {
+    "id": 7064,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 6,
+      "Elemental Fire": 2,
+      "Fire Oil": 2,
+      "Thick Leather": 2,
+      "Red Dye": 4,
+      "Silken Thread": 2
+    }
+  },
+  "Simple Linen Pants": {
+    "id": 10045,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 1,
+      "Coarse Thread": 1
+    }
+  },
+  "Simple Linen Boots": {
+    "id": 10046,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 2,
+      "Light Leather": 1,
+      "Coarse Thread": 1
+    }
+  },
+  "Simple Kilt": {
+    "id": 10047,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Linen Cloth": 4,
+      "Fine Thread": 1
+    }
+  },
+  "Colorful Kilt": {
+    "id": 10048,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Woolen Cloth": 5,
+      "Red Dye": 3,
+      "Fine Thread": 1
+    }
+  },
+  "Black Mageweave Vest": {
+    "id": 9998,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Silken Thread": 3
+    }
+  },
+  "Black Mageweave Leggings": {
+    "id": 9999,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Silken Thread": 3
+    }
+  },
+  "Heavy Silken Thread": {
+    "id": 8343,
+    "quality": 1,
+    "vendor": 2000
+  },
+  "Black Mageweave Robe": {
+    "id": 10001,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Shadow Silk": {
+    "id": 10285,
+    "quality": 1
+  },
+  "Shadoweave Pants": {
+    "id": 10002,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Shadow Silk": 2,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Black Mageweave Gloves": {
+    "id": 10003,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Shadoweave Robe": {
+    "id": 10004,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Shadow Silk": 2,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Red Mageweave Vest": {
+    "id": 10007,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Red Dye": 2,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "White Bandit Mask": {
+    "id": 10008,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 1,
+      "Bleach": 1,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Red Mageweave Pants": {
+    "id": 10009,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Red Dye": 2,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Orange Dye": {
+    "id": 6261,
+    "quality": 1,
+    "vendor": 1000
+  },
+  "Orange Mageweave Shirt": {
+    "id": 10056,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 1,
+      "Orange Dye": 1,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Globe of Water": {
+    "id": 7079,
+    "quality": 1
+  },
+  "Stormcloth Pants": {
+    "id": 10010,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Globe of Water": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Stormcloth Gloves": {
+    "id": 10011,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Globe of Water": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Orange Martial Shirt": {
+    "id": 10052,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Orange Dye": 2,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Mageweave Bag": {
+    "id": 10050,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Silken Thread": 2
+    }
+  },
+  "Red Mageweave Gloves": {
+    "id": 10018,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Red Dye": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Wildvine": {
+    "id": 8153,
+    "quality": 1
+  },
+  "Heart of the Wild": {
+    "id": 10286,
+    "quality": 1
+  },
+  "Dreamweave Gloves": {
+    "id": 10019,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Wildvine": 4,
+      "Heart of the Wild": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Stormcloth Vest": {
+    "id": 10020,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Globe of Water": 3,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Heart of Fire": {
+    "id": 7077,
+    "quality": 1
+  },
+  "Cindercloth Robe": {
+    "id": 10042,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Heart of Fire": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Dreamweave Vest": {
+    "id": 10021,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 6,
+      "Wildvine": 6,
+      "Heart of the Wild": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Shadoweave Gloves": {
+    "id": 10023,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Shadow Silk": 5,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Black Mageweave Headband": {
+    "id": 10024,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Black Mageweave Boots": {
+    "id": 10026,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Heavy Silken Thread": 2,
+      "Thick Leather": 2
+    }
+  },
+  "Black Mageweave Shoulders": {
+    "id": 10027,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Lavender Mageweave Shirt": {
+    "id": 10054,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Purple Dye": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Shadoweave Shoulders": {
+    "id": 10028,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Shadow Silk": 4,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Simple Black Dress": {
+    "id": 10053,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Black Dye": 1,
+      "Heavy Silken Thread": 1,
+      "Bleach": 1
+    }
+  },
+  "Red Mageweave Shoulders": {
+    "id": 10029,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Red Dye": 2,
+      "Heavy Silken Thread": 3
+    }
+  },
+  "Red Mageweave Bag": {
+    "id": 10051,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Red Dye": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Pink Dye": {
+    "id": 10290,
+    "quality": 1,
+    "vendor": 2500
+  },
+  "Pink Mageweave Shirt": {
+    "id": 10055,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Pink Dye": 1,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Long Elegant Feather": {
+    "id": 4589,
+    "quality": 1
+  },
+  "Admiral's Hat": {
+    "id": 10030,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 3,
+      "Long Elegant Feather": 6,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Shadoweave Boots": {
+    "id": 10031,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 6,
+      "Shadow Silk": 6,
+      "Heavy Silken Thread": 3,
+      "Thick Leather": 2
+    }
+  },
+  "Stormcloth Headband": {
+    "id": 10032,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Globe of Water": 4,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Red Mageweave Headband": {
+    "id": 10033,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Red Dye": 2,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Tuxedo Shirt": {
+    "id": 10034,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Shadoweave Mask": {
+    "id": 10025,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 2,
+      "Shadow Silk": 8,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Stormcloth Shoulders": {
+    "id": 10038,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Globe of Water": 6,
+      "Heavy Silken Thread": 3
+    }
+  },
+  "Cindercloth Boots": {
+    "id": 10044,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Heart of Fire": 1,
+      "Heavy Silken Thread": 3,
+      "Thick Leather": 2
+    }
+  },
+  "Tuxedo Pants": {
+    "id": 10035,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Heavy Silken Thread": 3
+    }
+  },
+  "Stormcloth Boots": {
+    "id": 10039,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 6,
+      "Globe of Water": 6,
+      "Heavy Silken Thread": 3,
+      "Thick Leather": 2
+    }
+  },
+  "White Wedding Dress": {
+    "id": 10040,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Heavy Silken Thread": 3,
+      "Bleach": 1
+    }
+  },
+  "Truesilver Bar": {
+    "id": 6037,
+    "quality": 2
+  },
+  "Jade": {
+    "id": 1529,
+    "quality": 2
+  },
+  "Dreamweave Circlet": {
+    "id": 10041,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 8,
+      "Wildvine": 4,
+      "Heart of the Wild": 2,
+      "Heavy Silken Thread": 3,
+      "Truesilver Bar": 1,
+      "Jade": 1
+    }
+  },
+  "Tuxedo Jacket": {
+    "id": 10036,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 5,
+      "Heavy Silken Thread": 3
+    }
+  },
+  "Runecloth": {
+    "id": 14047,
+    "quality": 1
+  },
+  "Bolt of Runecloth": {
+    "id": 14048,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Runecloth": 5
+    }
+  },
+  "Rune Thread": {
+    "id": 14341,
+    "quality": 1,
+    "vendor": 4500
+  },
+  "Runecloth Belt": {
+    "id": 13856,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 3,
+      "Rune Thread": 1
+    }
+  },
+  "Frostweave Tunic": {
+    "id": 13869,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Globe of Water": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Frostweave Robe": {
+    "id": 13868,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Globe of Water": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Ironweb Spider Silk": {
+    "id": 14227,
+    "quality": 1
+  },
+  "Runecloth Robe": {
+    "id": 13858,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Rugged Leather": {
+    "id": 8170,
+    "quality": 1
+  },
+  "Runecloth Bag": {
+    "id": 14046,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Rugged Leather": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Tunic": {
+    "id": 13857,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Cindercloth Vest": {
+    "id": 14042,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Heart of Fire": 3,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Cloak": {
+    "id": 13860,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Ghost Dye": {
+    "id": 9210,
+    "quality": 1
+  },
+  "Ghostweave Belt": {
+    "id": 14143,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 3,
+      "Ghost Dye": 2,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Essence of Water": {
+    "id": 7080,
+    "quality": 2
+  },
+  "Frostweave Gloves": {
+    "id": 13870,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 3,
+      "Essence of Water": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Cindercloth Gloves": {
+    "id": 14043,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Heart of Fire": 3,
+      "Rune Thread": 1
+    }
+  },
+  "Gold Bar": {
+    "id": 3577,
+    "quality": 2
+  },
+  "Brightcloth Gloves": {
+    "id": 14101,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Gold Bar": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Ghostweave Gloves": {
+    "id": 14142,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Ghost Dye": 2,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Brightcloth Robe": {
+    "id": 14100,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Gold Bar": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Ghostweave Vest": {
+    "id": 14141,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Ghost Dye": 4,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Gloves": {
+    "id": 13863,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Rugged Leather": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Essence of Fire": {
+    "id": 7078,
+    "quality": 2
+  },
+  "Cindercloth Cloak": {
+    "id": 14044,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Essence of Fire": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Felcloth": {
+    "id": 14256,
+    "quality": 1
+  },
+  "Felcloth Pants": {
+    "id": 14107,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Felcloth": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Brightcloth Cloak": {
+    "id": 14103,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Gold Bar": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Dream Dust": {
+    "id": 11176,
+    "quality": 1
+  },
+  "Wizardweave Leggings": {
+    "id": 14132,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Dream Dust": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Cloak of Fire": {
+    "id": 14134,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Essence of Fire": 4,
+      "Heart of Fire": 4,
+      "Elemental Fire": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Boots": {
+    "id": 13864,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Ironweb Spider Silk": 2,
+      "Rugged Leather": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Frostweave Pants": {
+    "id": 13871,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Essence of Water": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Cindercloth Pants": {
+    "id": 14045,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Essence of Fire": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Essence of Undeath": {
+    "id": 12808,
+    "quality": 2
+  },
+  "Robe of Winter Night": {
+    "id": 14136,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 10,
+      "Felcloth": 12,
+      "Essence of Undeath": 4,
+      "Essence of Water": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Felcloth Boots": {
+    "id": 14108,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Felcloth": 4,
+      "Rugged Leather": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Pants": {
+    "id": 13865,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Ironweb Spider Silk": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Brightcloth Pants": {
+    "id": 14104,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Gold Bar": 4,
+      "Ironweb Spider Silk": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Mooncloth Leggings": {
+    "id": 14137,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Mooncloth": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Ghostweave Pants": {
+    "id": 14144,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Ghost Dye": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Felcloth Hood": {
+    "id": 14111,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Felcloth": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Headband": {
+    "id": 13866,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Ironweb Spider Silk": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Mooncloth Bag": {
+    "id": 14155,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Mooncloth": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Wizardweave Robe": {
+    "id": 14128,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 8,
+      "Dream Dust": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Mooncloth Vest": {
+    "id": 14138,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Mooncloth": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Mooncloth Shoulders": {
+    "id": 14139,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Mooncloth": 5,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth Shoulders": {
+    "id": 13867,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 7,
+      "Ironweb Spider Silk": 2,
+      "Rugged Leather": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Star Ruby": {
+    "id": 7910,
+    "quality": 2
+  },
+  "Wizardweave Turban": {
+    "id": 14130,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Dream Dust": 4,
+      "Star Ruby": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Demonic Rune": {
+    "id": 12662,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Felcloth Robe": {
+    "id": 14106,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 8,
+      "Felcloth": 8,
+      "Demonic Rune": 4,
+      "Rune Thread": 2
+    }
+  },
+  "Azerothian Diamond": {
+    "id": 12800,
+    "quality": 2
+  },
+  "Enchanted Leather": {
+    "id": 12810,
+    "quality": 1
+  },
+  "Mooncloth Circlet": {
+    "id": 14140,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Mooncloth": 6,
+      "Azerothian Diamond": 1,
+      "Enchanted Leather": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Felcloth Shoulders": {
+    "id": 14112,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 7,
+      "Felcloth": 6,
+      "Demonic Rune": 4,
+      "Rugged Leather": 4,
+      "Rune Thread": 2
+    }
+  },
+  "Golden Pearl": {
+    "id": 13926,
+    "quality": 2
+  },
+  "Huge Emerald": {
+    "id": 12364,
+    "quality": 2
+  },
+  "Gloves of Spell Mastery": {
+    "id": 14146,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 10,
+      "Mooncloth": 10,
+      "Ghost Dye": 10,
+      "Golden Pearl": 6,
+      "Huge Emerald": 6,
+      "Enchanted Leather": 8,
+      "Rune Thread": 2
+    }
+  },
+  "Large Brilliant Shard": {
+    "id": 14344,
+    "quality": 3
+  },
+  "Core Leather": {
+    "id": 17012,
+    "quality": 1
+  },
+  "Bottomless Bag": {
+    "id": 14156,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 8,
+      "Mooncloth": 12,
+      "Large Brilliant Shard": 2,
+      "Core Leather": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Righteous Orb": {
+    "id": 12811,
+    "quality": 2
+  },
+  "Truefaith Vestments": {
+    "id": 14154,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Mooncloth": 10,
+      "Righteous Orb": 4,
+      "Golden Pearl": 4,
+      "Ghost Dye": 10,
+      "Rune Thread": 2
+    }
+  },
+  "Essence of Air": {
+    "id": 7082,
+    "quality": 2
+  },
+  "Essence of Earth": {
+    "id": 7076,
+    "quality": 2
+  },
+  "Robe of the Archmage": {
+    "id": 14152,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Essence of Fire": 10,
+      "Essence of Air": 10,
+      "Essence of Earth": 10,
+      "Essence of Water": 10,
+      "Rune Thread": 2
+    }
+  },
+  "Robe of the Void": {
+    "id": 14153,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Demonic Rune": 20,
+      "Felcloth": 40,
+      "Essence of Fire": 12,
+      "Essence of Undeath": 12,
+      "Rune Thread": 2
+    }
+  },
+  "Black Pearl": {
+    "id": 7971,
+    "quality": 2
+  },
+  "Mooncloth Boots": {
+    "id": 15802,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Mooncloth": 4,
+      "Black Pearl": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Fiery Core": {
+    "id": 17010,
+    "quality": 3
+  },
+  "Lava Core": {
+    "id": 17011,
+    "quality": 3
+  },
+  "Flarecore Mantle": {
+    "id": 16980,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Fiery Core": 4,
+      "Lava Core": 4,
+      "Enchanted Leather": 6,
+      "Rune Thread": 2
+    }
+  },
+  "Flarecore Gloves": {
+    "id": 16979,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 8,
+      "Fiery Core": 6,
+      "Essence of Fire": 4,
+      "Enchanted Leather": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Green Holiday Shirt": {
+    "id": 17723,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Silk Cloth": 5,
+      "Green Dye": 4,
+      "Silken Thread": 1
+    }
+  },
+  "Flarecore Wraps": {
+    "id": 18263,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 6,
+      "Fiery Core": 8,
+      "Essence of Fire": 2,
+      "Enchanted Leather": 6,
+      "Rune Thread": 4
+    }
+  },
+  "Ogre Tannin": {
+    "id": 18240,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Gordok Ogre Suit": {
+    "id": 18258,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 2,
+      "Rugged Leather": 4,
+      "Ogre Tannin": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Belt of the Archmage": {
+    "id": 18405,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 16,
+      "Ghost Dye": 10,
+      "Mooncloth": 10,
+      "Essence of Water": 12,
+      "Essence of Fire": 12,
+      "Large Brilliant Shard": 6,
+      "Rune Thread": 6
+    }
+  },
+  "Felcloth Gloves": {
+    "id": 18407,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Felcloth": 20,
+      "Demonic Rune": 6,
+      "Essence of Undeath": 8,
+      "Rune Thread": 2
+    }
+  },
+  "Inferno Gloves": {
+    "id": 18408,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Essence of Fire": 10,
+      "Star Ruby": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Mooncloth Gloves": {
+    "id": 18409,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Mooncloth": 6,
+      "Golden Pearl": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Guardian Stone": {
+    "id": 12809,
+    "quality": 2
+  },
+  "Arcanite Bar": {
+    "id": 12360,
+    "quality": 2
+  },
+  "Cloak of Warding": {
+    "id": 18413,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 12,
+      "Guardian Stone": 4,
+      "Arcanite Bar": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Mooncloth Robe": {
+    "id": 18486,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Mooncloth": 4,
+      "Golden Pearl": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Living Essence": {
+    "id": 12803,
+    "quality": 2
+  },
+  "Wisdom of the Timbermaw": {
+    "id": 19047,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 8,
+      "Essence of Earth": 3,
+      "Living Essence": 3,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Argent Boots": {
+    "id": 19056,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Enchanted Leather": 4,
+      "Golden Pearl": 2,
+      "Guardian Stone": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Mantle of the Timbermaw": {
+    "id": 19050,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 5,
+      "Essence of Earth": 5,
+      "Living Essence": 5,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Argent Shoulders": {
+    "id": 19059,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 5,
+      "Guardian Stone": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Flarecore Robe": {
+    "id": 19156,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 10,
+      "Fiery Core": 2,
+      "Lava Core": 3,
+      "Essence of Fire": 6,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Flarecore Leggings": {
+    "id": 19165,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 8,
+      "Fiery Core": 5,
+      "Lava Core": 3,
+      "Essence of Fire": 10,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Bloodvine": {
+    "id": 19726,
+    "quality": 2
+  },
+  "Bloodvine Boots": {
+    "id": 19684,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 3,
+      "Bloodvine": 3,
+      "Enchanted Leather": 4,
+      "Bolt of Runecloth": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Powerful Mojo": {
+    "id": 12804,
+    "quality": 1
+  },
+  "Bloodvine Leggings": {
+    "id": 19683,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 4,
+      "Bloodvine": 4,
+      "Powerful Mojo": 4,
+      "Bolt of Runecloth": 4,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Bloodvine Vest": {
+    "id": 19682,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mooncloth": 3,
+      "Bloodvine": 5,
+      "Powerful Mojo": 4,
+      "Bolt of Runecloth": 4,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Dark Rune": {
+    "id": 20520,
+    "quality": 2
+  },
+  "Runed Stygian Belt": {
+    "id": 20539,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 2,
+      "Dark Rune": 6,
+      "Felcloth": 2,
+      "Enchanted Leather": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Runed Stygian Boots": {
+    "id": 20537,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Dark Rune": 6,
+      "Felcloth": 4,
+      "Enchanted Leather": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Runed Stygian Leggings": {
+    "id": 20538,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Dark Rune": 8,
+      "Felcloth": 6,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Ichor of Undeath": {
+    "id": 7972,
+    "quality": 1
+  },
+  "Soul Pouch": {
+    "id": 21340,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Rugged Leather": 4,
+      "Ichor of Undeath": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Felcloth Bag": {
+    "id": 21341,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Felcloth": 12,
+      "Enchanted Leather": 6,
+      "Dark Rune": 2,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Core Felcloth Bag": {
+    "id": 21342,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Felcloth": 20,
+      "Core Leather": 16,
+      "Bloodvine": 8,
+      "Essence of Fire": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Firebloom": {
+    "id": 4625,
+    "quality": 1
+  },
+  "Festival Dress": {
+    "id": 21154,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Firebloom": 2,
+      "Red Dye": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Festival Suit": {
+    "id": 21542,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Firebloom": 2,
+      "Red Dye": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Vision Dust": {
+    "id": 11137,
+    "quality": 1
+  },
+  "Enchanted Mageweave Pouch": {
+    "id": 22246,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Vision Dust": 4,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Greater Eternal Essence": {
+    "id": 16203,
+    "quality": 2
+  },
+  "Enchanted Runecloth Bag": {
+    "id": 22248,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Greater Eternal Essence": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Big Bag of Enchantment": {
+    "id": 22249,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Large Brilliant Shard": 4,
+      "Enchanted Leather": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Purple Lotus": {
+    "id": 8831,
+    "quality": 1
+  },
+  "Morrowgrain": {
+    "id": 11040,
+    "quality": 1
+  },
+  "Cenarion Herb Bag": {
+    "id": 22251,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 5,
+      "Purple Lotus": 10,
+      "Morrowgrain": 8,
+      "Rune Thread": 2
+    }
+  },
+  "Black Lotus": {
+    "id": 13468,
+    "quality": 2
+  },
+  "Satchel of Cenarius": {
+    "id": 22252,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 6,
+      "Mooncloth": 2,
+      "Black Lotus": 1,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Gaea's Embrace": {
+    "id": 22660,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bloodvine": 1,
+      "Mooncloth": 2,
+      "Living Essence": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Frozen Rune": {
+    "id": 22682,
+    "quality": 3
+  },
+  "Glacial Cloak": {
+    "id": 22658,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 5,
+      "Bolt of Runecloth": 4,
+      "Essence of Water": 2,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Glacial Gloves": {
+    "id": 22654,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 5,
+      "Bolt of Runecloth": 4,
+      "Essence of Water": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Glacial Vest": {
+    "id": 22652,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 7,
+      "Bolt of Runecloth": 8,
+      "Essence of Water": 6,
+      "Ironweb Spider Silk": 8
+    }
+  },
+  "Glacial Wrists": {
+    "id": 22655,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 4,
+      "Bolt of Runecloth": 2,
+      "Essence of Water": 2,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Sylvan Crown": {
+    "id": 22757,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Mooncloth": 2,
+      "Living Essence": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Sylvan Shoulders": {
+    "id": 22758,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 2,
+      "Living Essence": 4,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Sylvan Vest": {
+    "id": 22756,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bolt of Runecloth": 4,
+      "Bloodvine": 2,
+      "Living Essence": 2,
+      "Ironweb Spider Silk": 2
+    }
+  }
+}

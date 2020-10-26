@@ -1,0 +1,3130 @@
+{
+  "Light Leather": {
+    "id": 2318,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Ruined Leather Scraps": 3
+    }
+  },
+  "Coarse Thread": {
+    "id": 2320,
+    "quality": 1,
+    "vendor": 10
+  },
+  "Handstitched Leather Boots": {
+    "id": 2302,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 2,
+      "Coarse Thread": 1
+    }
+  },
+  "Handstitched Leather Pants": {
+    "id": 2303,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 4,
+      "Coarse Thread": 1
+    }
+  },
+  "Light Armor Kit": {
+    "id": 2304,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 1
+    }
+  },
+  "Fine Leather Boots": {
+    "id": 2307,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 7,
+      "Coarse Thread": 2
+    }
+  },
+  "Fine Thread": {
+    "id": 2321,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Fine Leather Cloak": {
+    "id": 2308,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 10,
+      "Fine Thread": 2
+    }
+  },
+  "Embossed Leather Vest": {
+    "id": 2300,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 8,
+      "Coarse Thread": 4
+    }
+  },
+  "Embossed Leather Boots": {
+    "id": 2309,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 8,
+      "Coarse Thread": 5
+    }
+  },
+  "Embossed Leather Cloak": {
+    "id": 2310,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 5,
+      "Coarse Thread": 2
+    }
+  },
+  "Bleach": {
+    "id": 2324,
+    "quality": 1,
+    "vendor": 25
+  },
+  "White Leather Jerkin": {
+    "id": 2311,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 8,
+      "Coarse Thread": 2,
+      "Bleach": 1
+    }
+  },
+  "Cured Light Hide": {
+    "id": 4231,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Hide": 1,
+      "Salt": 1
+    }
+  },
+  "Fine Leather Gloves": {
+    "id": 2312,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Light Hide": 1,
+      "Light Leather": 4,
+      "Coarse Thread": 2
+    }
+  },
+  "Medium Leather": {
+    "id": 2319,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 4
+    }
+  },
+  "Medium Armor Kit": {
+    "id": 2313,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 4,
+      "Coarse Thread": 1
+    }
+  },
+  "Toughened Leather Armor": {
+    "id": 2314,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 10,
+      "Cured Light Hide": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Gray Dye": {
+    "id": 4340,
+    "quality": 1,
+    "vendor": 350
+  },
+  "Dark Leather Boots": {
+    "id": 2315,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+    }
+  },
+  "Dark Leather Cloak": {
+    "id": 2316,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 8,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+    }
+  },
+  "Dark Leather Tunic": {
+    "id": 2317,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 6,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+    }
+  },
+  "Ruined Leather Scraps": {
+    "id": 2934,
+    "quality": 1
+  },
+  "Handstitched Leather Belt": {
+    "id": 4237,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 6,
+      "Coarse Thread": 1
+    }
+  },
+  "Embossed Leather Gloves": {
+    "id": 4239,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+    }
+  },
+  "Embossed Leather Pants": {
+    "id": 4242,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Light Hide": 1,
+      "Light Leather": 6,
+      "Coarse Thread": 2
+    }
+  },
+  "Heavy Leather": {
+    "id": 4234,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 5
+    }
+  },
+  "Hillman's Cloak": {
+    "id": 3719,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 5,
+      "Fine Thread": 2
+    }
+  },
+  "Fine Leather Tunic": {
+    "id": 4243,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Light Hide": 3,
+      "Light Leather": 6,
+      "Coarse Thread": 4
+    }
+  },
+  "Hillman's Leather Vest": {
+    "id": 4244,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fine Leather Tunic": 1,
+      "Cured Light Hide": 2,
+      "Coarse Thread": 2
+    }
+  },
+  "Fine Leather Belt": {
+    "id": 4246,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 6,
+      "Coarse Thread": 2
+    }
+  },
+  "Hillman's Leather Gloves": {
+    "id": 4247,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 14,
+      "Fine Thread": 4
+    }
+  },
+  "Cured Medium Hide": {
+    "id": 4233,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Hide": 1,
+      "Salt": 1
+    }
+  },
+  "Dark Leather Gloves": {
+    "id": 4248,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fine Leather Gloves": 1,
+      "Cured Medium Hide": 1,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+    }
+  },
+  "Dark Leather Belt": {
+    "id": 4249,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fine Leather Belt": 1,
+      "Cured Medium Hide": 1,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+    }
+  },
+  "Elixir of Wisdom": {
+    "id": 3383,
+    "quality": 1
+  },
+  "Hillman's Belt": {
+    "id": 4250,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 8,
+      "Elixir of Wisdom": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Hillman's Shoulders": {
+    "id": 4251,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Medium Hide": 1,
+      "Medium Leather": 4,
+      "Fine Thread": 1
+    }
+  },
+  "Elixir of Lesser Agility": {
+    "id": 3390,
+    "quality": 1
+  },
+  "Dark Leather Shoulders": {
+    "id": 4252,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 12,
+      "Elixir of Lesser Agility": 1,
+      "Gray Dye": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Elixir of Defense": {
+    "id": 3389,
+    "quality": 1
+  },
+  "Spider's Silk": {
+    "id": 3182,
+    "quality": 1
+  },
+  "Toughened Leather Gloves": {
+    "id": 4253,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 4,
+      "Cured Medium Hide": 2,
+      "Elixir of Defense": 2,
+      "Spider's Silk": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Large Fang": {
+    "id": 5637,
+    "quality": 1
+  },
+  "Barbaric Gloves": {
+    "id": 4254,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 6,
+      "Large Fang": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Green Dye": {
+    "id": 2605,
+    "quality": 1,
+    "vendor": 100
+  },
+  "Green Leather Armor": {
+    "id": 4255,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 9,
+      "Green Dye": 2,
+      "Fine Thread": 4
+    }
+  },
+  "Cured Heavy Hide": {
+    "id": 4236,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Hide": 1,
+      "Salt": 3
+    }
+  },
+  "Shadow Oil": {
+    "id": 3824,
+    "quality": 1
+  },
+  "Guardian Armor": {
+    "id": 4256,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Heavy Hide": 2,
+      "Heavy Leather": 12,
+      "Shadow Oil": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Iron Buckle": {
+    "id": 7071,
+    "quality": 1
+  },
+  "Green Leather Belt": {
+    "id": 4257,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Heavy Hide": 1,
+      "Heavy Leather": 5,
+      "Fine Thread": 1,
+      "Green Dye": 1,
+      "Iron Buckle": 1
+    }
+  },
+  "Guardian Belt": {
+    "id": 4258,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Heavy Hide": 2,
+      "Heavy Leather": 4,
+      "Fine Thread": 1,
+      "Iron Buckle": 1
+    }
+  },
+  "Green Leather Bracers": {
+    "id": 4259,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Heavy Hide": 2,
+      "Heavy Leather": 6,
+      "Green Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Silken Thread": {
+    "id": 4291,
+    "quality": 1,
+    "vendor": 500
+  },
+  "Guardian Leather Bracers": {
+    "id": 4260,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 6,
+      "Cured Heavy Hide": 2,
+      "Silken Thread": 1
+    }
+  },
+  "Iridescent Pearl": {
+    "id": 5500,
+    "quality": 2
+  },
+  "Jade": {
+    "id": 1529,
+    "quality": 2
+  },
+  "Citrine": {
+    "id": 3864,
+    "quality": 2
+  },
+  "Gem-studded Leather Belt": {
+    "id": 4262,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Heavy Hide": 4,
+      "Iridescent Pearl": 2,
+      "Jade": 2,
+      "Citrine": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Coarse Gorilla Hair": {
+    "id": 4096,
+    "quality": 1
+  },
+  "Great Rage Potion": {
+    "id": 5633,
+    "quality": 1
+  },
+  "Barbaric Belt": {
+    "id": 4264,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 6,
+      "Cured Heavy Hide": 2,
+      "Coarse Gorilla Hair": 2,
+      "Great Rage Potion": 1,
+      "Silken Thread": 1,
+      "Iron Buckle": 1
+    }
+  },
+  "Light Hide": {
+    "id": 783,
+    "quality": 1
+  },
+  "Salt": {
+    "id": 4289,
+    "quality": 1,
+    "vendor": 50
+  },
+  "Medium Hide": {
+    "id": 4232,
+    "quality": 1
+  },
+  "Heavy Hide": {
+    "id": 4235,
+    "quality": 1
+  },
+  "Heavy Armor Kit": {
+    "id": 4265,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 5,
+      "Fine Thread": 1
+    }
+  },
+  "Raptor Hide": {
+    "id": 4461,
+    "quality": 1
+  },
+  "Raptor Hide Belt": {
+    "id": 4456,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Raptor Hide": 4,
+      "Heavy Leather": 4,
+      "Fine Thread": 2
+    }
+  },
+  "Raptor Hide Harness": {
+    "id": 4455,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Raptor Hide": 6,
+      "Heavy Leather": 4,
+      "Fine Thread": 2
+    }
+  },
+  "Thin Kodo Leather": {
+    "id": 5082,
+    "quality": 1
+  },
+  "Kodo Hide Bag": {
+    "id": 5081,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thin Kodo Leather": 3,
+      "Light Leather": 4,
+      "Coarse Thread": 1
+    }
+  },
+  "Barbaric Harness": {
+    "id": 5739,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 14,
+      "Fine Thread": 2,
+      "Iron Buckle": 1
+    }
+  },
+  "Slimy Murloc Scale": {
+    "id": 5784,
+    "quality": 1
+  },
+  "Murloc Scale Belt": {
+    "id": 5780,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Slimy Murloc Scale": 8,
+      "Light Leather": 6,
+      "Fine Thread": 1
+    }
+  },
+  "Thick Murloc Scale": {
+    "id": 5785,
+    "quality": 1
+  },
+  "Murloc Scale Bracers": {
+    "id": 5783,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Murloc Scale": 16,
+      "Cured Heavy Hide": 1,
+      "Heavy Leather": 14,
+      "Silken Thread": 1
+    }
+  },
+  "Murloc Scale Breastplate": {
+    "id": 5781,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Slimy Murloc Scale": 12,
+      "Cured Light Hide": 1,
+      "Light Leather": 8,
+      "Fine Thread": 1
+    }
+  },
+  "Thick Murloc Armor": {
+    "id": 5782,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Murloc Scale": 12,
+      "Cured Heavy Hide": 1,
+      "Heavy Leather": 10,
+      "Fine Thread": 3
+    }
+  },
+  "Handstitched Leather Vest": {
+    "id": 5957,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 3,
+      "Coarse Thread": 1
+    }
+  },
+  "Bolt of Woolen Cloth": {
+    "id": 2997,
+    "quality": 1
+  },
+  "Fine Leather Pants": {
+    "id": 5958,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 8,
+      "Bolt of Woolen Cloth": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Dark Leather Pants": {
+    "id": 5961,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 12,
+      "Gray Dye": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Bolt of Silk Cloth": {
+    "id": 4305,
+    "quality": 1
+  },
+  "Guardian Pants": {
+    "id": 5962,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 12,
+      "Bolt of Silk Cloth": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Moss Agate": {
+    "id": 1206,
+    "quality": 2
+  },
+  "Barbaric Leggings": {
+    "id": 5963,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 10,
+      "Fine Thread": 2,
+      "Moss Agate": 1
+    }
+  },
+  "Barbaric Shoulders": {
+    "id": 5964,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 8,
+      "Cured Heavy Hide": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Guardian Cloak": {
+    "id": 5965,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 14,
+      "Bolt of Silk Cloth": 2,
+      "Silken Thread": 2
+    }
+  },
+  "Guardian Gloves": {
+    "id": 5966,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 4,
+      "Cured Heavy Hide": 1,
+      "Silken Thread": 1
+    }
+  },
+  "Perfect Deviate Scale": {
+    "id": 6471,
+    "quality": 1
+  },
+  "Deviate Scale": {
+    "id": 6470,
+    "quality": 1
+  },
+  "Deviate Scale Belt": {
+    "id": 6468,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Perfect Deviate Scale": 10,
+      "Deviate Scale": 10,
+      "Fine Thread": 2
+    }
+  },
+  "Deviate Scale Cloak": {
+    "id": 6466,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Deviate Scale": 8,
+      "Cured Light Hide": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Deviate Scale Gloves": {
+    "id": 6467,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Perfect Deviate Scale": 2,
+      "Deviate Scale": 6,
+      "Fine Thread": 2
+    }
+  },
+  "Small Lustrous Pearl": {
+    "id": 5498,
+    "quality": 2
+  },
+  "Moonglow Vest": {
+    "id": 6709,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 6,
+      "Cured Light Hide": 1,
+      "Coarse Thread": 4,
+      "Small Lustrous Pearl": 1
+    }
+  },
+  "Handstitched Leather Cloak": {
+    "id": 7276,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 2,
+      "Coarse Thread": 1
+    }
+  },
+  "Handstitched Leather Bracers": {
+    "id": 7277,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 2,
+      "Coarse Thread": 3
+    }
+  },
+  "Light Leather Quiver": {
+    "id": 7278,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 4,
+      "Coarse Thread": 2
+    }
+  },
+  "Small Leather Ammo Pouch": {
+    "id": 7279,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 3,
+      "Coarse Thread": 4
+    }
+  },
+  "Rugged Leather Pants": {
+    "id": 7280,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 5,
+      "Coarse Thread": 5
+    }
+  },
+  "Light Leather Bracers": {
+    "id": 7281,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 6,
+      "Coarse Thread": 4
+    }
+  },
+  "Light Leather Pants": {
+    "id": 7282,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Leather": 10,
+      "Cured Light Hide": 1,
+      "Fine Thread": 1
+    }
+  },
+  "Black Whelp Scale": {
+    "id": 7286,
+    "quality": 1
+  },
+  "Black Whelp Cloak": {
+    "id": 7283,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Black Whelp Scale": 12,
+      "Medium Leather": 4,
+      "Fine Thread": 1
+    }
+  },
+  "Red Whelp Scale": {
+    "id": 7287,
+    "quality": 1
+  },
+  "Red Whelp Gloves": {
+    "id": 7284,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Red Whelp Scale": 6,
+      "Medium Leather": 4,
+      "Fine Thread": 1
+    }
+  },
+  "Elixir of Minor Agility": {
+    "id": 2457,
+    "quality": 1
+  },
+  "Nimble Leather Gloves": {
+    "id": 7285,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Elixir of Minor Agility": 1,
+      "Medium Leather": 6,
+      "Fine Thread": 1
+    }
+  },
+  "Long Tail Feather": {
+    "id": 5116,
+    "quality": 1
+  },
+  "Fletcher's Gloves": {
+    "id": 7348,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 8,
+      "Long Tail Feather": 4,
+      "Fine Thread": 2
+    }
+  },
+  "Kingsblood": {
+    "id": 3356,
+    "quality": 1
+  },
+  "Herbalist's Gloves": {
+    "id": 7349,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 8,
+      "Kingsblood": 4,
+      "Fine Thread": 2
+    }
+  },
+  "Elemental Earth": {
+    "id": 7067,
+    "quality": 1
+  },
+  "Earthen Leather Shoulders": {
+    "id": 7352,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 6,
+      "Elemental Earth": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Lucky Charm": {
+    "id": 5373,
+    "quality": 1
+  },
+  "Pilferer's Gloves": {
+    "id": 7358,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 10,
+      "Lucky Charm": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Heavy Earthen Gloves": {
+    "id": 7359,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 12,
+      "Elemental Earth": 2,
+      "Bolt of Woolen Cloth": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Heavy Quiver": {
+    "id": 7371,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 8,
+      "Fine Thread": 2
+    }
+  },
+  "Heavy Leather Ammo Pouch": {
+    "id": 7372,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 8,
+      "Fine Thread": 2
+    }
+  },
+  "Black Dye": {
+    "id": 2325,
+    "quality": 1,
+    "vendor": 1000
+  },
+  "Dusky Leather Leggings": {
+    "id": 7373,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 10,
+      "Black Dye": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Dusky Leather Armor": {
+    "id": 7374,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 10,
+      "Shadow Oil": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Green Whelp Scale": {
+    "id": 7392,
+    "quality": 1
+  },
+  "Green Whelp Armor": {
+    "id": 7375,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Green Whelp Scale": 4,
+      "Heavy Leather": 10,
+      "Fine Thread": 2
+    }
+  },
+  "Elemental Water": {
+    "id": 7070,
+    "quality": 1
+  },
+  "Frost Leather Cloak": {
+    "id": 7377,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 6,
+      "Elemental Earth": 2,
+      "Elemental Water": 2,
+      "Fine Thread": 2
+    }
+  },
+  "Dusky Bracers": {
+    "id": 7378,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 16,
+      "Black Dye": 1,
+      "Silken Thread": 2
+    }
+  },
+  "Green Whelp Bracers": {
+    "id": 7386,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Green Whelp Scale": 6,
+      "Heavy Leather": 8,
+      "Silken Thread": 2
+    }
+  },
+  "Dusky Belt": {
+    "id": 7387,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 10,
+      "Bolt of Silk Cloth": 2,
+      "Black Dye": 2,
+      "Iron Buckle": 1
+    }
+  },
+  "Shadowcat Hide": {
+    "id": 7428,
+    "quality": 1
+  },
+  "Dusky Boots": {
+    "id": 7390,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 8,
+      "Shadowcat Hide": 2,
+      "Shadow Oil": 1,
+      "Silken Thread": 2
+    }
+  },
+  "Swiftness Potion": {
+    "id": 2459,
+    "quality": 1
+  },
+  "Thick Spider's Silk": {
+    "id": 4337,
+    "quality": 1
+  },
+  "Swift Boots": {
+    "id": 7391,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 10,
+      "Swiftness Potion": 2,
+      "Thick Spider's Silk": 2,
+      "Silken Thread": 1
+    }
+  },
+  "Thick Hide": {
+    "id": 8169,
+    "quality": 1
+  },
+  "Deeprock Salt": {
+    "id": 8150,
+    "quality": 1
+  },
+  "Cured Thick Hide": {
+    "id": 8172,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Hide": 1,
+      "Deeprock Salt": 1
+    }
+  },
+  "Thick Leather": {
+    "id": 4304,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 6
+    }
+  },
+  "Thick Armor Kit": {
+    "id": 8173,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 5,
+      "Silken Thread": 1
+    }
+  },
+  "Comfortable Leather Hat": {
+    "id": 8174,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 12,
+      "Cured Heavy Hide": 2,
+      "Silken Thread": 2
+    }
+  },
+  "Nightscape Tunic": {
+    "id": 8175,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 7,
+      "Silken Thread": 2
+    }
+  },
+  "Nightscape Headband": {
+    "id": 8176,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 5,
+      "Silken Thread": 2
+    }
+  },
+  "Turtle Scale": {
+    "id": 8167,
+    "quality": 1
+  },
+  "Heavy Silken Thread": {
+    "id": 8343,
+    "quality": 1,
+    "vendor": 2000
+  },
+  "Turtle Scale Gloves": {
+    "id": 8187,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 6,
+      "Turtle Scale": 8,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Turtle Scale Breastplate": {
+    "id": 8189,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 6,
+      "Turtle Scale": 12,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Mageweave Cloth": {
+    "id": 4338,
+    "quality": 1
+  },
+  "Nightscape Shoulders": {
+    "id": 8192,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 8,
+      "Mageweave Cloth": 6,
+      "Silken Thread": 3
+    }
+  },
+  "Turtle Scale Bracers": {
+    "id": 8198,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 8,
+      "Turtle Scale": 12,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Flask of Mojo": {
+    "id": 8151,
+    "quality": 1
+  },
+  "Big Voodoo Robe": {
+    "id": 8200,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Flask of Mojo": 4,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Scorpid Scale": {
+    "id": 8154,
+    "quality": 1
+  },
+  "Tough Scorpid Breastplate": {
+    "id": 8203,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 12,
+      "Scorpid Scale": 12,
+      "Silken Thread": 4
+    }
+  },
+  "Wildvine": {
+    "id": 8153,
+    "quality": 1
+  },
+  "Wild Leather Shoulders": {
+    "id": 8210,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Wildvine": 1,
+      "Cured Thick Hide": 1
+    }
+  },
+  "Big Voodoo Mask": {
+    "id": 8201,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 8,
+      "Flask of Mojo": 6,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Tough Scorpid Bracers": {
+    "id": 8205,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Scorpid Scale": 4,
+      "Silken Thread": 2
+    }
+  },
+  "Tough Scorpid Gloves": {
+    "id": 8204,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 6,
+      "Scorpid Scale": 8,
+      "Silken Thread": 2
+    }
+  },
+  "Wild Leather Vest": {
+    "id": 8211,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 12,
+      "Wildvine": 2,
+      "Cured Thick Hide": 1
+    }
+  },
+  "Wild Leather Helmet": {
+    "id": 8214,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Wildvine": 2,
+      "Cured Thick Hide": 1
+    }
+  },
+  "Worn Dragonscale": {
+    "id": 8165,
+    "quality": 1
+  },
+  "Dragonscale Gauntlets": {
+    "id": 8347,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 24,
+      "Worn Dragonscale": 12,
+      "Heavy Silken Thread": 4,
+      "Cured Thick Hide": 2
+    }
+  },
+  "Thick Wolfhide": {
+    "id": 8368,
+    "quality": 1
+  },
+  "Wicked Claw": {
+    "id": 8146,
+    "quality": 1
+  },
+  "Wolfshead Helm": {
+    "id": 8345,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 18,
+      "Thick Wolfhide": 2,
+      "Wicked Claw": 8,
+      "Heavy Silken Thread": 4,
+      "Cured Thick Hide": 2
+    }
+  },
+  "Nightscape Pants": {
+    "id": 8193,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 14,
+      "Silken Thread": 4
+    }
+  },
+  "Nightscape Cloak": {
+    "id": 8195,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 12,
+      "Silken Thread": 4
+    }
+  },
+  "Turtle Scale Helm": {
+    "id": 8191,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 14,
+      "Turtle Scale": 24,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Globe of Water": {
+    "id": 7079,
+    "quality": 1
+  },
+  "Core of Earth": {
+    "id": 7075,
+    "quality": 1
+  },
+  "Gauntlets of the Sea": {
+    "id": 8346,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 20,
+      "Globe of Water": 8,
+      "Core of Earth": 2,
+      "Cured Thick Hide": 1,
+      "Heavy Silken Thread": 4
+    }
+  },
+  "Tough Scorpid Boots": {
+    "id": 8209,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 12,
+      "Scorpid Scale": 12,
+      "Silken Thread": 6
+    }
+  },
+  "Turtle Scale Leggings": {
+    "id": 8185,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 14,
+      "Turtle Scale": 28,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Nightscape Boots": {
+    "id": 8197,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 16,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Flask of Big Mojo": {
+    "id": 8152,
+    "quality": 1
+  },
+  "Big Voodoo Pants": {
+    "id": 8202,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Flask of Big Mojo": 6,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Big Voodoo Cloak": {
+    "id": 8216,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 14,
+      "Flask of Big Mojo": 4,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Tough Scorpid Shoulders": {
+    "id": 8207,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 12,
+      "Scorpid Scale": 16,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Wild Leather Boots": {
+    "id": 8213,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 14,
+      "Wildvine": 4,
+      "Cured Thick Hide": 2
+    }
+  },
+  "Tough Scorpid Leggings": {
+    "id": 8206,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 14,
+      "Scorpid Scale": 8,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Tough Scorpid Helm": {
+    "id": 8208,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Scorpid Scale": 20,
+      "Heavy Silken Thread": 2
+    }
+  },
+  "Wild Leather Leggings": {
+    "id": 8212,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 16,
+      "Wildvine": 6,
+      "Cured Thick Hide": 2
+    }
+  },
+  "Wild Leather Cloak": {
+    "id": 8215,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 16,
+      "Wildvine": 6,
+      "Cured Thick Hide": 2
+    }
+  },
+  "Heart of Fire": {
+    "id": 7077,
+    "quality": 1
+  },
+  "Helm of Fire": {
+    "id": 8348,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 40,
+      "Heart of Fire": 8,
+      "Core of Earth": 4,
+      "Cured Thick Hide": 2,
+      "Heavy Silken Thread": 4
+    }
+  },
+  "Jet Black Feather": {
+    "id": 8168,
+    "quality": 1
+  },
+  "Black Pearl": {
+    "id": 7971,
+    "quality": 2
+  },
+  "Feathered Breastplate": {
+    "id": 8349,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 40,
+      "Jet Black Feather": 40,
+      "Black Pearl": 2,
+      "Cured Thick Hide": 4,
+      "Heavy Silken Thread": 4
+    }
+  },
+  "Dragonscale Breastplate": {
+    "id": 8367,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 40,
+      "Worn Dragonscale": 30,
+      "Heavy Silken Thread": 4,
+      "Cured Thick Hide": 4
+    }
+  },
+  "Elixir of Agility": {
+    "id": 8949,
+    "quality": 1
+  },
+  "Quickdraw Quiver": {
+    "id": 8217,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 12,
+      "Cured Thick Hide": 1,
+      "Elixir of Agility": 1,
+      "Silken Thread": 4
+    }
+  },
+  "Elixir of Greater Defense": {
+    "id": 8951,
+    "quality": 1
+  },
+  "Thick Leather Ammo Pouch": {
+    "id": 8218,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 10,
+      "Cured Thick Hide": 1,
+      "Elixir of Greater Defense": 1,
+      "Silken Thread": 6
+    }
+  },
+  "Rugged Hide": {
+    "id": 8171,
+    "quality": 1
+  },
+  "Refined Deeprock Salt": {
+    "id": 15409,
+    "quality": 1
+  },
+  "Cured Rugged Hide": {
+    "id": 15407,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Hide": 1,
+      "Refined Deeprock Salt": 1
+    }
+  },
+  "Rugged Leather": {
+    "id": 8170,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 6
+    }
+  },
+  "Rugged Armor Kit": {
+    "id": 15564,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 5
+    }
+  },
+  "Heavy Scorpid Scale": {
+    "id": 15408,
+    "quality": 1
+  },
+  "Rune Thread": {
+    "id": 14341,
+    "quality": 1,
+    "vendor": 4500
+  },
+  "Heavy Scorpid Bracers": {
+    "id": 15077,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 4,
+      "Heavy Scorpid Scale": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Wicked Leather Gauntlets": {
+    "id": 15083,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 8,
+      "Black Dye": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Green Dragonscale": {
+    "id": 15412,
+    "quality": 1
+  },
+  "Green Dragonscale Breastplate": {
+    "id": 15045,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 20,
+      "Green Dragonscale": 25,
+      "Rune Thread": 2
+    }
+  },
+  "Heavy Scorpid Vest": {
+    "id": 15076,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Heavy Scorpid Scale": 6,
+      "Rune Thread": 1
+    }
+  },
+  "Wicked Leather Bracers": {
+    "id": 15084,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 8,
+      "Black Dye": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Chimera Leather": {
+    "id": 15423,
+    "quality": 1
+  },
+  "Chimeric Gloves": {
+    "id": 15074,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Chimera Leather": 6,
+      "Rune Thread": 1
+    }
+  },
+  "Red Dragonscale": {
+    "id": 15414,
+    "quality": 1
+  },
+  "Red Dragonscale Breastplate": {
+    "id": 15047,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 40,
+      "Red Dragonscale": 30,
+      "Rune Thread": 1
+    }
+  },
+  "Runecloth": {
+    "id": 14047,
+    "quality": 1
+  },
+  "Runic Leather Gauntlets": {
+    "id": 15091,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 10,
+      "Runecloth": 6,
+      "Rune Thread": 1
+    }
+  },
+  "Essence of Fire": {
+    "id": 7078,
+    "quality": 2
+  },
+  "Volcanic Leggings": {
+    "id": 15054,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Essence of Fire": 1,
+      "Core of Earth": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Green Dragonscale Leggings": {
+    "id": 15046,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 20,
+      "Green Dragonscale": 25,
+      "Rune Thread": 1
+    }
+  },
+  "Living Essence": {
+    "id": 12803,
+    "quality": 2
+  },
+  "Living Shoulders": {
+    "id": 15061,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Living Essence": 4,
+      "Rune Thread": 1
+    }
+  },
+  "Ironfeather": {
+    "id": 15420,
+    "quality": 1
+  },
+  "Ironfeather Shoulders": {
+    "id": 15067,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 24,
+      "Ironfeather": 80,
+      "Jade": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Chimeric Boots": {
+    "id": 15073,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 4,
+      "Chimera Leather": 8,
+      "Rune Thread": 1
+    }
+  },
+  "Heavy Scorpid Gauntlet": {
+    "id": 15078,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Heavy Scorpid Scale": 8,
+      "Rune Thread": 1
+    }
+  },
+  "Runic Leather Bracers": {
+    "id": 15092,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Black Pearl": 1,
+      "Runecloth": 6,
+      "Rune Thread": 1
+    }
+  },
+  "Frostsaber Leather": {
+    "id": 15422,
+    "quality": 1
+  },
+  "Frostsaber Boots": {
+    "id": 15071,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 4,
+      "Frostsaber Leather": 6,
+      "Rune Thread": 1
+    }
+  },
+  "Essence of Water": {
+    "id": 7080,
+    "quality": 2
+  },
+  "Essence of Air": {
+    "id": 7082,
+    "quality": 2
+  },
+  "Stormshroud Pants": {
+    "id": 15057,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 16,
+      "Essence of Water": 2,
+      "Essence of Air": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Warbear Leather": {
+    "id": 15419,
+    "quality": 1
+  },
+  "Warbear Harness": {
+    "id": 15064,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 28,
+      "Warbear Leather": 12,
+      "Rune Thread": 1
+    }
+  },
+  "Heavy Scorpid Belt": {
+    "id": 15082,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Heavy Scorpid Scale": 8,
+      "Rune Thread": 1
+    }
+  },
+  "Wicked Leather Headband": {
+    "id": 15086,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Black Dye": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Runic Leather Belt": {
+    "id": 15093,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Runecloth": 10,
+      "Rune Thread": 1
+    }
+  },
+  "Chimeric Leggings": {
+    "id": 15072,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 8,
+      "Chimera Leather": 8,
+      "Rune Thread": 1
+    }
+  },
+  "Frostsaber Leggings": {
+    "id": 15069,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Frostsaber Leather": 8,
+      "Rune Thread": 1
+    }
+  },
+  "Heavy Scorpid Leggings": {
+    "id": 15079,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 8,
+      "Heavy Scorpid Scale": 12,
+      "Rune Thread": 1
+    }
+  },
+  "Essence of Earth": {
+    "id": 7076,
+    "quality": 2
+  },
+  "Volcanic Breastplate": {
+    "id": 15053,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 8,
+      "Essence of Fire": 1,
+      "Essence of Earth": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Blue Dragonscale": {
+    "id": 15415,
+    "quality": 1
+  },
+  "Blue Dragonscale Breastplate": {
+    "id": 15048,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 28,
+      "Blue Dragonscale": 30,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Living Leggings": {
+    "id": 15060,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 16,
+      "Living Essence": 6,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Stormshroud Armor": {
+    "id": 15056,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 16,
+      "Essence of Water": 3,
+      "Essence of Air": 3,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Warbear Woolies": {
+    "id": 15065,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 24,
+      "Warbear Leather": 14,
+      "Rune Thread": 1
+    }
+  },
+  "Chimeric Vest": {
+    "id": 15075,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 10,
+      "Chimera Leather": 10,
+      "Rune Thread": 1
+    }
+  },
+  "Black Dragonscale": {
+    "id": 15416,
+    "quality": 1
+  },
+  "Black Dragonscale Breastplate": {
+    "id": 15050,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 40,
+      "Black Dragonscale": 60,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Devilsaur Leather": {
+    "id": 15417,
+    "quality": 1
+  },
+  "Devilsaur Gauntlets": {
+    "id": 15063,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Devilsaur Leather": 8,
+      "Rune Thread": 1
+    }
+  },
+  "Ironfeather Breastplate": {
+    "id": 15066,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 40,
+      "Ironfeather": 120,
+      "Jade": 1,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Runic Leather Headband": {
+    "id": 15094,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 14,
+      "Runecloth": 10,
+      "Rune Thread": 1
+    }
+  },
+  "Wicked Leather Pants": {
+    "id": 15087,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 16,
+      "Cured Rugged Hide": 1,
+      "Black Dye": 3,
+      "Rune Thread": 1
+    }
+  },
+  "Enchanted Leather": {
+    "id": 12810,
+    "quality": 1
+  },
+  "Blue Dragonscale Shoulders": {
+    "id": 15049,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 28,
+      "Blue Dragonscale": 30,
+      "Enchanted Leather": 2,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Frostsaber Gloves": {
+    "id": 15070,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 6,
+      "Frostsaber Leather": 10,
+      "Rune Thread": 1
+    }
+  },
+  "Heavy Scorpid Helm": {
+    "id": 15080,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 8,
+      "Heavy Scorpid Scale": 12,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Stormshroud Shoulders": {
+    "id": 15058,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Essence of Water": 3,
+      "Essence of Air": 3,
+      "Enchanted Leather": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Black Dragonscale Shoulders": {
+    "id": 15051,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 44,
+      "Black Dragonscale": 45,
+      "Enchanted Leather": 2,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Devilsaur Leggings": {
+    "id": 15062,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Devilsaur Leather": 14,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Mooncloth": {
+    "id": 14342,
+    "quality": 1
+  },
+  "Living Breastplate": {
+    "id": 15059,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 16,
+      "Living Essence": 8,
+      "Mooncloth": 2,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Scale of Onyxia": {
+    "id": 15410,
+    "quality": 3
+  },
+  "Cindercloth Cloak": {
+    "id": 14044,
+    "quality": 2
+  },
+  "Onyxia Scale Cloak": {
+    "id": 15138,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Scale of Onyxia": 1,
+      "Cindercloth Cloak": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Runic Leather Pants": {
+    "id": 15095,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 18,
+      "Runecloth": 12,
+      "Enchanted Leather": 2,
+      "Rune Thread": 1
+    }
+  },
+  "Wicked Leather Belt": {
+    "id": 15088,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 14,
+      "Black Dye": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Heavy Scorpid Shoulders": {
+    "id": 15081,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 14,
+      "Heavy Scorpid Scale": 14,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Runic Leather Armor": {
+    "id": 15090,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 22,
+      "Enchanted Leather": 4,
+      "Runecloth": 16,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Volcanic Shoulders": {
+    "id": 15055,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 10,
+      "Essence of Fire": 1,
+      "Essence of Earth": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Felcloth": {
+    "id": 14256,
+    "quality": 1
+  },
+  "Wicked Leather Armor": {
+    "id": 15085,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 20,
+      "Cured Rugged Hide": 2,
+      "Felcloth": 6,
+      "Black Dye": 4,
+      "Rune Thread": 2
+    }
+  },
+  "Black Dragonscale Leggings": {
+    "id": 15052,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 40,
+      "Black Dragonscale": 60,
+      "Enchanted Leather": 4,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Frostsaber Tunic": {
+    "id": 15068,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Frostsaber Leather": 12,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Onyxia Scale Breastplate": {
+    "id": 15141,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 40,
+      "Scale of Onyxia": 12,
+      "Black Dragonscale": 60,
+      "Rune Thread": 2
+    }
+  },
+  "Runic Leather Shoulders": {
+    "id": 15096,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 16,
+      "Enchanted Leather": 4,
+      "Runecloth": 18,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Core Leather": {
+    "id": 17012,
+    "quality": 1
+  },
+  "Fiery Core": {
+    "id": 17010,
+    "quality": 3
+  },
+  "Lava Core": {
+    "id": 17011,
+    "quality": 3
+  },
+  "Corehound Boots": {
+    "id": 16982,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Core Leather": 20,
+      "Fiery Core": 6,
+      "Lava Core": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Molten Helm": {
+    "id": 16983,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Core Leather": 15,
+      "Fiery Core": 3,
+      "Lava Core": 6,
+      "Rune Thread": 2
+    }
+  },
+  "Black Dragonscale Boots": {
+    "id": 16984,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 6,
+      "Black Dragonscale": 30,
+      "Fiery Core": 4,
+      "Lava Core": 3,
+      "Rune Thread": 2
+    }
+  },
+  "Gloves of the Greatfather": {
+    "id": 17721,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 8,
+      "Elemental Earth": 4,
+      "Silken Thread": 1
+    }
+  },
+  "Shadowgem": {
+    "id": 1210,
+    "quality": 2
+  },
+  "Shadowskin Gloves": {
+    "id": 18238,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thick Leather": 6,
+      "Shadowcat Hide": 8,
+      "Black Pearl": 2,
+      "Cured Heavy Hide": 2,
+      "Shadowgem": 4,
+      "Heavy Silken Thread": 1
+    }
+  },
+  "Core Armor Kit": {
+    "id": 18251,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Core Leather": 3,
+      "Rune Thread": 2
+    }
+  },
+  "Bolt of Runecloth": {
+    "id": 14048,
+    "quality": 1
+  },
+  "Ogre Tannin": {
+    "id": 18240,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Gordok Ogre Suit": {
+    "id": 18258,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 4,
+      "Bolt of Runecloth": 2,
+      "Ogre Tannin": 1,
+      "Rune Thread": 1
+    }
+  },
+  "Powerful Mojo": {
+    "id": 12804,
+    "quality": 1
+  },
+  "Girdle of Insight": {
+    "id": 18504,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Powerful Mojo": 12,
+      "Cured Rugged Hide": 2,
+      "Rune Thread": 4
+    }
+  },
+  "Black Diamond": {
+    "id": 11754,
+    "quality": 2
+  },
+  "Mongoose Boots": {
+    "id": 18506,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Essence of Air": 6,
+      "Black Diamond": 4,
+      "Cured Rugged Hide": 2,
+      "Rune Thread": 4
+    }
+  },
+  "Larval Acid": {
+    "id": 18512,
+    "quality": 1
+  },
+  "Swift Flight Bracers": {
+    "id": 18508,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 12,
+      "Larval Acid": 8,
+      "Ironfeather": 60,
+      "Cured Rugged Hide": 4,
+      "Rune Thread": 4
+    }
+  },
+  "Brilliant Chromatic Scale": {
+    "id": 12607,
+    "quality": 3
+  },
+  "Chromatic Cloak": {
+    "id": 18509,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Brilliant Chromatic Scale": 12,
+      "Black Dragonscale": 30,
+      "Red Dragonscale": 30,
+      "Cured Rugged Hide": 5,
+      "Rune Thread": 8
+    }
+  },
+  "Hide of the Wild": {
+    "id": 18510,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Living Essence": 12,
+      "Essence of Water": 10,
+      "Larval Acid": 8,
+      "Cured Rugged Hide": 3,
+      "Rune Thread": 8
+    }
+  },
+  "Skin of Shadow": {
+    "id": 12753,
+    "quality": 2,
+    "bindOnPickup": true
+  },
+  "Guardian Stone": {
+    "id": 12809,
+    "quality": 2
+  },
+  "Shifting Cloak": {
+    "id": 18511,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Essence of Air": 12,
+      "Skin of Shadow": 4,
+      "Guardian Stone": 8,
+      "Cured Rugged Hide": 4,
+      "Rune Thread": 8
+    }
+  },
+  "Heavy Leather Ball": {
+    "id": 18662,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 2,
+      "Fine Thread": 1
+    }
+  },
+  "Barbaric Bracers": {
+    "id": 18948,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Leather": 8,
+      "Cured Heavy Hide": 2,
+      "Small Lustrous Pearl": 4,
+      "Raptor Hide": 1,
+      "Large Fang": 4
+    }
+  },
+  "Might of the Timbermaw": {
+    "id": 19044,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Powerful Mojo": 2,
+      "Living Essence": 4,
+      "Cured Rugged Hide": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Dawn Treaders": {
+    "id": 19052,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 30,
+      "Guardian Stone": 2,
+      "Essence of Water": 4,
+      "Cured Rugged Hide": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Ironweb Spider Silk": {
+    "id": 14227,
+    "quality": 1
+  },
+  "Timbermaw Brawlers": {
+    "id": 19049,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 8,
+      "Powerful Mojo": 6,
+      "Living Essence": 6,
+      "Cured Rugged Hide": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Golden Mantle of the Dawn": {
+    "id": 19058,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 8,
+      "Living Essence": 4,
+      "Guardian Stone": 4,
+      "Cured Rugged Hide": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Lava Belt": {
+    "id": 19149,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Lava Core": 5,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Chromatic Gauntlets": {
+    "id": 19157,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fiery Core": 5,
+      "Lava Core": 2,
+      "Core Leather": 4,
+      "Brilliant Chromatic Scale": 4,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Corehound Belt": {
+    "id": 19162,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fiery Core": 8,
+      "Core Leather": 12,
+      "Enchanted Leather": 10,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Molten Belt": {
+    "id": 19163,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fiery Core": 2,
+      "Lava Core": 7,
+      "Essence of Earth": 6,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Primal Tiger Leather": {
+    "id": 19768,
+    "quality": 1
+  },
+  "Bloodvine": {
+    "id": 19726,
+    "quality": 2
+  },
+  "Blood Tiger Breastplate": {
+    "id": 19688,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Tiger Leather": 35,
+      "Bloodvine": 2,
+      "Cured Rugged Hide": 3,
+      "Rune Thread": 3
+    }
+  },
+  "Blood Tiger Shoulders": {
+    "id": 19689,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Tiger Leather": 25,
+      "Bloodvine": 2,
+      "Cured Rugged Hide": 3,
+      "Rune Thread": 3
+    }
+  },
+  "Primal Bat Leather": {
+    "id": 19767,
+    "quality": 1
+  },
+  "Primal Batskin Bracers": {
+    "id": 19687,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Bat Leather": 8,
+      "Cured Rugged Hide": 3,
+      "Living Essence": 4,
+      "Rune Thread": 3
+    }
+  },
+  "Primal Batskin Gloves": {
+    "id": 19686,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Bat Leather": 10,
+      "Cured Rugged Hide": 4,
+      "Living Essence": 4,
+      "Rune Thread": 3
+    }
+  },
+  "Primal Batskin Jerkin": {
+    "id": 19685,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Bat Leather": 14,
+      "Cured Rugged Hide": 5,
+      "Living Essence": 4,
+      "Rune Thread": 4
+    }
+  },
+  "Green Dragonscale Gauntlets": {
+    "id": 20296,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 20,
+      "Green Dragonscale": 30,
+      "Cured Rugged Hide": 1,
+      "Rune Thread": 2
+    }
+  },
+  "Blue Dragonscale Leggings": {
+    "id": 20295,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rugged Leather": 28,
+      "Blue Dragonscale": 36,
+      "Cured Rugged Hide": 2,
+      "Rune Thread": 2
+    }
+  },
+  "Light Silithid Carapace": {
+    "id": 20500,
+    "quality": 1
+  },
+  "Silithid Chitin": {
+    "id": 20498,
+    "quality": 1
+  },
+  "Spitfire Bracers": {
+    "id": 20481,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Silithid Carapace": 1,
+      "Silithid Chitin": 20,
+      "Essence of Fire": 2
+    }
+  },
+  "Spitfire Gauntlets": {
+    "id": 20480,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Silithid Carapace": 2,
+      "Silithid Chitin": 30,
+      "Essence of Fire": 2,
+      "Cured Rugged Hide": 1
+    }
+  },
+  "Spitfire Breastplate": {
+    "id": 20479,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Light Silithid Carapace": 3,
+      "Silithid Chitin": 40,
+      "Essence of Fire": 2,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Heavy Silithid Carapace": {
+    "id": 20501,
+    "quality": 1
+  },
+  "Sandstalker Bracers": {
+    "id": 20476,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Silithid Carapace": 1,
+      "Silithid Chitin": 20,
+      "Larval Acid": 2
+    }
+  },
+  "Sandstalker Gauntlets": {
+    "id": 20477,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Silithid Carapace": 2,
+      "Silithid Chitin": 30,
+      "Larval Acid": 2,
+      "Cured Rugged Hide": 1
+    }
+  },
+  "Sandstalker Breastplate": {
+    "id": 20478,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Silithid Carapace": 3,
+      "Silithid Chitin": 40,
+      "Larval Acid": 2,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Black Whelp Tunic": {
+    "id": 20575,
+    "quality": 2,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Medium Leather": 8,
+      "Black Whelp Scale": 8,
+      "Cured Light Hide": 1,
+      "Fine Thread": 2
+    }
+  },
+  "Dreamscale": {
+    "id": 20381,
+    "quality": 2
+  },
+  "Dreamscale Breastplate": {
+    "id": 20380,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 12,
+      "Dreamscale": 6,
+      "Living Essence": 4,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 6
+    }
+  },
+  "Stormshroud Gloves": {
+    "id": 21278,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 6,
+      "Essence of Water": 4,
+      "Essence of Air": 4,
+      "Cured Rugged Hide": 2,
+      "Ironweb Spider Silk": 2
+    }
+  },
+  "Frozen Rune": {
+    "id": 22682,
+    "quality": 3
+  },
+  "Icy Scale Bracers": {
+    "id": 22665,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 4,
+      "Heavy Scorpid Scale": 16,
+      "Essence of Water": 2,
+      "Cured Rugged Hide": 2,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Icy Scale Breastplate": {
+    "id": 22664,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 7,
+      "Heavy Scorpid Scale": 24,
+      "Essence of Water": 2,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Icy Scale Gauntlets": {
+    "id": 22666,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 5,
+      "Heavy Scorpid Scale": 16,
+      "Essence of Water": 2,
+      "Cured Rugged Hide": 3,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Polar Bracers": {
+    "id": 22663,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 4,
+      "Enchanted Leather": 12,
+      "Essence of Water": 2,
+      "Cured Rugged Hide": 2,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Polar Gloves": {
+    "id": 22662,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 5,
+      "Enchanted Leather": 12,
+      "Essence of Water": 2,
+      "Cured Rugged Hide": 3,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Polar Tunic": {
+    "id": 22661,
+    "quality": 4,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Frozen Rune": 7,
+      "Enchanted Leather": 16,
+      "Essence of Water": 2,
+      "Cured Rugged Hide": 4,
+      "Ironweb Spider Silk": 4
+    }
+  },
+  "Bramblewood Belt": {
+    "id": 22761,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 4,
+      "Living Essence": 2,
+      "Cured Rugged Hide": 1
+    }
+  },
+  "Bramblewood Boots": {
+    "id": 22760,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 6,
+      "Larval Acid": 2,
+      "Living Essence": 2,
+      "Cured Rugged Hide": 2
+    }
+  },
+  "Bramblewood Helm": {
+    "id": 22759,
+    "quality": 3,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Enchanted Leather": 12,
+      "Bloodvine": 2,
+      "Living Essence": 2,
+      "Cured Rugged Hide": 2
+    }
+  }
+}
