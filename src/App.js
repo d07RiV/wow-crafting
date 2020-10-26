@@ -146,9 +146,12 @@ function ItemLink({name, data}) {
   }
 }
 
-function ResultView({results, item, count, overrides, setOverrides}) {
+function ResultView({item, count, ...props}) {
+  const {results, overrides, setOverrides, setShopping} = props;
   const setMarket = React.useCallback(() => setOverrides(ov => ({...ov, [item]: "market"})), [setOverrides, item]);
   const setCrafting = React.useCallback(() => setOverrides(ov => ({...ov, [item]: "crafting"})), [setOverrides, item]);
+
+  const addShopping = React.useCallback(() => setShopping(s => ({...s, [item]: (s[item] || 0) + 1})), [setShopping, item]);
 
   const data = results[item];
   if (!data) return null;
@@ -160,21 +163,24 @@ function ResultView({results, item, count, overrides, setOverrides}) {
     price = <React.Fragment>Vendor: <Money value={data.vendorPrice}/></React.Fragment>;
   } else if (!data.marketValue && !data.crafting) {
     price = data.bindOnPickup ? "Bind on Pickup" : "Not available";
-  } else if (data.marketValue || data.craftingPrice) {
-    price = (
-      <React.Fragment>
-        {!!data.marketValue && <span onClick={setMarket} className={mode === "market" ? "active" : "inactive"}>Market{data.faction ? ` (${data.faction})` : ""}: <Money value={data.marketValue}/> (quantity: {data.quantity})</span>}
-        {!!(data.marketValue && data.crafting) && " / "}
-        {!!data.crafting && <span onClick={setCrafting} className={mode === "crafting" ? "active" : "inactive"}>{profLabel(data)}<Money value={craftingPrice(results, item, overrides)}/></span>}
-      </React.Fragment>
-    );
+  } else if (data.marketValue || data.craftingPrice != null) {
+    const cprice = data.crafting ? craftingPrice(results, item, overrides) : 0;
+    if (data.marketValue || cprice) {
+      price = (
+        <React.Fragment>
+          {!!data.marketValue && <span onClick={setMarket} className={mode === "market" ? "active" : "inactive"}>Market{data.faction ? ` (${data.faction})` : ""}: <Money value={data.marketValue}/> (quantity: {data.quantity})</span>}
+          {!!(data.marketValue && data.crafting) && " / "}
+          {cprice > 0 && <span onClick={setCrafting} className={mode === "crafting" ? "active" : "inactive"}>{profLabel(data)}<Money value={cprice}/></span>}
+        </React.Fragment>
+      );
+    }
   }
   return (
     <div className="item">
-      <div className="header">{!!count && <span className="count">{count}x</span>}<ItemLink name={item} data={data}/>{!!price && " - "}{price}</div>
+      <div className="header">{!!count && <span className="count">{count}x</span>}<ItemLink name={item} data={data}/>{!!price && " "}{!!price && <span className="add-list" onClick={addShopping}>(add)</span>}{!!price && " - "}{price}</div>
       {!!(!data.vendorPrice && mode === "crafting" && data.crafting) && (
         <div className="crafting">
-          {Object.entries(data.crafting).map(([name, quantity]) => <ResultView key={name} results={results} item={name} count={quantity} overrides={overrides} setOverrides={setOverrides}/>)}
+          {Object.entries(data.crafting).map(([name, quantity]) => <ResultView key={name} item={name} count={quantity} {...props}/>)}
           {!!data.requiredMoney && (
             <div className="item">
               <div className="header">Required Money: <Money value={data.requiredMoney}/></div>
@@ -186,19 +192,56 @@ function ResultView({results, item, count, overrides, setOverrides}) {
   );
 }
 
-function ShoppingList({results, item, overrides}) {
-  const list = React.useMemo(() => {
-    const res = Object.entries(shoppingList({}, results, item, 1, overrides)).filter(([name, count]) => count > 0);
-    const price = data => data ? (data.vendorPrice || data.marketValue || Infinity) : 0;
-    res.sort(([n1, c1], [n2, c2]) => price(results[n2]) * c2 - price(results[n1]) * c1);
-    return res;
-  }, [results, item, overrides]);
-  if (!list.length) {
+function ShoppingItem({results, item, count, setShopping}) {
+  const onChange = React.useCallback(e => setShopping(list => {
+    list = {...list};
+    const value = parseInt(e.target.value);
+    if (value && !isNaN(value)) {
+      list[item] = value;
+    } else {
+      delete list[item];
+    }
+    return list;
+  }), [item, setShopping]);
+
+  return <li><input type="number" className="task-counter" value={count} onChange={onChange}/> <ItemLink name={item} data={results[item]}/></li>;
+}
+
+function ShoppingList({results, overrides, shopping, setShopping}) {
+  const [list, total] = React.useMemo(() => {
+    const list = Object.entries(Object.entries(shopping).reduce((list, [item, count]) => shoppingList(list, results, item, count, overrides), {}))
+      .filter(([name, count]) => count > 0)
+      .map(([name, count]) => {
+        if (name === "money") {
+          return [name, count, count, 4];
+        } else {
+          const data = results[name];
+          if (data.vendorPrice) {
+            return [name, count, data.vendorPrice * count, 3];
+          } else if (data.bindOnPickup) {
+            return [name, count, 0, 0];
+          } else if (!data.marketValue) {
+            return [name, count, Infinity, 1];
+          } else {
+            return [name, count, data.marketValue * count, 2];
+          }
+        }
+      });
+    const total = list.reduce((cur, [n, c, p, s]) => cur + p, 0);
+    list.sort(([n1, c1, p1, s1], [n2, c2, p2, s2]) => (s1 === s2 ? p2 - p1 : s1 - s2));
+    return [list, total];
+  }, [results, overrides, shopping]);
+  const clearList = React.useCallback(() => setShopping({}), [setShopping]);
+  if (!Object.keys(shopping).length) {
     return null;
   }
   return (
     <div className="shopping-list">
-      <div className="header">Shopping List</div>
+      <div className="header">Shopping for <span className="add-list" onClick={clearList}>(clear)</span></div>
+      <ul>
+        {Object.entries(shopping).map(([item, count]) => <ShoppingItem key={item} results={results} item={item} count={shopping[item]} setShopping={setShopping}/>)}
+      </ul>
+      <div className="header">Items to buy - <Money value={total}/></div>
       <ul>
         {list.map(([name, count]) => {
           if (name === "money") {
@@ -231,6 +274,7 @@ export default function App() {
   const [item, setItem] = React.useState();
   const [results, setResults] = React.useState();
   const [overrides, setOverrides] = React.useState({});
+  const [shopping, setShopping] = React.useState({});
 
   const onServerChange = React.useCallback(v => {
     setResults(null);
@@ -243,22 +287,21 @@ export default function App() {
     setFaction(v);
   }, [setFaction]);
   const onItemChange = React.useCallback(v => {
-    setResults(null);
     setItem(v);
   }, []);
 
   const toCalc = React.useRef();
   React.useEffect(() => {
-    if (!server || !faction || !item) return;
-    const slug = `${server.value}-${faction.value}-${item.value}`;
+    if (!server || !faction) return;
+    const slug = `${server.value}-${faction.value}`;
     toCalc.current = slug;
     setResults(true);
-    calculate(server.value, faction.value, item.value).then(data => {
+    calculate(server.value, faction.value).then(data => {
       if (toCalc.current === slug) {
         setResults(data);
       }
     });
-  }, [server, faction, item]);
+  }, [server, faction]);
 
   return (
     <div className="App">
@@ -273,10 +316,10 @@ export default function App() {
             <div className="calculating">Calculating...</div>
           ) : (
             <div className="results-main">
-              <ResultView results={results} item={item.value} overrides={overrides} setOverrides={setOverrides}/>
+              <ResultView results={results} item={item.value} overrides={overrides} setOverrides={setOverrides} shopping={shopping} setShopping={setShopping}/>
             </div>
           )}
-          {results !== true && <ShoppingList results={results} item={item.value} overrides={overrides}/>}
+          {results !== true && <ShoppingList results={results} overrides={overrides} shopping={shopping} setShopping={setShopping}/>}
         </div>
       )}
     </div>

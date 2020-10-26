@@ -44,6 +44,14 @@ body {
       cursor: pointer;
     }
 
+    .add-list {
+      color: #777;
+      cursor: pointer;
+      &:hover {
+        color: #fff;
+      }
+    }
+
     li, .header {
       margin: 4px 0;
     }
@@ -66,6 +74,11 @@ body {
     .quality-5 { color: #ff8800; }
     .quality-6 { color: #e5cc80; }
 
+    .task-counter {
+      width: 40px;
+      margin-right: 4px;
+    }
+
     .results-main {
       vertical-align: top;
       display: inline-block;
@@ -77,6 +90,10 @@ body {
       padding: 1em;
       border: 1px solid #444;
       border-radius: 0.8em;
+      .header {
+        font-size: 1.2em;
+        font-weight: bold;
+      }
     }
 
     .trade-icon {

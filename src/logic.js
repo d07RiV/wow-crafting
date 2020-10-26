@@ -1,7 +1,7 @@
 import { loadData } from './nexushub';
 import Data from './data';
 
-export default async function calculate(server, faction, item) {
+export default async function calculate(server, faction) {
   const data = await loadData(server, faction);
 
   const price = r => Math.min(...[r.vendorPrice, r.marketValue, r.craftingPrice, r.bindOnPickup ? 0 : Infinity].filter(x => !isNaN(x)));
@@ -36,7 +36,6 @@ export default async function calculate(server, faction, item) {
     }
     return price(results[item]);
   }
-  //process(item);
   Object.keys(Data).forEach(n => process(n));
   return results;
 }
