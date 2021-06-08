@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wow-crafting/static/css/main.2046631a.chunk.css",
-    "main.js": "/wow-crafting/static/js/main.2bd9aa17.chunk.js",
-    "main.js.map": "/wow-crafting/static/js/main.2bd9aa17.chunk.js.map",
+    "main.css": "/wow-crafting/static/css/main.c93f29fe.chunk.css",
+    "main.js": "/wow-crafting/static/js/main.c080da50.chunk.js",
+    "main.js.map": "/wow-crafting/static/js/main.c080da50.chunk.js.map",
     "runtime-main.js": "/wow-crafting/static/js/runtime-main.1a835eb7.js",
     "runtime-main.js.map": "/wow-crafting/static/js/runtime-main.1a835eb7.js.map",
-    "static/js/2.67d64b91.chunk.js": "/wow-crafting/static/js/2.67d64b91.chunk.js",
-    "static/js/2.67d64b91.chunk.js.map": "/wow-crafting/static/js/2.67d64b91.chunk.js.map",
+    "static/js/2.ab31ba65.chunk.js": "/wow-crafting/static/js/2.ab31ba65.chunk.js",
+    "static/js/2.ab31ba65.chunk.js.map": "/wow-crafting/static/js/2.ab31ba65.chunk.js.map",
     "index.html": "/wow-crafting/index.html",
-    "static/css/main.2046631a.chunk.css.map": "/wow-crafting/static/css/main.2046631a.chunk.css.map",
-    "static/js/2.67d64b91.chunk.js.LICENSE.txt": "/wow-crafting/static/js/2.67d64b91.chunk.js.LICENSE.txt"
+    "static/css/main.c93f29fe.chunk.css.map": "/wow-crafting/static/css/main.c93f29fe.chunk.css.map",
+    "static/js/2.ab31ba65.chunk.js.LICENSE.txt": "/wow-crafting/static/js/2.ab31ba65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a835eb7.js",
-    "static/js/2.67d64b91.chunk.js",
-    "static/css/main.2046631a.chunk.css",
-    "static/js/main.2bd9aa17.chunk.js"
+    "static/js/2.ab31ba65.chunk.js",
+    "static/css/main.c93f29fe.chunk.css",
+    "static/js/main.c080da50.chunk.js"
   ]
 }
