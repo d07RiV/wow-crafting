@@ -1,0 +1,463 @@
+{
+  "Silver Ore": {
+    "id": 2775,
+    "quality": 2,
+    "icon": "inv_stone_16"
+  },
+  "Silver Bar": {
+    "id": 2842,
+    "quality": 2,
+    "icon": "inv_ingot_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Silver Ore": 1
+    },
+    "colors": [
+      75,
+      115,
+      122,
+      130
+    ]
+  },
+  "Copper Bar": {
+    "id": 2840,
+    "quality": 1,
+    "icon": "inv_ingot_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Ore": 1
+    },
+    "colors": [
+      0,
+      25,
+      47,
+      70
+    ]
+  },
+  "Tin Bar": {
+    "id": 3576,
+    "quality": 1,
+    "icon": "inv_ingot_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Tin Ore": 1
+    },
+    "colors": [
+      65,
+      65,
+      70,
+      75
+    ]
+  },
+  "Bronze Bar": {
+    "id": 2841,
+    "quality": 1,
+    "icon": "inv_ingot_bronze",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Copper Bar": 1,
+      "Tin Bar": 1
+    },
+    "colors": [
+      65,
+      65,
+      90,
+      115
+    ]
+  },
+  "Gold Ore": {
+    "id": 2776,
+    "quality": 2,
+    "icon": "inv_ore_gold_01"
+  },
+  "Gold Bar": {
+    "id": 3577,
+    "quality": 2,
+    "icon": "inv_ingot_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Gold Ore": 1
+    },
+    "colors": [
+      155,
+      170,
+      177,
+      185
+    ]
+  },
+  "Iron Ore": {
+    "id": 2772,
+    "quality": 1,
+    "icon": "inv_ore_iron_01"
+  },
+  "Iron Bar": {
+    "id": 3575,
+    "quality": 1,
+    "icon": "inv_ingot_iron",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Iron Ore": 1
+    },
+    "colors": [
+      125,
+      130,
+      145,
+      160
+    ]
+  },
+  "Tin Ore": {
+    "id": 2771,
+    "quality": 1,
+    "icon": "inv_ore_tin_01"
+  },
+  "Coal": {
+    "id": 3857,
+    "quality": 1,
+    "icon": "inv_ore_tin_01"
+  },
+  "Steel Bar": {
+    "id": 3859,
+    "quality": 1,
+    "icon": "inv_ingot_steel",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Iron Bar": 1,
+      "Coal": 1
+    },
+    "colors": [
+      165,
+      165,
+      165,
+      165
+    ]
+  },
+  "Copper Ore": {
+    "id": 2770,
+    "quality": 1,
+    "icon": "inv_ore_copper_01"
+  },
+  "Truesilver Ore": {
+    "id": 7911,
+    "quality": 2,
+    "icon": "inv_ore_truesilver_01"
+  },
+  "Truesilver Bar": {
+    "id": 6037,
+    "quality": 2,
+    "icon": "inv_ingot_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Truesilver Ore": 1
+    },
+    "colors": [
+      230,
+      235,
+      242,
+      250
+    ]
+  },
+  "Mithril Ore": {
+    "id": 3858,
+    "quality": 1,
+    "icon": "inv_ore_mithril_02"
+  },
+  "Mithril Bar": {
+    "id": 3860,
+    "quality": 1,
+    "icon": "inv_ingot_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Ore": 1
+    },
+    "colors": [
+      175,
+      175,
+      202,
+      230
+    ]
+  },
+  "Dark Iron Ore": {
+    "id": 11370,
+    "quality": 1,
+    "icon": "inv_ore_mithril_01"
+  },
+  "Dark Iron Bar": {
+    "id": 11371,
+    "quality": 1,
+    "icon": "inv_ingot_mithril",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Dark Iron Ore": 8
+    },
+    "colors": [
+      0,
+      300,
+      305,
+      310
+    ]
+  },
+  "Thorium Ore": {
+    "id": 10620,
+    "quality": 1,
+    "icon": "inv_ore_thorium_02"
+  },
+  "Thorium Bar": {
+    "id": 12359,
+    "quality": 1,
+    "icon": "inv_ingot_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thorium Ore": 1
+    },
+    "colors": [
+      250,
+      250,
+      270,
+      290
+    ]
+  },
+  "Elementium Ore": {
+    "id": 18562,
+    "quality": 4,
+    "icon": "inv_stone_sharpeningstone_01"
+  },
+  "Arcanite Bar": {
+    "id": 12360,
+    "quality": 2,
+    "icon": "inv_misc_stonetablet_05"
+  },
+  "Fiery Core": {
+    "id": 17010,
+    "quality": 3,
+    "icon": "spell_fire_flamebolt"
+  },
+  "Elemental Flux": {
+    "id": 18567,
+    "quality": 1,
+    "icon": "spell_frost_fireresistancetotem"
+  },
+  "Elementium Bar": {
+    "id": 17771,
+    "quality": 5,
+    "icon": "inv_ingot_thorium",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Elementium Ore": 1,
+      "Arcanite Bar": 10,
+      "Fiery Core": 1,
+      "Elemental Flux": 3
+    },
+    "colors": [
+      0,
+      350,
+      362,
+      375
+    ]
+  },
+  "Fel Iron Ore": {
+    "id": 23424,
+    "quality": 1,
+    "icon": "inv_ore_feliron"
+  },
+  "Fel Iron Bar": {
+    "id": 23445,
+    "quality": 1,
+    "icon": "inv_ingot_feliron",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Ore": 2
+    },
+    "colors": [
+      300,
+      300,
+      307,
+      315
+    ]
+  },
+  "Adamantite Ore": {
+    "id": 23425,
+    "quality": 1,
+    "icon": "inv_ore_adamantium"
+  },
+  "Adamantite Bar": {
+    "id": 23446,
+    "quality": 1,
+    "icon": "inv_ingot_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Adamantite Ore": 2
+    },
+    "colors": [
+      325,
+      325,
+      332,
+      340
+    ]
+  },
+  "Eternium Ore": {
+    "id": 23427,
+    "quality": 2,
+    "icon": "inv_ore_eternium"
+  },
+  "Eternium Bar": {
+    "id": 23447,
+    "quality": 2,
+    "icon": "inv_ingot_11",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Eternium Ore": 2
+    },
+    "colors": [
+      350,
+      350,
+      357,
+      365
+    ]
+  },
+  "Felsteel Bar": {
+    "id": 23448,
+    "quality": 2,
+    "icon": "inv_ingot_felsteel",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Bar": 3,
+      "Eternium Bar": 2
+    },
+    "colors": [
+      350,
+      355,
+      367,
+      380
+    ]
+  },
+  "Khorium Ore": {
+    "id": 23426,
+    "quality": 2,
+    "icon": "inv_ore_khorium"
+  },
+  "Khorium Bar": {
+    "id": 23449,
+    "quality": 2,
+    "icon": "inv_ingot_09",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Khorium Ore": 2
+    },
+    "colors": [
+      375,
+      375,
+      375,
+      375
+    ]
+  },
+  "Hardened Adamantite Bar": {
+    "id": 23573,
+    "quality": 1,
+    "icon": "inv_ingot_adamantite",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Adamantite Bar": 10
+    },
+    "colors": [
+      375,
+      375,
+      375,
+      375
+    ]
+  },
+  "Primal Earth": {
+    "id": 22452,
+    "quality": 2,
+    "icon": "inv_elemental_primal_earth"
+  },
+  "Mote of Earth": {
+    "id": 22573,
+    "quality": 1,
+    "icon": "inv_elemental_mote_earth01",
+    "craftMin": 10,
+    "craftMax": 10,
+    "source": 6,
+    "reagents": {
+      "Primal Earth": 1
+    },
+    "colors": [
+      300,
+      300,
+      300,
+      300
+    ]
+  },
+  "Primal Fire": {
+    "id": 21884,
+    "quality": 2,
+    "icon": "inv_elemental_primal_fire"
+  },
+  "Mote of Fire": {
+    "id": 22574,
+    "quality": 1,
+    "icon": "inv_elemental_mote_fire01",
+    "craftMin": 10,
+    "craftMax": 10,
+    "source": 6,
+    "reagents": {
+      "Primal Fire": 1
+    },
+    "colors": [
+      300,
+      300,
+      300,
+      300
+    ]
+  },
+  "Hardened Khorium": {
+    "id": 35128,
+    "quality": 2,
+    "icon": "inv_ingot_thorium",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Khorium Bar": 3,
+      "Hardened Adamantite Bar": 1
+    },
+    "colors": [
+      375,
+      375,
+      375,
+      375
+    ]
+  }
+}

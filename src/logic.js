@@ -17,6 +17,7 @@ export default async function calculate(server, faction) {
       const r = results[item] = {};
       r.id = info.id;
       r.quality = info.quality;
+      r.icon = info.icon;
       if (info.id && data[info.id]) {
         Object.assign(r, data[info.id]);
       }
@@ -30,6 +31,7 @@ export default async function calculate(server, faction) {
         r.amountCrafted = ((info.craftMin || 1) + (info.craftMax || 1)) / 2;
         r.craftMin = info.craftMin || 1;
         r.craftingPrice = Object.entries(r.crafting).reduce((total, [name, quantity]) => total + process(name) * quantity, r.requiredMoney) / r.amountCrafted;
+        r.colors = info.colors;
       } else if (info.bindOnPickup) {
         r.bindOnPickup = true;
       }

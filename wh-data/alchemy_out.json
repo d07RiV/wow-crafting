@@ -94,6 +94,13 @@
       "Empty Vial": 1
     }
   },
+  "Elixir of Tongues": {
+    "reagents": {
+      "Earthroot": 2,
+      "Mageroyal": 2,
+      "Empty Vial": 1
+    }
+  },
   "Lesser Healing Potion": {
     "id": 858,
     "quality": 1,
@@ -402,6 +409,21 @@
       "Leaded Vial": 1
     }
   },
+  "Delicate Feather": {
+    "id": 5636,
+    "quality": 0
+  },
+  "Cowardly Flight Potion": {
+    "id": 5632,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Delicate Feather": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    }
+  },
   "Large Fang": {
     "id": 5637,
     "quality": 1
@@ -576,6 +598,13 @@
       "Deviate Fish": 1,
       "Earthroot": 1,
       "Empty Vial": 1
+    }
+  },
+  "Elixir of Waterwalking": {
+    "reagents": {
+      "Blackmouth Oil": 1,
+      "Liferoot": 1,
+      "Leaded Vial": 1
     }
   },
   "Elixir of Agility": {
@@ -1198,6 +1227,21 @@
       "Crystal Vial": 1
     }
   },
+  "Elemental Air": {
+    "id": 7069,
+    "quality": 1
+  },
+  "Greater Holy Protection Potion": {
+    "id": 13460,
+    "quality": 1,
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Elemental Air": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    }
+  },
   "Major Mana Potion": {
     "id": 13444,
     "quality": 1,
@@ -1212,6 +1256,17 @@
   "Black Lotus": {
     "id": 13468,
     "quality": 2
+  },
+  "Alchemist's Stone": {
+    "reagents": {
+      "Essence of Fire": 8,
+      "Essence of Earth": 8,
+      "Essence of Air": 8,
+      "Essence of Water": 8,
+      "Living Essence": 8,
+      "Black Vitriol": 2,
+      "Black Lotus": 4
+    }
   },
   "Flask of Petrification": {
     "id": 13506,
@@ -1295,6 +1350,19 @@
       "Leaded Vial": 1
     }
   },
+  "Scale of Onyxia": {
+    "id": 15410,
+    "quality": 3
+  },
+  "Refined Scale of Onyxia": {
+    "id": 17967,
+    "quality": 3,
+    "craftMin": 0,
+    "craftMax": 0,
+    "reagents": {
+      "Scale of Onyxia": 1
+    }
+  },
   "Heart of the Wild": {
     "id": 10286,
     "quality": 1
@@ -1333,8 +1401,7 @@
   },
   "Blood of Heroes": {
     "id": 12938,
-    "quality": 1,
-    "bindOnPickup": true
+    "quality": 1
   },
   "Massive Mojo": {
     "id": 19943,

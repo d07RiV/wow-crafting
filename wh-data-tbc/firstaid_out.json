@@ -1,0 +1,315 @@
+{
+  "Linen Cloth": {
+    "id": 2589,
+    "quality": 1,
+    "icon": "inv_fabric_linen_01"
+  },
+  "Linen Bandage": {
+    "id": 1251,
+    "quality": 1,
+    "icon": "inv_misc_bandage_15",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Linen Cloth": 1
+    },
+    "colors": [
+      1,
+      30,
+      45,
+      60
+    ]
+  },
+  "Heavy Linen Bandage": {
+    "id": 2581,
+    "quality": 1,
+    "icon": "inv_misc_bandage_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Linen Cloth": 2
+    },
+    "colors": [
+      40,
+      50,
+      75,
+      100
+    ]
+  },
+  "Wool Cloth": {
+    "id": 2592,
+    "quality": 1,
+    "icon": "inv_fabric_wool_01"
+  },
+  "Wool Bandage": {
+    "id": 3530,
+    "quality": 1,
+    "icon": "inv_misc_bandage_14",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Wool Cloth": 1
+    },
+    "colors": [
+      80,
+      80,
+      115,
+      150
+    ]
+  },
+  "Heavy Wool Bandage": {
+    "id": 3531,
+    "quality": 1,
+    "icon": "inv_misc_bandage_17",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Wool Cloth": 2
+    },
+    "colors": [
+      115,
+      115,
+      150,
+      185
+    ]
+  },
+  "Silk Cloth": {
+    "id": 4306,
+    "quality": 1,
+    "icon": "inv_fabric_silk_01"
+  },
+  "Silk Bandage": {
+    "id": 6450,
+    "quality": 1,
+    "icon": "inv_misc_bandage_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Silk Cloth": 1
+    },
+    "colors": [
+      150,
+      150,
+      180,
+      210
+    ]
+  },
+  "Heavy Silk Bandage": {
+    "id": 6451,
+    "quality": 1,
+    "icon": "inv_misc_bandage_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Silk Cloth": 2
+    },
+    "colors": [
+      180,
+      180,
+      210,
+      240
+    ]
+  },
+  "Small Venom Sac": {
+    "id": 1475,
+    "quality": 1,
+    "icon": "inv_misc_organ_02"
+  },
+  "Anti-Venom": {
+    "id": 6452,
+    "quality": 1,
+    "icon": "inv_misc_slime_01",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Small Venom Sac": 1
+    },
+    "colors": [
+      80,
+      80,
+      115,
+      150
+    ]
+  },
+  "Large Venom Sac": {
+    "id": 1288,
+    "quality": 1,
+    "icon": "inv_misc_organ_01"
+  },
+  "Strong Anti-Venom": {
+    "id": 6453,
+    "quality": 1,
+    "icon": "inv_misc_slime_01",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Large Venom Sac": 1
+    },
+    "colors": [
+      130,
+      130,
+      165,
+      200
+    ]
+  },
+  "Mageweave Cloth": {
+    "id": 4338,
+    "quality": 1,
+    "icon": "inv_fabric_mageweave_01"
+  },
+  "Mageweave Bandage": {
+    "id": 8544,
+    "quality": 1,
+    "icon": "inv_misc_bandage_19",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mageweave Cloth": 1
+    },
+    "colors": [
+      210,
+      210,
+      240,
+      270
+    ]
+  },
+  "Heavy Mageweave Bandage": {
+    "id": 8545,
+    "quality": 1,
+    "icon": "inv_misc_bandage_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mageweave Cloth": 2
+    },
+    "colors": [
+      240,
+      240,
+      270,
+      300
+    ]
+  },
+  "Runecloth": {
+    "id": 14047,
+    "quality": 1,
+    "icon": "inv_fabric_purplefire_01"
+  },
+  "Runecloth Bandage": {
+    "id": 14529,
+    "quality": 1,
+    "icon": "inv_misc_bandage_11",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Runecloth": 1
+    },
+    "colors": [
+      260,
+      260,
+      290,
+      320
+    ]
+  },
+  "Heavy Runecloth Bandage": {
+    "id": 14530,
+    "quality": 1,
+    "icon": "inv_misc_bandage_12",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Runecloth": 2
+    },
+    "colors": [
+      290,
+      290,
+      320,
+      350
+    ]
+  },
+  "Huge Venom Sac": {
+    "id": 19441,
+    "quality": 1,
+    "icon": "inv_misc_organ_04"
+  },
+  "Powerful Anti-Venom": {
+    "id": 19440,
+    "quality": 1,
+    "icon": "inv_drink_14",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 529,
+    "reagents": {
+      "Huge Venom Sac": 1
+    },
+    "colors": [
+      300,
+      300,
+      330,
+      360
+    ]
+  },
+  "Netherweave Cloth": {
+    "id": 21877,
+    "quality": 1,
+    "icon": "inv_fabric_netherweave"
+  },
+  "Netherweave Bandage": {
+    "id": 21990,
+    "quality": 1,
+    "icon": "inv_misc_bandage_netherweave",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Netherweave Cloth": 1
+    },
+    "colors": [
+      330,
+      330,
+      360,
+      390
+    ]
+  },
+  "Heavy Netherweave Bandage": {
+    "id": 21991,
+    "quality": 1,
+    "icon": "inv_misc_bandage_netherweave_heavy",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Netherweave Cloth": 2
+    },
+    "colors": [
+      360,
+      360,
+      385,
+      410
+    ]
+  },
+  "zzOLD[PH] Silithus PvP Dust [DEP]": {
+    "id": 23567,
+    "quality": 1,
+    "icon": "inv_misc_orb_05"
+  },
+  "Crystal Infused Bandage": {
+    "id": 23684,
+    "quality": 1,
+    "icon": "inv_misc_bandage_16",
+    "craftMin": 4,
+    "craftMax": 4,
+    "reagents": {
+      "zzOLD[PH] Silithus PvP Dust [DEP]": 1,
+      "Runecloth": 10
+    }
+  }
+}

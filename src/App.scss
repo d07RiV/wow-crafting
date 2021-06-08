@@ -1,16 +1,18 @@
 body {
-  background-color: #121212;
+  background-color: #181818;
   color: #eee;
 }
 
+.ui-Select a {
+  text-decoration: none;
+  color: inherit;
+}
 .App {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-size: 16px;
 
   .select-server, .select-faction, .select-item {
-    display: inline-block;
-    margin: 4px;
-    color: #333;
+    margin: .5em;
   }
   .select-server {
     width: 220px;
@@ -33,6 +35,14 @@ body {
       border-color: #b3b3b3;
     }
   }
+
+  .quality-0 { color: #9d9d9d; }
+  .quality-1 { color: #ffffff; }
+  .quality-2 { color: #1eff00; }
+  .quality-3 { color: #0070dd; }
+  .quality-4 { color: #a335ee; }
+  .quality-5 { color: #ff8800; }
+  .quality-6 { color: #e5cc80; }
 
   .Results {
     font-family: Verdana,open sans,Arial,helvetica neue,Helvetica,sans-serif;
@@ -66,13 +76,6 @@ body {
       text-decoration: none;
       cursor: pointer;
     }
-    .quality-0 { color: #9d9d9d; }
-    .quality-1 { color: #ffffff; }
-    .quality-2 { color: #1eff00; }
-    .quality-3 { color: #0070dd; }
-    .quality-4 { color: #a335ee; }
-    .quality-5 { color: #ff8800; }
-    .quality-6 { color: #e5cc80; }
 
     .task-counter {
       width: 40px;
@@ -136,6 +139,16 @@ body {
     }
     .trade-tailoring::before {
       background-image: url(./assets/trade_tailoring.jpg);
+    }
+    .trade-mining::before {
+      background-image: url(./assets/trade_mining.jpg);
+    }
+    .wow-icon {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      margin: -3px 0;
+      background-repeat: no-repeat;
     }
   }
 

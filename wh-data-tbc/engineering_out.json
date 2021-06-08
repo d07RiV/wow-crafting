@@ -1,0 +1,5441 @@
+{
+  "Rough Stone": {
+    "id": 2835,
+    "quality": 1,
+    "icon": "inv_stone_06"
+  },
+  "Rough Blasting Powder": {
+    "id": 4357,
+    "quality": 1,
+    "icon": "inv_misc_dust_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Rough Stone": 1
+    },
+    "colors": [
+      1,
+      20,
+      30,
+      40
+    ]
+  },
+  "Linen Cloth": {
+    "id": 2589,
+    "quality": 1,
+    "icon": "inv_fabric_linen_01"
+  },
+  "Rough Dynamite": {
+    "id": 4358,
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Rough Blasting Powder": 2,
+      "Linen Cloth": 1
+    },
+    "colors": [
+      1,
+      30,
+      45,
+      60
+    ]
+  },
+  "Copper Bar": {
+    "id": 2840,
+    "quality": 1,
+    "icon": "inv_ingot_02"
+  },
+  "Crafted Light Shot": {
+    "id": 8067,
+    "quality": 1,
+    "icon": "inv_ammo_bullet_02",
+    "craftMin": 200,
+    "craftMax": 200,
+    "reagents": {
+      "Rough Blasting Powder": 1,
+      "Copper Bar": 1
+    },
+    "colors": [
+      0,
+      30,
+      45,
+      60
+    ]
+  },
+  "Handful of Copper Bolts": {
+    "id": 4359,
+    "quality": 1,
+    "icon": "inv_misc_gear_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Bar": 1
+    },
+    "colors": [
+      30,
+      45,
+      52,
+      60
+    ]
+  },
+  "Rough Copper Bomb": {
+    "id": 4360,
+    "quality": 1,
+    "icon": "inv_misc_bomb_09",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Copper Bar": 1,
+      "Handful of Copper Bolts": 1,
+      "Rough Blasting Powder": 2,
+      "Linen Cloth": 1
+    },
+    "colors": [
+      30,
+      60,
+      75,
+      90
+    ]
+  },
+  "Weak Flux": {
+    "id": 2880,
+    "quality": 1,
+    "icon": "inv_misc_ammo_gunpowder_02",
+    "vendor": 100
+  },
+  "Copper Tube": {
+    "id": 4361,
+    "quality": 1,
+    "icon": "inv_gizmo_pipe_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Bar": 2,
+      "Weak Flux": 1
+    },
+    "colors": [
+      50,
+      80,
+      95,
+      110
+    ]
+  },
+  "Wooden Stock": {
+    "id": 4399,
+    "quality": 1,
+    "icon": "inv_mace_11",
+    "vendor": 200
+  },
+  "Rough Boomstick": {
+    "id": 4362,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Tube": 1,
+      "Handful of Copper Bolts": 1,
+      "Wooden Stock": 1
+    },
+    "colors": [
+      50,
+      80,
+      95,
+      110
+    ]
+  },
+  "Malachite": {
+    "id": 774,
+    "quality": 2,
+    "icon": "inv_misc_gem_emerald_03"
+  },
+  "Crude Scope": {
+    "id": 4405,
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Tube": 1,
+      "Malachite": 1,
+      "Handful of Copper Bolts": 1
+    },
+    "colors": [
+      60,
+      90,
+      105,
+      120
+    ]
+  },
+  "Silver Bar": {
+    "id": 2842,
+    "quality": 2,
+    "icon": "inv_ingot_01"
+  },
+  "Silver Contact": {
+    "id": 4404,
+    "quality": 1,
+    "icon": "inv_ingot_04",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 6,
+    "reagents": {
+      "Silver Bar": 1
+    },
+    "colors": [
+      90,
+      110,
+      125,
+      140
+    ]
+  },
+  "Copper Modulator": {
+    "id": 4363,
+    "quality": 1,
+    "icon": "inv_gizmo_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Handful of Copper Bolts": 2,
+      "Copper Bar": 1,
+      "Linen Cloth": 2
+    },
+    "colors": [
+      65,
+      95,
+      110,
+      125
+    ]
+  },
+  "Mechanical Squirrel Box": {
+    "id": 4401,
+    "quality": 1,
+    "icon": "inv_crate_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Copper Modulator": 1,
+      "Handful of Copper Bolts": 1,
+      "Copper Bar": 1,
+      "Malachite": 2
+    },
+    "colors": [
+      75,
+      105,
+      120,
+      135
+    ]
+  },
+  "Coarse Stone": {
+    "id": 2836,
+    "quality": 1,
+    "icon": "inv_stone_09"
+  },
+  "Coarse Blasting Powder": {
+    "id": 4364,
+    "quality": 1,
+    "icon": "inv_misc_dust_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Coarse Stone": 1
+    },
+    "colors": [
+      75,
+      85,
+      90,
+      95
+    ]
+  },
+  "Crafted Heavy Shot": {
+    "id": 8068,
+    "quality": 1,
+    "icon": "inv_ammo_bullet_02",
+    "craftMin": 200,
+    "craftMax": 200,
+    "source": 6,
+    "reagents": {
+      "Coarse Blasting Powder": 1,
+      "Copper Bar": 1
+    },
+    "colors": [
+      75,
+      85,
+      90,
+      95
+    ]
+  },
+  "Coarse Dynamite": {
+    "id": 4365,
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "craftMin": 1,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Coarse Blasting Powder": 3,
+      "Linen Cloth": 1
+    },
+    "colors": [
+      75,
+      90,
+      97,
+      105
+    ]
+  },
+  "Bronze Bar": {
+    "id": 2841,
+    "quality": 1,
+    "icon": "inv_ingot_bronze"
+  },
+  "Wool Cloth": {
+    "id": 2592,
+    "quality": 1,
+    "icon": "inv_fabric_wool_01"
+  },
+  "Target Dummy": {
+    "id": 4366,
+    "quality": 1,
+    "icon": "inv_crate_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Modulator": 1,
+      "Handful of Copper Bolts": 2,
+      "Bronze Bar": 1,
+      "Wool Cloth": 1
+    },
+    "colors": [
+      85,
+      115,
+      130,
+      145
+    ]
+  },
+  "Light Leather": {
+    "id": 2318,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_03"
+  },
+  "Refreshing Spring Water": {
+    "id": 159,
+    "quality": 1,
+    "icon": "inv_drink_07",
+    "vendor": 5
+  },
+  "Small Seaforium Charge": {
+    "id": 4367,
+    "quality": 1,
+    "icon": "inv_misc_urn_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Coarse Blasting Powder": 2,
+      "Copper Modulator": 1,
+      "Light Leather": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      100,
+      130,
+      145,
+      160
+    ]
+  },
+  "Tigerseye": {
+    "id": 818,
+    "quality": 2,
+    "icon": "inv_misc_gem_opal_03"
+  },
+  "Flying Tiger Goggles": {
+    "id": 4368,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Light Leather": 6,
+      "Tigerseye": 2
+    },
+    "colors": [
+      100,
+      130,
+      145,
+      160
+    ]
+  },
+  "Medium Leather": {
+    "id": 2319,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_05"
+  },
+  "Deadly Blunderbuss": {
+    "id": 4369,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Tube": 2,
+      "Handful of Copper Bolts": 4,
+      "Wooden Stock": 1,
+      "Medium Leather": 2
+    },
+    "colors": [
+      105,
+      130,
+      142,
+      155
+    ]
+  },
+  "Large Copper Bomb": {
+    "id": 4370,
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "craftMin": 2,
+    "craftMax": 4,
+    "source": 6,
+    "reagents": {
+      "Copper Bar": 3,
+      "Coarse Blasting Powder": 4,
+      "Silver Contact": 1
+    },
+    "colors": [
+      105,
+      105,
+      130,
+      155
+    ]
+  },
+  "Bronze Tube": {
+    "id": 4371,
+    "quality": 1,
+    "icon": "inv_gizmo_pipe_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Bar": 2,
+      "Weak Flux": 1
+    },
+    "colors": [
+      105,
+      105,
+      130,
+      155
+    ]
+  },
+  "Moss Agate": {
+    "id": 1206,
+    "quality": 2,
+    "icon": "inv_misc_gem_emerald_02"
+  },
+  "Standard Scope": {
+    "id": 4406,
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Tube": 1,
+      "Moss Agate": 1
+    },
+    "colors": [
+      110,
+      135,
+      147,
+      160
+    ]
+  },
+  "Heavy Stock": {
+    "id": 4400,
+    "quality": 1,
+    "icon": "inv_mace_11",
+    "vendor": 2000
+  },
+  "Lovingly Crafted Boomstick": {
+    "id": 4372,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bronze Tube": 2,
+      "Handful of Copper Bolts": 2,
+      "Heavy Stock": 1,
+      "Moss Agate": 3
+    },
+    "colors": [
+      120,
+      145,
+      157,
+      170
+    ]
+  },
+  "Shadowgem": {
+    "id": 1210,
+    "quality": 2,
+    "icon": "inv_misc_gem_amethyst_01"
+  },
+  "Shadow Goggles": {
+    "id": 4373,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Medium Leather": 4,
+      "Shadowgem": 2
+    },
+    "colors": [
+      120,
+      145,
+      157,
+      170
+    ]
+  },
+  "Small Bronze Bomb": {
+    "id": 4374,
+    "quality": 1,
+    "icon": "inv_misc_bomb_09",
+    "craftMin": 1,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Coarse Blasting Powder": 4,
+      "Bronze Bar": 2,
+      "Silver Contact": 1,
+      "Wool Cloth": 1
+    },
+    "colors": [
+      120,
+      120,
+      145,
+      170
+    ]
+  },
+  "Whirring Bronze Gizmo": {
+    "id": 4375,
+    "quality": 1,
+    "icon": "inv_gizmo_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Bar": 2,
+      "Wool Cloth": 1
+    },
+    "colors": [
+      125,
+      125,
+      150,
+      175
+    ]
+  },
+  "Small Flame Sac": {
+    "id": 4402,
+    "quality": 1,
+    "icon": "inv_misc_organ_06"
+  },
+  "Flame Deflector": {
+    "id": 4376,
+    "quality": 1,
+    "icon": "inv_gizmo_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Whirring Bronze Gizmo": 1,
+      "Small Flame Sac": 1
+    },
+    "colors": [
+      125,
+      125,
+      150,
+      175
+    ]
+  },
+  "Heavy Stone": {
+    "id": 2838,
+    "quality": 1,
+    "icon": "inv_stone_12"
+  },
+  "Heavy Blasting Powder": {
+    "id": 4377,
+    "quality": 1,
+    "icon": "classic_inv_misc_dust_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Heavy Stone": 1
+    },
+    "colors": [
+      125,
+      125,
+      135,
+      145
+    ]
+  },
+  "Heavy Dynamite": {
+    "id": 4378,
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "craftMin": 1,
+    "craftMax": 5,
+    "source": 6,
+    "reagents": {
+      "Heavy Blasting Powder": 2,
+      "Wool Cloth": 1
+    },
+    "colors": [
+      125,
+      125,
+      135,
+      145
+    ]
+  },
+  "Crafted Solid Shot": {
+    "id": 8069,
+    "quality": 1,
+    "icon": "inv_ammo_bullet_02",
+    "craftMin": 200,
+    "craftMax": 200,
+    "source": 6,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Bronze Bar": 1
+    },
+    "colors": [
+      125,
+      125,
+      135,
+      145
+    ]
+  },
+  "Silver-plated Shotgun": {
+    "id": 4379,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Tube": 2,
+      "Whirring Bronze Gizmo": 2,
+      "Heavy Stock": 1,
+      "Silver Bar": 3
+    },
+    "colors": [
+      130,
+      155,
+      167,
+      180
+    ]
+  },
+  "Big Bronze Bomb": {
+    "id": 4380,
+    "quality": 1,
+    "icon": "inv_misc_bomb_05",
+    "craftMin": 2,
+    "craftMax": 4,
+    "source": 6,
+    "reagents": {
+      "Heavy Blasting Powder": 2,
+      "Bronze Bar": 3,
+      "Silver Contact": 1
+    },
+    "colors": [
+      140,
+      140,
+      165,
+      190
+    ]
+  },
+  "Minor Recombobulator": {
+    "id": 4381,
+    "quality": 2,
+    "icon": "inv_gizmo_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bronze Tube": 1,
+      "Whirring Bronze Gizmo": 2,
+      "Medium Leather": 2,
+      "Moss Agate": 1
+    },
+    "colors": [
+      140,
+      165,
+      177,
+      190
+    ]
+  },
+  "Bronze Framework": {
+    "id": 4382,
+    "quality": 1,
+    "icon": "inv_gizmo_bronzeframework_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Bar": 2,
+      "Medium Leather": 1,
+      "Wool Cloth": 1
+    },
+    "colors": [
+      145,
+      145,
+      170,
+      195
+    ]
+  },
+  "Lesser Moonstone": {
+    "id": 1705,
+    "quality": 2,
+    "icon": "inv_misc_gem_crystal_01"
+  },
+  "Moonsight Rifle": {
+    "id": 4383,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Bronze Tube": 3,
+      "Whirring Bronze Gizmo": 3,
+      "Heavy Stock": 1,
+      "Lesser Moonstone": 2
+    },
+    "colors": [
+      145,
+      170,
+      182,
+      195
+    ]
+  },
+  "Explosive Sheep": {
+    "id": 4384,
+    "quality": 1,
+    "icon": "spell_nature_polymorph",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Framework": 1,
+      "Whirring Bronze Gizmo": 1,
+      "Heavy Blasting Powder": 2,
+      "Wool Cloth": 2
+    },
+    "colors": [
+      150,
+      175,
+      187,
+      200
+    ]
+  },
+  "Green Tinted Goggles": {
+    "id": 4385,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Medium Leather": 4,
+      "Moss Agate": 2,
+      "Flying Tiger Goggles": 1
+    },
+    "colors": [
+      150,
+      175,
+      187,
+      200
+    ]
+  },
+  "Frost Oil": {
+    "id": 3829,
+    "quality": 1,
+    "icon": "inv_potion_20"
+  },
+  "Ice Deflector": {
+    "id": 4386,
+    "quality": 1,
+    "icon": "inv_gizmo_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Whirring Bronze Gizmo": 1,
+      "Frost Oil": 1
+    },
+    "colors": [
+      155,
+      175,
+      185,
+      195
+    ]
+  },
+  "Iron Bar": {
+    "id": 3575,
+    "quality": 1,
+    "icon": "inv_ingot_iron"
+  },
+  "Iron Strut": {
+    "id": 4387,
+    "quality": 1,
+    "icon": "inv_spear_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Iron Bar": 2
+    },
+    "colors": [
+      160,
+      160,
+      170,
+      180
+    ]
+  },
+  "Silk Cloth": {
+    "id": 4306,
+    "quality": 1,
+    "icon": "inv_fabric_silk_01"
+  },
+  "Jade": {
+    "id": 1529,
+    "quality": 2,
+    "icon": "inv_misc_gem_stone_01"
+  },
+  "Discombobulator Ray": {
+    "id": 4388,
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Whirring Bronze Gizmo": 3,
+      "Silk Cloth": 2,
+      "Jade": 1,
+      "Bronze Tube": 1
+    },
+    "colors": [
+      160,
+      180,
+      190,
+      200
+    ]
+  },
+  "Portable Bronze Mortar": {
+    "id": 4403,
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Bronze Tube": 4,
+      "Iron Strut": 1,
+      "Heavy Blasting Powder": 4,
+      "Medium Leather": 4
+    },
+    "colors": [
+      165,
+      185,
+      195,
+      205
+    ]
+  },
+  "Gold Power Core": {
+    "id": 10558,
+    "quality": 1,
+    "icon": "inv_battery_02",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Gold Bar": 1
+    },
+    "colors": [
+      150,
+      150,
+      170,
+      190
+    ]
+  },
+  "Gyrochronatom": {
+    "id": 4389,
+    "quality": 1,
+    "icon": "inv_misc_pocketwatch_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Iron Bar": 1,
+      "Gold Power Core": 1
+    },
+    "colors": [
+      170,
+      170,
+      190,
+      210
+    ]
+  },
+  "Iron Grenade": {
+    "id": 4390,
+    "quality": 1,
+    "icon": "inv_misc_bomb_08",
+    "craftMin": 2,
+    "craftMax": 4,
+    "source": 6,
+    "reagents": {
+      "Iron Bar": 1,
+      "Heavy Blasting Powder": 1,
+      "Silk Cloth": 1
+    },
+    "colors": [
+      175,
+      175,
+      195,
+      215
+    ]
+  },
+  "Heavy Leather": {
+    "id": 4234,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_07"
+  },
+  "Compact Harvest Reaper Kit": {
+    "id": 4391,
+    "quality": 1,
+    "icon": "inv_helmet_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Iron Strut": 2,
+      "Bronze Framework": 1,
+      "Gyrochronatom": 2,
+      "Heavy Leather": 4
+    },
+    "colors": [
+      175,
+      175,
+      195,
+      215
+    ]
+  },
+  "Citrine": {
+    "id": 3864,
+    "quality": 2,
+    "icon": "inv_misc_gem_opal_02"
+  },
+  "Accurate Scope": {
+    "id": 4407,
+    "quality": 2,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bronze Tube": 1,
+      "Jade": 1,
+      "Citrine": 1
+    },
+    "colors": [
+      180,
+      200,
+      210,
+      220
+    ]
+  },
+  "Advanced Target Dummy": {
+    "id": 4392,
+    "quality": 1,
+    "icon": "inv_crate_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Iron Strut": 1,
+      "Bronze Framework": 1,
+      "Gyrochronatom": 1,
+      "Heavy Leather": 4
+    },
+    "colors": [
+      185,
+      185,
+      205,
+      225
+    ]
+  },
+  "Craftsman's Monocle": {
+    "id": 4393,
+    "quality": 2,
+    "icon": "inv_helmet_44",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heavy Leather": 6,
+      "Citrine": 2
+    },
+    "colors": [
+      185,
+      205,
+      215,
+      225
+    ]
+  },
+  "Big Iron Bomb": {
+    "id": 4394,
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Iron Bar": 3,
+      "Heavy Blasting Powder": 3,
+      "Silver Contact": 1
+    },
+    "colors": [
+      190,
+      190,
+      210,
+      230
+    ]
+  },
+  "Goblin Land Mine": {
+    "id": 4395,
+    "quality": 1,
+    "icon": "inv_shield_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heavy Blasting Powder": 3,
+      "Iron Bar": 2,
+      "Gyrochronatom": 1
+    },
+    "colors": [
+      195,
+      215,
+      225,
+      235
+    ]
+  },
+  "Fused Wiring": {
+    "id": 7191,
+    "quality": 1,
+    "icon": "inv_misc_gear_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Delicate Copper Wire": 3,
+      "Essence of Fire": 2
+    },
+    "colors": [
+      275,
+      275,
+      280,
+      285
+    ]
+  },
+  "Mechanical Dragonling": {
+    "id": 4396,
+    "quality": 1,
+    "icon": "inv_misc_head_dragon_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bronze Framework": 1,
+      "Iron Strut": 4,
+      "Gyrochronatom": 4,
+      "Citrine": 2,
+      "Fused Wiring": 1
+    },
+    "colors": [
+      200,
+      220,
+      230,
+      240
+    ]
+  },
+  "Gnomish Cloaking Device": {
+    "id": 4397,
+    "quality": 1,
+    "icon": "inv_gizmo_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Gyrochronatom": 4,
+      "Jade": 2,
+      "Lesser Moonstone": 2,
+      "Citrine": 2,
+      "Fused Wiring": 1
+    },
+    "colors": [
+      200,
+      220,
+      230,
+      240
+    ]
+  },
+  "Solid Blasting Powder": {
+    "id": 10505,
+    "quality": 1,
+    "icon": "inv_misc_powder_black",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Solid Stone": 2
+    },
+    "colors": [
+      175,
+      175,
+      185,
+      195
+    ]
+  },
+  "Large Seaforium Charge": {
+    "id": 4398,
+    "quality": 1,
+    "icon": "inv_misc_urn_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Solid Blasting Powder": 2,
+      "Heavy Leather": 2,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      200,
+      200,
+      220,
+      240
+    ]
+  },
+  "Ornate Spyglass": {
+    "id": 5507,
+    "quality": 1,
+    "icon": "inv_misc_spyglass_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Tube": 2,
+      "Whirring Bronze Gizmo": 2,
+      "Copper Modulator": 1,
+      "Moss Agate": 1
+    },
+    "colors": [
+      135,
+      160,
+      172,
+      185
+    ]
+  },
+  "Arclight Spanner": {
+    "id": 6219,
+    "quality": 1,
+    "icon": "inv_misc_wrench_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Copper Bar": 6
+    },
+    "colors": [
+      50,
+      70,
+      80,
+      90
+    ]
+  },
+  "Blue Pearl": {
+    "id": 4611,
+    "quality": 1,
+    "icon": "inv_ore_arcanite_02"
+  },
+  "Flash Bomb": {
+    "id": 4852,
+    "quality": 1,
+    "icon": "inv_misc_ammo_bullet_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Blue Pearl": 1,
+      "Heavy Blasting Powder": 1,
+      "Silk Cloth": 1
+    },
+    "colors": [
+      185,
+      185,
+      205,
+      225
+    ]
+  },
+  "Practice Lock": {
+    "id": 6712,
+    "quality": 1,
+    "icon": "inv_box_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bronze Bar": 1,
+      "Handful of Copper Bolts": 2,
+      "Weak Flux": 1
+    },
+    "colors": [
+      100,
+      115,
+      122,
+      130
+    ]
+  },
+  "Ez-Thro Dynamite": {
+    "id": 6714,
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "craftMin": 1,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Coarse Blasting Powder": 4,
+      "Wool Cloth": 1
+    },
+    "colors": [
+      100,
+      115,
+      122,
+      130
+    ]
+  },
+  "Black Mageweave Boots": {
+    "id": 10026,
+    "quality": 2,
+    "icon": "inv_boots_05"
+  },
+  "Mithril Tube": {
+    "id": 10559,
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 3
+    },
+    "colors": [
+      195,
+      195,
+      215,
+      235
+    ]
+  },
+  "Goblin Rocket Fuel": {
+    "id": 9061,
+    "quality": 1,
+    "icon": "inv_cask_02"
+  },
+  "Unstable Trigger": {
+    "id": 10560,
+    "quality": 1,
+    "icon": "inv_battery_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 1,
+      "Mageweave Cloth": 1,
+      "Solid Blasting Powder": 1
+    },
+    "colors": [
+      200,
+      200,
+      220,
+      240
+    ]
+  },
+  "Goblin Rocket Boots": {
+    "id": 7189,
+    "quality": 2,
+    "icon": "inv_gizmo_rocketboot_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Black Mageweave Boots": 1,
+      "Mithril Tube": 2,
+      "Heavy Leather": 4,
+      "Goblin Rocket Fuel": 2,
+      "Unstable Trigger": 1
+    },
+    "colors": [
+      225,
+      245,
+      255,
+      265
+    ]
+  },
+  "Flask of Oil": {
+    "id": 814,
+    "quality": 1,
+    "icon": "inv_drink_07"
+  },
+  "Gnomish Universal Remote": {
+    "id": 7506,
+    "quality": 2,
+    "icon": "inv_misc_pocketwatch_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bronze Bar": 6,
+      "Whirring Bronze Gizmo": 1,
+      "Flask of Oil": 2,
+      "Tigerseye": 1,
+      "Malachite": 1
+    },
+    "colors": [
+      125,
+      150,
+      162,
+      175
+    ]
+  },
+  "Nightcrawlers": {
+    "id": 6530,
+    "quality": 1,
+    "icon": "inv_misc_monstertail_03",
+    "vendor": 100
+  },
+  "Aquadynamic Fish Attractor": {
+    "id": 6533,
+    "quality": 1,
+    "icon": "inv_misc_food_26",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Bronze Bar": 2,
+      "Nightcrawlers": 1,
+      "Coarse Blasting Powder": 1
+    },
+    "colors": [
+      150,
+      150,
+      160,
+      170
+    ]
+  },
+  "Goblin Jumper Cables": {
+    "id": 7148,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Iron Bar": 6,
+      "Whirring Bronze Gizmo": 2,
+      "Flask of Oil": 2,
+      "Silk Cloth": 2,
+      "Shadowgem": 2,
+      "Fused Wiring": 1
+    },
+    "colors": [
+      165,
+      165,
+      180,
+      200
+    ]
+  },
+  "Gold Bar": {
+    "id": 3577,
+    "quality": 2,
+    "icon": "inv_ingot_03"
+  },
+  "Solid Stone": {
+    "id": 7912,
+    "quality": 1,
+    "icon": "inv_stone_10"
+  },
+  "Solid Dynamite": {
+    "id": 10507,
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Solid Blasting Powder": 1,
+      "Silk Cloth": 1
+    },
+    "colors": [
+      175,
+      175,
+      185,
+      195
+    ]
+  },
+  "Bright-Eye Goggles": {
+    "id": 10499,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heavy Leather": 6,
+      "Citrine": 2
+    },
+    "colors": [
+      175,
+      195,
+      205,
+      215
+    ]
+  },
+  "Steel Bar": {
+    "id": 3859,
+    "quality": 1,
+    "icon": "inv_ingot_steel"
+  },
+  "Gyromatic Micro-Adjustor": {
+    "id": 10498,
+    "quality": 1,
+    "icon": "inv_misc_screwdriver_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Steel Bar": 4
+    },
+    "colors": [
+      175,
+      175,
+      195,
+      215
+    ]
+  },
+  "Mithril Bar": {
+    "id": 3860,
+    "quality": 1,
+    "icon": "inv_ingot_06"
+  },
+  "Mageweave Cloth": {
+    "id": 4338,
+    "quality": 1,
+    "icon": "inv_fabric_mageweave_01"
+  },
+  "Elemental Fire": {
+    "id": 7068,
+    "quality": 1,
+    "icon": "spell_fire_fire"
+  },
+  "Fire Goggles": {
+    "id": 10500,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Green Tinted Goggles": 1,
+      "Citrine": 2,
+      "Elemental Fire": 2,
+      "Heavy Leather": 4
+    },
+    "colors": [
+      205,
+      225,
+      235,
+      245
+    ]
+  },
+  "Mithril Blunderbuss": {
+    "id": 10508,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Tube": 1,
+      "Unstable Trigger": 1,
+      "Heavy Stock": 1,
+      "Mithril Bar": 4,
+      "Elemental Fire": 2
+    },
+    "colors": [
+      205,
+      225,
+      235,
+      245
+    ]
+  },
+  "Hi-Impact Mithril Slugs": {
+    "id": 10512,
+    "quality": 2,
+    "icon": "inv_ammo_bullet_01",
+    "craftMin": 200,
+    "craftMax": 200,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 1,
+      "Solid Blasting Powder": 1
+    },
+    "colors": [
+      210,
+      210,
+      230,
+      250
+    ]
+  },
+  "Aquamarine": {
+    "id": 7909,
+    "quality": 2,
+    "icon": "inv_misc_gem_crystal_02"
+  },
+  "Thick Leather": {
+    "id": 4304,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_08"
+  },
+  "Deadly Scope": {
+    "id": 10546,
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mithril Tube": 1,
+      "Aquamarine": 2,
+      "Thick Leather": 2
+    },
+    "colors": [
+      210,
+      230,
+      240,
+      250
+    ]
+  },
+  "Mithril Casing": {
+    "id": 10561,
+    "quality": 1,
+    "icon": "inv_gizmo_mithrilcasing_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 3
+    },
+    "colors": [
+      215,
+      215,
+      235,
+      255
+    ]
+  },
+  "Mithril Frag Bomb": {
+    "id": 10514,
+    "quality": 1,
+    "icon": "inv_misc_bomb_02",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Unstable Trigger": 1,
+      "Solid Blasting Powder": 1
+    },
+    "colors": [
+      215,
+      215,
+      235,
+      255
+    ]
+  },
+  "Catseye Elixir": {
+    "id": 10592,
+    "quality": 1,
+    "icon": "inv_potion_36"
+  },
+  "Catseye Ultra Goggles": {
+    "id": 10501,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Thick Leather": 4,
+      "Aquamarine": 2,
+      "Catseye Elixir": 1
+    },
+    "colors": [
+      220,
+      240,
+      250,
+      260
+    ]
+  },
+  "Mithril Heavy-bore Rifle": {
+    "id": 10510,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mithril Tube": 2,
+      "Unstable Trigger": 1,
+      "Heavy Stock": 1,
+      "Mithril Bar": 6,
+      "Citrine": 2
+    },
+    "colors": [
+      220,
+      240,
+      250,
+      260
+    ]
+  },
+  "Star Ruby": {
+    "id": 7910,
+    "quality": 2,
+    "icon": "inv_misc_gem_ruby_02"
+  },
+  "Spellpower Goggles Xtreme": {
+    "id": 10502,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thick Leather": 4,
+      "Star Ruby": 2
+    },
+    "colors": [
+      225,
+      245,
+      255,
+      265
+    ]
+  },
+  "Bolt of Mageweave": {
+    "id": 4339,
+    "quality": 1,
+    "icon": "inv_fabric_mageweave_03"
+  },
+  "Shadow Silk": {
+    "id": 10285,
+    "quality": 1,
+    "icon": "spell_nature_web"
+  },
+  "Parachute Cloak": {
+    "id": 10518,
+    "quality": 2,
+    "icon": "inv_misc_cape_11",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Bolt of Mageweave": 4,
+      "Shadow Silk": 2,
+      "Unstable Trigger": 1,
+      "Solid Blasting Powder": 4
+    },
+    "colors": [
+      225,
+      245,
+      255,
+      265
+    ]
+  },
+  "Truesilver Bar": {
+    "id": 6037,
+    "quality": 2,
+    "icon": "inv_ingot_08"
+  },
+  "Deepdive Helmet": {
+    "id": 10506,
+    "quality": 2,
+    "icon": "inv_helmet_49",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Mithril Casing": 1,
+      "Truesilver Bar": 1,
+      "Tigerseye": 4,
+      "Malachite": 4
+    },
+    "colors": [
+      230,
+      250,
+      260,
+      270
+    ]
+  },
+  "Rose Colored Goggles": {
+    "id": 10503,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thick Leather": 6,
+      "Star Ruby": 2
+    },
+    "colors": [
+      230,
+      250,
+      260,
+      270
+    ]
+  },
+  "Hi-Explosive Bomb": {
+    "id": 10562,
+    "quality": 1,
+    "icon": "inv_misc_bomb_07",
+    "craftMin": 4,
+    "craftMax": 4,
+    "source": 6,
+    "reagents": {
+      "Mithril Casing": 2,
+      "Unstable Trigger": 1,
+      "Solid Blasting Powder": 2
+    },
+    "colors": [
+      235,
+      235,
+      255,
+      275
+    ]
+  },
+  "Sniper Scope": {
+    "id": 10548,
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mithril Tube": 1,
+      "Star Ruby": 1,
+      "Truesilver Bar": 2
+    },
+    "colors": [
+      240,
+      260,
+      270,
+      280
+    ]
+  },
+  "Mithril Gyro-Shot": {
+    "id": 10513,
+    "quality": 2,
+    "icon": "inv_ammo_bullet_01",
+    "craftMin": 200,
+    "craftMax": 200,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 2,
+      "Solid Blasting Powder": 2
+    },
+    "colors": [
+      245,
+      245,
+      265,
+      285
+    ]
+  },
+  "Heart of the Wild": {
+    "id": 10286,
+    "quality": 1,
+    "icon": "inv_misc_herb_08"
+  },
+  "Wildvine": {
+    "id": 8153,
+    "quality": 1,
+    "icon": "inv_misc_herb_03"
+  },
+  "Green Lens": {
+    "id": 10504,
+    "quality": 3,
+    "icon": "inv_helmet_44",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thick Leather": 8,
+      "Jade": 3,
+      "Aquamarine": 3,
+      "Heart of the Wild": 2,
+      "Wildvine": 2
+    },
+    "colors": [
+      245,
+      265,
+      275,
+      285
+    ]
+  },
+  "Heart of Fire": {
+    "id": 7077,
+    "quality": 1,
+    "icon": "spell_fire_lavaspawn"
+  },
+  "Inlaid Mithril Cylinder": {
+    "id": 9060,
+    "quality": 1,
+    "icon": "inv_musket_01"
+  },
+  "Mithril Mechanical Dragonling": {
+    "id": 10576,
+    "quality": 2,
+    "icon": "inv_misc_head_dragon_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mithril Bar": 14,
+      "Heart of Fire": 4,
+      "Truesilver Bar": 4,
+      "Inlaid Mithril Cylinder": 2,
+      "Goblin Rocket Fuel": 2,
+      "Star Ruby": 2
+    },
+    "colors": [
+      250,
+      270,
+      280,
+      290
+    ]
+  },
+  "Blank Parchment": {
+    "id": 10648,
+    "quality": 1,
+    "icon": "inv_misc_note_02",
+    "vendor": 500
+  },
+  "Engineer's Ink": {
+    "id": 10647,
+    "quality": 1,
+    "icon": "inv_potion_65"
+  },
+  "Recipe: Goblin Rocket Fuel": {
+    "id": 10644,
+    "quality": 1,
+    "icon": "inv_scroll_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Blank Parchment": 1,
+      "Engineer's Ink": 1
+    },
+    "colors": [
+      205,
+      205,
+      205,
+      205
+    ]
+  },
+  "Goblin Mortar": {
+    "id": 10577,
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Tube": 2,
+      "Mithril Bar": 4,
+      "Solid Blasting Powder": 5,
+      "Gold Power Core": 1,
+      "Elemental Fire": 1
+    },
+    "colors": [
+      0,
+      225,
+      235,
+      245
+    ]
+  },
+  "Elemental Earth": {
+    "id": 7067,
+    "quality": 1,
+    "icon": "inv_ore_iron_01"
+  },
+  "Goblin Mining Helmet": {
+    "id": 10542,
+    "quality": 2,
+    "icon": "inv_helmet_25",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Citrine": 1,
+      "Elemental Earth": 4
+    },
+    "colors": [
+      205,
+      225,
+      235,
+      245
+    ]
+  },
+  "Goblin Construction Helmet": {
+    "id": 10543,
+    "quality": 2,
+    "icon": "inv_helmet_60",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Citrine": 1,
+      "Elemental Fire": 4
+    },
+    "colors": [
+      205,
+      225,
+      235,
+      245
+    ]
+  },
+  "Goblin Sapper Charge": {
+    "id": 10646,
+    "quality": 1,
+    "icon": "spell_fire_selfdestruct",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mageweave Cloth": 1,
+      "Solid Blasting Powder": 3,
+      "Unstable Trigger": 1
+    },
+    "colors": [
+      205,
+      205,
+      225,
+      245
+    ]
+  },
+  "Razor Arrow": {
+    "id": 3030,
+    "quality": 1,
+    "icon": "inv_ammo_arrow_02"
+  },
+  "Explosive Arrow": {
+    "id": 10579,
+    "quality": 3,
+    "icon": "inv_ammo_arrow_02",
+    "craftMin": 100,
+    "craftMax": 100,
+    "reagents": {
+      "Razor Arrow": 100,
+      "Solid Blasting Powder": 2,
+      "Mithril Bar": 2
+    }
+  },
+  "Goblin \"Boom\" Box": {
+    "id": 10580,
+    "quality": 1,
+    "icon": "inv_box_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Solid Blasting Powder": 2,
+      "Gold Power Core": 1,
+      "Mithril Bar": 2
+    }
+  },
+  "Goblin Radio": {
+    "id": 10585,
+    "quality": 1,
+    "icon": "spell_holy_dizzy",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Mithril Bar": 2,
+      "Gyrochronatom": 1,
+      "Unstable Trigger": 1
+    }
+  },
+  "Goblin Bomb Dispenser": {
+    "id": 10587,
+    "quality": 1,
+    "icon": "inv_gizmo_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Casing": 2,
+      "Solid Blasting Powder": 4,
+      "Truesilver Bar": 6,
+      "Unstable Trigger": 1,
+      "Accurate Scope": 2
+    },
+    "colors": [
+      230,
+      230,
+      250,
+      270
+    ]
+  },
+  "The Big One": {
+    "id": 10586,
+    "quality": 1,
+    "icon": "inv_misc_bomb_04",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Goblin Rocket Fuel": 1,
+      "Solid Dynamite": 6,
+      "Unstable Trigger": 1
+    },
+    "colors": [
+      235,
+      235,
+      255,
+      275
+    ]
+  },
+  "Essence of Undeath": {
+    "id": 12808,
+    "quality": 2,
+    "icon": "spell_shadow_shadetruesight"
+  },
+  "Ichor of Undeath": {
+    "id": 7972,
+    "quality": 1,
+    "icon": "inv_misc_slime_01"
+  },
+  "Gnomish Death Ray": {
+    "id": 10645,
+    "quality": 1,
+    "icon": "inv_gizmo_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Tube": 2,
+      "Unstable Trigger": 1,
+      "Essence of Undeath": 1,
+      "Ichor of Undeath": 4,
+      "Inlaid Mithril Cylinder": 1
+    },
+    "colors": [
+      240,
+      260,
+      270,
+      280
+    ]
+  },
+  "Goblin Rocket Helmet": {
+    "id": 10588,
+    "quality": 2,
+    "icon": "inv_helmet_49",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Goblin Construction Helmet": 1,
+      "Goblin Rocket Fuel": 4,
+      "Mithril Bar": 4,
+      "Unstable Trigger": 1
+    },
+    "colors": [
+      245,
+      265,
+      275,
+      285
+    ]
+  },
+  "Plans: Inlaid Mithril Cylinder": {
+    "id": 10713,
+    "quality": 1,
+    "icon": "inv_scroll_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Blank Parchment": 1,
+      "Engineer's Ink": 1
+    },
+    "colors": [
+      205,
+      205,
+      205,
+      205
+    ]
+  },
+  "Flask of Mojo": {
+    "id": 8151,
+    "quality": 1,
+    "icon": "inv_potion_15"
+  },
+  "Gnomish Goggles": {
+    "id": 10545,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fire Goggles": 1,
+      "Mithril Tube": 1,
+      "Gold Power Core": 2,
+      "Flask of Mojo": 2,
+      "Heavy Leather": 2
+    },
+    "colors": [
+      210,
+      230,
+      240,
+      250
+    ]
+  },
+  "Gnomish Shrink Ray": {
+    "id": 10716,
+    "quality": 1,
+    "icon": "inv_gizmo_09",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Tube": 1,
+      "Unstable Trigger": 1,
+      "Mithril Bar": 4,
+      "Flask of Mojo": 4,
+      "Jade": 2
+    },
+    "colors": [
+      205,
+      225,
+      235,
+      245
+    ]
+  },
+  "Mobile Alarm": {
+    "id": 10719,
+    "quality": 1,
+    "icon": "inv_crate_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Tube": 1,
+      "Unstable Trigger": 1,
+      "Mithril Bar": 4
+    }
+  },
+  "Thick Spider's Silk": {
+    "id": 4337,
+    "quality": 1,
+    "icon": "spell_nature_web"
+  },
+  "Gnomish Net-o-Matic Projector": {
+    "id": 10720,
+    "quality": 1,
+    "icon": "inv_misc_net_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Tube": 1,
+      "Shadow Silk": 2,
+      "Thick Spider's Silk": 4,
+      "Solid Blasting Powder": 2,
+      "Mithril Bar": 4
+    },
+    "colors": [
+      210,
+      230,
+      240,
+      250
+    ]
+  },
+  "Dusky Belt": {
+    "id": 7387,
+    "quality": 2,
+    "icon": "inv_belt_06"
+  },
+  "Gnomish Harm Prevention Belt": {
+    "id": 10721,
+    "quality": 2,
+    "icon": "inv_belt_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Dusky Belt": 1,
+      "Mithril Bar": 4,
+      "Truesilver Bar": 2,
+      "Unstable Trigger": 1,
+      "Aquamarine": 2
+    },
+    "colors": [
+      215,
+      235,
+      245,
+      255
+    ]
+  },
+  "Gnomish Ham Radio": {
+    "id": 10723,
+    "quality": 1,
+    "icon": "spell_holy_dizzy",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Mithril Bar": 2,
+      "Gyrochronatom": 1,
+      "Unstable Trigger": 1
+    }
+  },
+  "Gnomish Rocket Boots": {
+    "id": 10724,
+    "quality": 2,
+    "icon": "inv_boots_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Black Mageweave Boots": 1,
+      "Mithril Tube": 2,
+      "Heavy Leather": 4,
+      "Solid Blasting Powder": 8,
+      "Gyrochronatom": 4
+    },
+    "colors": [
+      225,
+      245,
+      255,
+      265
+    ]
+  },
+  "Gnomish Battle Chicken": {
+    "id": 10725,
+    "quality": 1,
+    "icon": "spell_magic_polymorphchicken",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Truesilver Bar": 6,
+      "Mithril Bar": 6,
+      "Inlaid Mithril Cylinder": 2,
+      "Gold Power Core": 1,
+      "Jade": 2
+    },
+    "colors": [
+      230,
+      250,
+      260,
+      270
+    ]
+  },
+  "Gnomish Mind Control Cap": {
+    "id": 10726,
+    "quality": 2,
+    "icon": "inv_helmet_49",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 10,
+      "Truesilver Bar": 4,
+      "Gold Power Core": 1,
+      "Star Ruby": 2,
+      "Mageweave Cloth": 4
+    },
+    "colors": [
+      235,
+      255,
+      265,
+      275
+    ]
+  },
+  "Goblin Dragon Gun": {
+    "id": 10727,
+    "quality": 1,
+    "icon": "spell_fire_flamebolt",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Tube": 2,
+      "Goblin Rocket Fuel": 4,
+      "Mithril Bar": 6,
+      "Truesilver Bar": 6,
+      "Unstable Trigger": 1
+    },
+    "colors": [
+      240,
+      260,
+      270,
+      280
+    ]
+  },
+  "The Mortar: Reloaded": {
+    "source": 6,
+    "reagents": {
+      "Goblin Mortar": 1,
+      "Mithril Bar": 1,
+      "Solid Blasting Powder": 3
+    },
+    "colors": [
+      0,
+      0,
+      0,
+      205
+    ]
+  },
+  "Mechanical Repair Kit": {
+    "id": 11590,
+    "quality": 1,
+    "icon": "inv_gizmo_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Bar": 1,
+      "Mageweave Cloth": 1,
+      "Solid Blasting Powder": 1
+    },
+    "colors": [
+      200,
+      200,
+      220,
+      240
+    ]
+  },
+  "Core of Earth": {
+    "id": 7075,
+    "quality": 1,
+    "icon": "inv_stone_05"
+  },
+  "Lil' Smoky": {
+    "id": 11826,
+    "quality": 1,
+    "icon": "inv_misc_idol_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Core of Earth": 1,
+      "Gyrochronatom": 2,
+      "Fused Wiring": 1,
+      "Mithril Bar": 2,
+      "Truesilver Bar": 1
+    },
+    "colors": [
+      205,
+      205,
+      205,
+      205
+    ]
+  },
+  "Pet Bombling": {
+    "id": 11825,
+    "quality": 1,
+    "icon": "inv_misc_bomb_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Big Iron Bomb": 1,
+      "Heart of Fire": 1,
+      "Fused Wiring": 1,
+      "Mithril Bar": 6
+    },
+    "colors": [
+      205,
+      205,
+      205,
+      205
+    ]
+  },
+  "Thorium Bar": {
+    "id": 12359,
+    "quality": 1,
+    "icon": "inv_ingot_07"
+  },
+  "Salt Shaker": {
+    "id": 15846,
+    "quality": 1,
+    "icon": "inv_egg_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Thorium Bar": 6,
+      "Gold Power Core": 1,
+      "Unstable Trigger": 4
+    },
+    "colors": [
+      250,
+      270,
+      280,
+      290
+    ]
+  },
+  "Dense Stone": {
+    "id": 12365,
+    "quality": 1,
+    "icon": "inv_misc_stonetablet_07"
+  },
+  "Dense Blasting Powder": {
+    "id": 15992,
+    "quality": 1,
+    "icon": "inv_misc_ammo_gunpowder_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Dense Stone": 2
+    },
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ]
+  },
+  "Thorium Widget": {
+    "id": 15994,
+    "quality": 1,
+    "icon": "inv_gizmo_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thorium Bar": 3,
+      "Runecloth": 1
+    },
+    "colors": [
+      260,
+      280,
+      290,
+      300
+    ]
+  },
+  "Runecloth": {
+    "id": 14047,
+    "quality": 1,
+    "icon": "inv_fabric_purplefire_01"
+  },
+  "Thorium Grenade": {
+    "id": 15993,
+    "quality": 1,
+    "icon": "inv_misc_bomb_08",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Thorium Widget": 1,
+      "Thorium Bar": 3,
+      "Dense Blasting Powder": 3,
+      "Runecloth": 3
+    },
+    "colors": [
+      260,
+      280,
+      290,
+      300
+    ]
+  },
+  "Thorium Rifle": {
+    "id": 15995,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mithril Tube": 2,
+      "Mithril Casing": 2,
+      "Thorium Widget": 2,
+      "Thorium Bar": 4,
+      "Deadly Scope": 1
+    },
+    "colors": [
+      260,
+      280,
+      290,
+      300
+    ]
+  },
+  "Living Essence": {
+    "id": 12803,
+    "quality": 2,
+    "icon": "spell_nature_abolishmagic"
+  },
+  "Rugged Leather": {
+    "id": 8170,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_02"
+  },
+  "Lifelike Mechanical Toad": {
+    "id": 15996,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Living Essence": 1,
+      "Thorium Widget": 4,
+      "Gold Power Core": 1,
+      "Rugged Leather": 1
+    },
+    "colors": [
+      265,
+      285,
+      295,
+      305
+    ]
+  },
+  "Enchanted Leather": {
+    "id": 12810,
+    "quality": 1,
+    "icon": "inv_misc_rune_05"
+  },
+  "Spellpower Goggles Xtreme Plus": {
+    "id": 15999,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Spellpower Goggles Xtreme": 1,
+      "Star Ruby": 4,
+      "Enchanted Leather": 2,
+      "Runecloth": 8
+    },
+    "colors": [
+      270,
+      290,
+      300,
+      310
+    ]
+  },
+  "Thorium Tube": {
+    "id": 16000,
+    "quality": 1,
+    "icon": "inv_gizmo_pipe_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thorium Bar": 6
+    },
+    "colors": [
+      275,
+      295,
+      305,
+      315
+    ]
+  },
+  "Dark Iron Bar": {
+    "id": 11371,
+    "quality": 1,
+    "icon": "inv_ingot_mithril"
+  },
+  "Blue Sapphire": {
+    "id": 12361,
+    "quality": 2,
+    "icon": "inv_misc_gem_sapphire_02"
+  },
+  "Large Opal": {
+    "id": 12799,
+    "quality": 2,
+    "icon": "inv_misc_gem_opal_01"
+  },
+  "Dark Iron Rifle": {
+    "id": 16004,
+    "quality": 3,
+    "icon": "inv_weapon_rifle_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Thorium Tube": 2,
+      "Dark Iron Bar": 6,
+      "Deadly Scope": 2,
+      "Blue Sapphire": 2,
+      "Large Opal": 2,
+      "Rugged Leather": 4
+    },
+    "colors": [
+      275,
+      295,
+      305,
+      315
+    ]
+  },
+  "Masterwork Target Dummy": {
+    "id": 16023,
+    "quality": 1,
+    "icon": "inv_crate_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Thorium Tube": 1,
+      "Thorium Widget": 2,
+      "Truesilver Bar": 1,
+      "Rugged Leather": 2,
+      "Runecloth": 4
+    },
+    "colors": [
+      275,
+      295,
+      305,
+      315
+    ]
+  },
+  "Arcanite Bar": {
+    "id": 12360,
+    "quality": 2,
+    "icon": "inv_misc_stonetablet_05"
+  },
+  "Ironweb Spider Silk": {
+    "id": 14227,
+    "quality": 1,
+    "icon": "spell_nature_web"
+  },
+  "Delicate Arcanite Converter": {
+    "id": 16006,
+    "quality": 1,
+    "icon": "inv_gizmo_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Arcanite Bar": 1,
+      "Ironweb Spider Silk": 1
+    },
+    "colors": [
+      285,
+      305,
+      315,
+      325
+    ]
+  },
+  "Dark Iron Bomb": {
+    "id": 16005,
+    "quality": 1,
+    "icon": "inv_misc_bomb_05",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Thorium Widget": 2,
+      "Dark Iron Bar": 1,
+      "Dense Blasting Powder": 3,
+      "Runecloth": 3
+    },
+    "colors": [
+      285,
+      305,
+      315,
+      325
+    ]
+  },
+  "Thorium Shells": {
+    "id": 15997,
+    "quality": 2,
+    "icon": "inv_ammo_bullet_03",
+    "craftMin": 200,
+    "craftMax": 200,
+    "source": 6,
+    "reagents": {
+      "Thorium Bar": 2,
+      "Dense Blasting Powder": 1
+    },
+    "colors": [
+      285,
+      295,
+      300,
+      305
+    ]
+  },
+  "Voice Amplification Modulator": {
+    "id": 16009,
+    "quality": 2,
+    "icon": "inv_jewelry_amulet_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Delicate Arcanite Converter": 2,
+      "Gold Power Core": 1,
+      "Thorium Widget": 1,
+      "Large Opal": 1
+    },
+    "colors": [
+      290,
+      310,
+      320,
+      330
+    ]
+  },
+  "Arcane Bomb": {
+    "id": 16040,
+    "quality": 1,
+    "icon": "spell_shadow_mindbomb",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Delicate Arcanite Converter": 1,
+      "Thorium Bar": 3,
+      "Runecloth": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Enchanted Thorium Bar": {
+    "id": 12655,
+    "quality": 1,
+    "icon": "inv_ingot_eternium"
+  },
+  "Arcanite Dragonling": {
+    "id": 16022,
+    "quality": 3,
+    "icon": "inv_misc_head_dragon_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mithril Mechanical Dragonling": 1,
+      "Delicate Arcanite Converter": 8,
+      "Enchanted Thorium Bar": 10,
+      "Thorium Widget": 6,
+      "Gold Power Core": 4,
+      "Enchanted Leather": 6
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Huge Emerald": {
+    "id": 12364,
+    "quality": 2,
+    "icon": "inv_misc_gem_emerald_01"
+  },
+  "Master Engineer's Goggles": {
+    "id": 16008,
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fire Goggles": 1,
+      "Huge Emerald": 2,
+      "Enchanted Leather": 4
+    },
+    "colors": [
+      290,
+      310,
+      320,
+      330
+    ]
+  },
+  "Essence of Fire": {
+    "id": 7078,
+    "quality": 2,
+    "icon": "spell_fire_volcano"
+  },
+  "Essence of Earth": {
+    "id": 7076,
+    "quality": 2,
+    "icon": "spell_nature_strengthofearthtotem02"
+  },
+  "Azerothian Diamond": {
+    "id": 12800,
+    "quality": 2,
+    "icon": "inv_misc_gem_diamond_01"
+  },
+  "Flawless Arcanite Rifle": {
+    "id": 16007,
+    "quality": 3,
+    "icon": "inv_weapon_rifle_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Arcanite Bar": 10,
+      "Thorium Tube": 2,
+      "Essence of Fire": 2,
+      "Essence of Earth": 2,
+      "Azerothian Diamond": 2,
+      "Enchanted Leather": 2
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Snowball": {
+    "id": 17202,
+    "quality": 1,
+    "icon": "inv_ammo_snowball",
+    "vendor": 2
+  },
+  "Snowmaster 9000": {
+    "id": 17716,
+    "quality": 1,
+    "icon": "spell_frost_windwalkon",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mithril Bar": 8,
+      "Gyrochronatom": 4,
+      "Snowball": 4,
+      "Frost Oil": 1
+    },
+    "colors": [
+      190,
+      190,
+      210,
+      230
+    ]
+  },
+  "Field Repair Bot 74A": {
+    "id": 18232,
+    "quality": 1,
+    "icon": "inv_egg_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Thorium Bar": 16,
+      "Fused Wiring": 2
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Lava Core": {
+    "id": 17011,
+    "quality": 3,
+    "icon": "spell_nature_earthquake"
+  },
+  "Biznicks 247x128 Accurascope": {
+    "id": 18283,
+    "quality": 3,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Lava Core": 2,
+      "Essence of Earth": 2,
+      "Delicate Arcanite Converter": 4,
+      "Dark Iron Bar": 6,
+      "Thorium Tube": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Fiery Core": {
+    "id": 17010,
+    "quality": 3,
+    "icon": "spell_fire_flamebolt"
+  },
+  "Core Marksman Rifle": {
+    "id": 18282,
+    "quality": 4,
+    "icon": "inv_weapon_rifle_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Fiery Core": 4,
+      "Lava Core": 2,
+      "Arcanite Bar": 6,
+      "Delicate Arcanite Converter": 2,
+      "Thorium Tube": 2
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Essence of Air": {
+    "id": 7082,
+    "quality": 2,
+    "icon": "spell_nature_earthbind"
+  },
+  "Force Reactive Disk": {
+    "id": 18168,
+    "quality": 4,
+    "icon": "spell_arcane_portaldarnassus",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Arcanite Bar": 6,
+      "Delicate Arcanite Converter": 2,
+      "Essence of Air": 8,
+      "Living Essence": 12,
+      "Essence of Earth": 8
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Red Firework": {
+    "id": 9318,
+    "quality": 1,
+    "icon": "spell_fire_fireball02",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 5,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Heavy Leather": 1
+    },
+    "colors": [
+      150,
+      150,
+      162,
+      175
+    ]
+  },
+  "Green Firework": {
+    "id": 9313,
+    "quality": 1,
+    "icon": "spell_nature_abolishmagic",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 5,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Heavy Leather": 1
+    },
+    "colors": [
+      150,
+      150,
+      162,
+      175
+    ]
+  },
+  "Blue Firework": {
+    "id": 9312,
+    "quality": 1,
+    "icon": "spell_ice_magicdamage",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 5,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Heavy Leather": 1
+    },
+    "colors": [
+      150,
+      150,
+      162,
+      175
+    ]
+  },
+  "Ez-Thro Dynamite II": {
+    "id": 18588,
+    "quality": 1,
+    "icon": "inv_misc_bomb_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Solid Blasting Powder": 1,
+      "Mageweave Cloth": 2
+    },
+    "colors": [
+      200,
+      200,
+      210,
+      220
+    ]
+  },
+  "Dense Dynamite": {
+    "id": 18641,
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Dense Blasting Powder": 2,
+      "Runecloth": 3
+    },
+    "colors": [
+      250,
+      250,
+      260,
+      270
+    ]
+  },
+  "Elemental Air": {
+    "id": 7069,
+    "quality": 1,
+    "icon": "spell_nature_tranquility"
+  },
+  "Truesilver Transformer": {
+    "id": 18631,
+    "quality": 1,
+    "icon": "inv_staff_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Truesilver Bar": 2,
+      "Elemental Earth": 2,
+      "Elemental Air": 1
+    },
+    "colors": [
+      260,
+      270,
+      275,
+      280
+    ]
+  },
+  "Icecap": {
+    "id": 13467,
+    "quality": 1,
+    "icon": "inv_misc_herb_icecap"
+  },
+  "Gyrofreeze Ice Reflector": {
+    "id": 18634,
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Thorium Widget": 6,
+      "Truesilver Transformer": 2,
+      "Blue Sapphire": 2,
+      "Essence of Fire": 4,
+      "Frost Oil": 2,
+      "Icecap": 4
+    },
+    "colors": [
+      260,
+      280,
+      290,
+      300
+    ]
+  },
+  "Goblin Jumper Cables XL": {
+    "id": 18587,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_11",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Thorium Widget": 2,
+      "Truesilver Transformer": 2,
+      "Fused Wiring": 2,
+      "Ironweb Spider Silk": 2,
+      "Star Ruby": 2
+    },
+    "colors": [
+      265,
+      285,
+      295,
+      305
+    ]
+  },
+  "Major Recombobulator": {
+    "id": 18637,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_09",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Thorium Tube": 2,
+      "Truesilver Transformer": 1,
+      "Runecloth": 2
+    },
+    "colors": [
+      275,
+      285,
+      290,
+      295
+    ]
+  },
+  "Powerful Seaforium Charge": {
+    "id": 18594,
+    "quality": 1,
+    "icon": "spell_shadow_detectinvisibility",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Thorium Widget": 2,
+      "Dense Blasting Powder": 3,
+      "Rugged Leather": 2,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      275,
+      275,
+      285,
+      295
+    ]
+  },
+  "Essence of Water": {
+    "id": 7080,
+    "quality": 2,
+    "icon": "spell_nature_acid_01"
+  },
+  "Hyper-Radiant Flame Reflector": {
+    "id": 18638,
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Dark Iron Bar": 4,
+      "Truesilver Transformer": 3,
+      "Essence of Water": 6,
+      "Star Ruby": 4,
+      "Azerothian Diamond": 2
+    },
+    "colors": [
+      290,
+      310,
+      320,
+      330
+    ]
+  },
+  "Ultra-Flash Shadow Reflector": {
+    "id": 18639,
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_16",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Dark Iron Bar": 8,
+      "Truesilver Transformer": 4,
+      "Living Essence": 6,
+      "Essence of Undeath": 4,
+      "Azerothian Diamond": 2,
+      "Large Opal": 2
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Gnomish Alarm-O-Bot": {
+    "id": 18645,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_13",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Thorium Bar": 4,
+      "Thorium Widget": 2,
+      "Rugged Leather": 4,
+      "Star Ruby": 1,
+      "Fused Wiring": 1
+    },
+    "colors": [
+      265,
+      275,
+      280,
+      285
+    ]
+  },
+  "World Enlarger": {
+    "id": 18660,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mithril Casing": 1,
+      "Thorium Widget": 2,
+      "Gold Power Core": 1,
+      "Unstable Trigger": 1,
+      "Citrine": 1
+    },
+    "colors": [
+      260,
+      260,
+      265,
+      270
+    ]
+  },
+  "Globe of Water": {
+    "id": 7079,
+    "quality": 1,
+    "icon": "inv_misc_orb_01"
+  },
+  "Ultrasafe Transporter: Gadgetzan": {
+    "id": 18986,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_12",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 12,
+      "Truesilver Transformer": 2,
+      "Core of Earth": 4,
+      "Globe of Water": 2,
+      "Aquamarine": 4,
+      "Inlaid Mithril Cylinder": 1
+    },
+    "colors": [
+      0,
+      285,
+      295,
+      305
+    ]
+  },
+  "Dimensional Ripper - Everlook": {
+    "id": 18984,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mithril Bar": 10,
+      "Truesilver Transformer": 1,
+      "Heart of Fire": 4,
+      "Star Ruby": 2,
+      "The Big One": 1
+    },
+    "colors": [
+      0,
+      285,
+      295,
+      305
+    ]
+  },
+  "Deeprock Salt": {
+    "id": 8150,
+    "quality": 1,
+    "icon": "inv_misc_dust_02"
+  },
+  "Snake Burst Firework": {
+    "id": 19026,
+    "quality": 1,
+    "icon": "spell_holy_holybolt",
+    "craftMin": 4,
+    "craftMax": 4,
+    "source": 5,
+    "reagents": {
+      "Dense Blasting Powder": 2,
+      "Runecloth": 2,
+      "Deeprock Salt": 1
+    },
+    "colors": [
+      250,
+      250,
+      260,
+      270
+    ]
+  },
+  "Bloodvine": {
+    "id": 19726,
+    "quality": 2,
+    "icon": "inv_misc_herb_09"
+  },
+  "Souldarite": {
+    "id": 19774,
+    "quality": 2,
+    "icon": "inv_misc_gem_01"
+  },
+  "Powerful Mojo": {
+    "id": 12804,
+    "quality": 1,
+    "icon": "spell_nature_astralrecalgroup"
+  },
+  "Bloodvine Goggles": {
+    "id": 19999,
+    "quality": 3,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Bloodvine": 4,
+      "Souldarite": 5,
+      "Delicate Arcanite Converter": 2,
+      "Powerful Mojo": 8,
+      "Enchanted Leather": 4
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Bloodvine Lens": {
+    "id": 19998,
+    "quality": 3,
+    "icon": "inv_helmet_44",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Bloodvine": 5,
+      "Souldarite": 5,
+      "Delicate Arcanite Converter": 1,
+      "Powerful Mojo": 8,
+      "Enchanted Leather": 4
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Cured Rugged Hide": {
+    "id": 15407,
+    "quality": 1,
+    "icon": "inv_misc_pelt_bear_03"
+  },
+  "Tranquil Mechanical Yeti": {
+    "id": 21277,
+    "quality": 1,
+    "icon": "ability_hunter_pet_gorilla",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Cured Rugged Hide": 1,
+      "Thorium Widget": 4,
+      "Globe of Water": 2,
+      "Truesilver Transformer": 2,
+      "Gold Power Core": 1
+    },
+    "colors": [
+      250,
+      320,
+      330,
+      340
+    ]
+  },
+  "Small Blue Rocket": {
+    "id": 21558,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_blue",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Coarse Blasting Powder": 1,
+      "Medium Leather": 1
+    },
+    "colors": [
+      125,
+      125,
+      137,
+      150
+    ]
+  },
+  "Small Green Rocket": {
+    "id": 21559,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_green",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Coarse Blasting Powder": 1,
+      "Medium Leather": 1
+    },
+    "colors": [
+      125,
+      125,
+      137,
+      150
+    ]
+  },
+  "Small Red Rocket": {
+    "id": 21557,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_red",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Coarse Blasting Powder": 1,
+      "Medium Leather": 1
+    },
+    "colors": [
+      125,
+      125,
+      137,
+      150
+    ]
+  },
+  "Large Blue Rocket": {
+    "id": 21589,
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_blue",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Heavy Leather": 1
+    },
+    "colors": [
+      175,
+      175,
+      187,
+      200
+    ]
+  },
+  "Large Green Rocket": {
+    "id": 21590,
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_green",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Heavy Leather": 1
+    },
+    "colors": [
+      175,
+      175,
+      187,
+      200
+    ]
+  },
+  "Large Red Rocket": {
+    "id": 21592,
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_red",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Heavy Blasting Powder": 1,
+      "Heavy Leather": 1
+    },
+    "colors": [
+      175,
+      175,
+      187,
+      200
+    ]
+  },
+  "Blue Rocket Cluster": {
+    "id": 21571,
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_blue",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Solid Blasting Powder": 1,
+      "Thick Leather": 1
+    },
+    "colors": [
+      225,
+      225,
+      237,
+      250
+    ]
+  },
+  "Green Rocket Cluster": {
+    "id": 21574,
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_green",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Solid Blasting Powder": 1,
+      "Thick Leather": 1
+    },
+    "colors": [
+      225,
+      225,
+      237,
+      250
+    ]
+  },
+  "Red Rocket Cluster": {
+    "id": 21576,
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_red",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Solid Blasting Powder": 1,
+      "Thick Leather": 1
+    },
+    "colors": [
+      225,
+      225,
+      237,
+      250
+    ]
+  },
+  "Large Blue Rocket Cluster": {
+    "id": 21714,
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_blue",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Dense Blasting Powder": 1,
+      "Rugged Leather": 1
+    },
+    "colors": [
+      275,
+      275,
+      280,
+      285
+    ]
+  },
+  "Large Green Rocket Cluster": {
+    "id": 21716,
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_green",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Dense Blasting Powder": 1,
+      "Rugged Leather": 1
+    },
+    "colors": [
+      275,
+      275,
+      280,
+      285
+    ]
+  },
+  "Large Red Rocket Cluster": {
+    "id": 21718,
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_red",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Dense Blasting Powder": 1,
+      "Rugged Leather": 1
+    },
+    "colors": [
+      275,
+      275,
+      280,
+      285
+    ]
+  },
+  "Firework Launcher": {
+    "id": 21569,
+    "quality": 1,
+    "icon": "inv_musket_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Inlaid Mithril Cylinder": 1,
+      "Goblin Rocket Fuel": 1,
+      "Unstable Trigger": 1,
+      "Mithril Casing": 1
+    },
+    "colors": [
+      225,
+      245,
+      255,
+      265
+    ]
+  },
+  "Cluster Launcher": {
+    "id": 21570,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Inlaid Mithril Cylinder": 4,
+      "Goblin Rocket Fuel": 4,
+      "Truesilver Transformer": 2,
+      "Mithril Casing": 1
+    },
+    "colors": [
+      275,
+      295,
+      305,
+      315
+    ]
+  },
+  "Steam Tonk Controller": {
+    "id": 22728,
+    "quality": 1,
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Mithril Bar": 3,
+      "Gold Power Core": 1
+    },
+    "colors": [
+      275,
+      275,
+      280,
+      285
+    ]
+  },
+  "Fel Iron Casing": {
+    "id": 23782,
+    "quality": 1,
+    "icon": "inv_gizmo_felironcasing",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Bar": 3
+    },
+    "colors": [
+      300,
+      300,
+      310,
+      320
+    ]
+  },
+  "Handful of Fel Iron Bolts": {
+    "id": 23783,
+    "quality": 1,
+    "icon": "inv_gizmo_felironbolts",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Bar": 1
+    },
+    "colors": [
+      300,
+      300,
+      305,
+      310
+    ]
+  },
+  "Elemental Blasting Powder": {
+    "id": 23781,
+    "quality": 1,
+    "icon": "inv_misc_ammo_gunpowder_07",
+    "craftMin": 4,
+    "craftMax": 4,
+    "source": 6,
+    "reagents": {
+      "Mote of Fire": 1,
+      "Mote of Earth": 2
+    },
+    "colors": [
+      300,
+      300,
+      310,
+      320
+    ]
+  },
+  "Fel Iron Bomb": {
+    "id": 23736,
+    "quality": 1,
+    "icon": "inv_gizmo_felironbomb",
+    "craftMin": 4,
+    "craftMax": 4,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 2,
+      "Elemental Blasting Powder": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Adamantite Bar": {
+    "id": 23446,
+    "quality": 1,
+    "icon": "inv_ingot_10"
+  },
+  "Adamantite Grenade": {
+    "id": 23737,
+    "quality": 1,
+    "icon": "inv_misc_bomb_08",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Adamantite Bar": 4,
+      "Handful of Fel Iron Bolts": 2,
+      "Elemental Blasting Powder": 1
+    },
+    "colors": [
+      325,
+      335,
+      345,
+      355
+    ]
+  },
+  "Fel Iron Musket": {
+    "id": 23742,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Heavy Stock": 1,
+      "Fel Iron Casing": 3,
+      "Handful of Fel Iron Bolts": 6
+    },
+    "colors": [
+      320,
+      330,
+      340,
+      350
+    ]
+  },
+  "Adamantite Frame": {
+    "id": 23784,
+    "quality": 1,
+    "icon": "inv_gizmo_adamantiteframe",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Adamantite Bar": 4,
+      "Primal Earth": 1
+    },
+    "colors": [
+      325,
+      325,
+      330,
+      335
+    ]
+  },
+  "Adamantite Rifle": {
+    "id": 23746,
+    "quality": 2,
+    "icon": "inv_weapon_rifle_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Fel Iron Casing": 3,
+      "Adamantite Frame": 2,
+      "Handful of Fel Iron Bolts": 4
+    },
+    "colors": [
+      350,
+      360,
+      370,
+      380
+    ]
+  },
+  "Hardened Adamantite Tube": {
+    "id": 23785,
+    "quality": 1,
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Hardened Adamantite Bar": 3
+    },
+    "colors": [
+      340,
+      350,
+      360,
+      370
+    ]
+  },
+  "Felsteel Stabilizer": {
+    "id": 23787,
+    "quality": 1,
+    "icon": "inv_gizmo_felstabilizer",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Felsteel Bar": 2
+    },
+    "colors": [
+      340,
+      350,
+      360,
+      370
+    ]
+  },
+  "Felsteel Boomstick": {
+    "id": 23747,
+    "quality": 3,
+    "icon": "inv_weapon_rifle_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Felsteel Stabilizer": 4,
+      "Handful of Fel Iron Bolts": 4
+    },
+    "colors": [
+      360,
+      370,
+      380,
+      390
+    ]
+  },
+  "Khorium Bar": {
+    "id": 23449,
+    "quality": 2,
+    "icon": "inv_ingot_09"
+  },
+  "Noble Topaz": {
+    "id": 23439,
+    "quality": 3,
+    "icon": "inv_jewelcrafting_nobletopaz_02"
+  },
+  "Ornate Khorium Rifle": {
+    "id": 23748,
+    "quality": 3,
+    "icon": "inv_weapon_rifle_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Khorium Bar": 12,
+      "Handful of Fel Iron Bolts": 4,
+      "Noble Topaz": 2
+    },
+    "colors": [
+      375,
+      385,
+      395,
+      405
+    ]
+  },
+  "Heavy Knothide Leather": {
+    "id": 23793,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_11"
+  },
+  "Blood Garnet": {
+    "id": 23077,
+    "quality": 2,
+    "icon": "inv_misc_gem_bloodgem_03"
+  },
+  "Arcane Dust": {
+    "id": 22445,
+    "quality": 1,
+    "icon": "inv_enchant_dustarcane"
+  },
+  "Cogspinner Goggles": {
+    "id": 23758,
+    "quality": 3,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Blood Garnet": 2,
+      "Arcane Dust": 8
+    },
+    "colors": [
+      340,
+      350,
+      360,
+      370
+    ]
+  },
+  "Flame Spessarite": {
+    "id": 21929,
+    "quality": 2,
+    "icon": "inv_misc_gem_flamespessarite_03"
+  },
+  "Power Amplification Goggles": {
+    "id": 23761,
+    "quality": 3,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Flame Spessarite": 2,
+      "Arcane Dust": 8
+    },
+    "colors": [
+      340,
+      350,
+      360,
+      370
+    ]
+  },
+  "Deep Peridot": {
+    "id": 23079,
+    "quality": 2,
+    "icon": "inv_misc_gem_deepperidot_03"
+  },
+  "Small Prismatic Shard": {
+    "id": 22448,
+    "quality": 3,
+    "icon": "inv_enchant_shardprismaticsmall"
+  },
+  "Ultra-Spectropic Detection Goggles": {
+    "id": 23762,
+    "quality": 3,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Khorium Bar": 2,
+      "Deep Peridot": 2,
+      "Small Prismatic Shard": 2
+    },
+    "colors": [
+      350,
+      360,
+      370,
+      380
+    ]
+  },
+  "Nightseye": {
+    "id": 23441,
+    "quality": 3,
+    "icon": "inv_jewelcrafting_nightseye_02"
+  },
+  "Large Prismatic Shard": {
+    "id": 22449,
+    "quality": 3,
+    "icon": "inv_enchant_shardprismaticlarge"
+  },
+  "Hyper-Vision Goggles": {
+    "id": 23763,
+    "quality": 3,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Khorium Bar": 2,
+      "Nightseye": 2,
+      "Large Prismatic Shard": 2
+    },
+    "colors": [
+      360,
+      370,
+      380,
+      390
+    ]
+  },
+  "Golden Draenite": {
+    "id": 23112,
+    "quality": 2,
+    "icon": "inv_misc_gem_goldendraenite_03"
+  },
+  "Adamantite Scope": {
+    "id": 23764,
+    "quality": 2,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Adamantite Bar": 8,
+      "Golden Draenite": 2
+    },
+    "colors": [
+      335,
+      345,
+      355,
+      365
+    ]
+  },
+  "Dawnstone": {
+    "id": 23440,
+    "quality": 3,
+    "icon": "inv_jewelcrafting_dawnstone_02"
+  },
+  "Khorium Scope": {
+    "id": 23765,
+    "quality": 3,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Khorium Bar": 4,
+      "Dawnstone": 2
+    },
+    "colors": [
+      360,
+      370,
+      380,
+      390
+    ]
+  },
+  "Star of Elune": {
+    "id": 23438,
+    "quality": 3,
+    "icon": "inv_jewelcrafting_starofelune_02"
+  },
+  "Stabilized Eternium Scope": {
+    "id": 23766,
+    "quality": 3,
+    "icon": "inv_misc_spyglass_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 6,
+      "Star of Elune": 2
+    },
+    "colors": [
+      375,
+      385,
+      395,
+      405
+    ]
+  },
+  "Crashin' Thrashin' Robot": {
+    "id": 23767,
+    "quality": 2,
+    "icon": "inv_misc_idol_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Fel Iron Casing": 2,
+      "Gold Power Core": 1,
+      "Handful of Fel Iron Bolts": 2
+    },
+    "colors": [
+      325,
+      335,
+      345,
+      355
+    ]
+  },
+  "Netherweave Cloth": {
+    "id": 21877,
+    "quality": 1,
+    "icon": "inv_fabric_netherweave"
+  },
+  "White Smoke Flare": {
+    "id": 23768,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_white",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 5,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1
+    },
+    "colors": [
+      335,
+      335,
+      345,
+      355
+    ]
+  },
+  "Red Dye": {
+    "id": 2604,
+    "quality": 1,
+    "icon": "inv_potion_11",
+    "vendor": 50
+  },
+  "Red Smoke Flare": {
+    "id": 23769,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_red",
+    "craftMin": 3,
+    "craftMax": 3,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1,
+      "Red Dye": 1
+    }
+  },
+  "Blue Dye": {
+    "id": 6260,
+    "quality": 1,
+    "icon": "inv_potion_15",
+    "vendor": 50
+  },
+  "Blue Smoke Flare": {
+    "id": 23770,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_blue",
+    "craftMin": 3,
+    "craftMax": 3,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1,
+      "Blue Dye": 1
+    }
+  },
+  "Green Dye": {
+    "id": 2605,
+    "quality": 1,
+    "icon": "inv_potion_12",
+    "vendor": 100
+  },
+  "Green Smoke Flare": {
+    "id": 23771,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_green",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1,
+      "Green Dye": 1
+    },
+    "colors": [
+      335,
+      335,
+      345,
+      355
+    ]
+  },
+  "Fel Iron Bar": {
+    "id": 23445,
+    "quality": 1,
+    "icon": "inv_ingot_feliron"
+  },
+  "Fel Iron Shells": {
+    "id": 23772,
+    "quality": 2,
+    "icon": "inv_gizmo_felironshell",
+    "craftMin": 200,
+    "craftMax": 200,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Bar": 2,
+      "Elemental Blasting Powder": 1
+    },
+    "colors": [
+      310,
+      310,
+      320,
+      330
+    ]
+  },
+  "Simple Wood": {
+    "id": 4470,
+    "quality": 1,
+    "icon": "inv_tradeskillitem_01",
+    "vendor": 40
+  },
+  "Adamantite Shell Machine": {
+    "id": 34504,
+    "quality": 1,
+    "icon": "inv_crate_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Adamantite Bar": 1,
+      "Elemental Blasting Powder": 2,
+      "Simple Wood": 4
+    },
+    "colors": [
+      335,
+      335,
+      345,
+      355
+    ]
+  },
+  "Fel Iron Toolbox": {
+    "id": 23774,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Fel Iron Bar": 5,
+      "Handful of Fel Iron Bolts": 2
+    },
+    "colors": [
+      325,
+      325,
+      335,
+      345
+    ]
+  },
+  "Khorium Toolbox": {
+    "id": 23775,
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_19",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Khorium Bar": 5,
+      "Handful of Fel Iron Bolts": 2
+    },
+    "colors": [
+      350,
+      360,
+      370,
+      380
+    ]
+  },
+  "Mote of Fire": {
+    "id": 22574,
+    "quality": 1,
+    "icon": "inv_elemental_mote_fire01"
+  },
+  "Mote of Earth": {
+    "id": 22573,
+    "quality": 1,
+    "icon": "inv_elemental_mote_earth01"
+  },
+  "Primal Earth": {
+    "id": 22452,
+    "quality": 2,
+    "icon": "inv_elemental_primal_earth"
+  },
+  "Hardened Adamantite Bar": {
+    "id": 23573,
+    "quality": 1,
+    "icon": "inv_ingot_adamantite"
+  },
+  "Primal Fire": {
+    "id": 21884,
+    "quality": 2,
+    "icon": "inv_elemental_primal_fire"
+  },
+  "Khorium Power Core": {
+    "id": 23786,
+    "quality": 1,
+    "icon": "inv_gizmo_khoriumpowercore",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Khorium Bar": 3,
+      "Primal Fire": 1
+    },
+    "colors": [
+      340,
+      350,
+      360,
+      370
+    ]
+  },
+  "Felsteel Bar": {
+    "id": 23448,
+    "quality": 2,
+    "icon": "inv_ingot_felsteel"
+  },
+  "Elemental Seaforium Charge": {
+    "id": 23819,
+    "quality": 1,
+    "icon": "spell_shadow_detectinvisibility",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "faction": 933,
+    "reagents": {
+      "Elemental Blasting Powder": 2,
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1
+    },
+    "colors": [
+      350,
+      350,
+      355,
+      360
+    ]
+  },
+  "Primal Life": {
+    "id": 21886,
+    "quality": 2,
+    "icon": "inv_elemental_primal_life"
+  },
+  "Zapthrottle Mote Extractor": {
+    "id": 23821,
+    "quality": 1,
+    "icon": "inv_gizmo_zapthrottlegascollector",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Fel Iron Casing": 2,
+      "Handful of Fel Iron Bolts": 2,
+      "Primal Life": 4,
+      "Delicate Arcanite Converter": 1
+    },
+    "colors": [
+      305,
+      305,
+      315,
+      325
+    ]
+  },
+  "Critter Enlarger": {
+    "id": 23820,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Handful of Fel Iron Bolts": 2,
+      "Gold Power Core": 1
+    }
+  },
+  "Knothide Leather": {
+    "id": 21887,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_10"
+  },
+  "Super Healing Potion": {
+    "id": 22829,
+    "quality": 1,
+    "icon": "inv_potion_131"
+  },
+  "Healing Potion Injector": {
+    "id": 33092,
+    "quality": 1,
+    "icon": "inv_potion_167",
+    "craftMin": 20,
+    "craftMax": 20,
+    "source": 2,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1,
+      "Knothide Leather": 2,
+      "Super Healing Potion": 20
+    },
+    "colors": [
+      330,
+      330,
+      340,
+      350
+    ]
+  },
+  "Super Mana Potion": {
+    "id": 22832,
+    "quality": 1,
+    "icon": "inv_potion_137"
+  },
+  "Mana Potion Injector": {
+    "id": 33093,
+    "quality": 1,
+    "icon": "inv_potion_168",
+    "craftMin": 20,
+    "craftMax": 20,
+    "source": 2,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1,
+      "Knothide Leather": 2,
+      "Super Mana Potion": 20
+    },
+    "colors": [
+      345,
+      345,
+      355,
+      365
+    ]
+  },
+  "Rocket Boots Xtreme": {
+    "id": 23824,
+    "quality": 3,
+    "icon": "inv_gizmo_rocketboot_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heavy Knothide Leather": 8,
+      "Khorium Power Core": 2,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4
+    },
+    "colors": [
+      355,
+      365,
+      375,
+      385
+    ]
+  },
+  "Arcane Powder": {
+    "id": 17020,
+    "quality": 1,
+    "icon": "inv_misc_dust_01"
+  },
+  "The Bigger One": {
+    "id": 23826,
+    "quality": 1,
+    "icon": "inv_gizmo_thebiggerone",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Casing": 3,
+      "Elemental Blasting Powder": 6,
+      "Arcane Powder": 3,
+      "Handful of Fel Iron Bolts": 2
+    },
+    "colors": [
+      325,
+      325,
+      335,
+      345
+    ]
+  },
+  "Primal Mana": {
+    "id": 22457,
+    "quality": 2,
+    "icon": "inv_elemental_primal_mana"
+  },
+  "Super Sapper Charge": {
+    "id": 23827,
+    "quality": 1,
+    "icon": "inv_gizmo_supersappercharge",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 6,
+    "reagents": {
+      "Netherweave Cloth": 4,
+      "Elemental Blasting Powder": 4,
+      "Primal Mana": 1
+    },
+    "colors": [
+      340,
+      340,
+      350,
+      360
+    ]
+  },
+  "Goblin Tonk Controller": {
+    "id": 23831,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 4,
+      "Gold Power Core": 1
+    }
+  },
+  "Goblin Rocket Launcher": {
+    "id": 23836,
+    "quality": 3,
+    "icon": "inv_gizmo_rocketlauncher",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Khorium Power Core": 1,
+      "Felsteel Stabilizer": 2,
+      "Primal Fire": 6,
+      "Primal Earth": 6,
+      "Delicate Arcanite Converter": 2
+    },
+    "colors": [
+      350,
+      360,
+      370,
+      380
+    ]
+  },
+  "Shadowcloth": {
+    "id": 24272,
+    "quality": 3,
+    "icon": "inv_fabric_felcloth_ebon"
+  },
+  "Primal Air": {
+    "id": 22451,
+    "quality": 2,
+    "icon": "inv_elemental_primal_air"
+  },
+  "Foreman's Enchanted Helmet": {
+    "id": 23838,
+    "quality": 4,
+    "icon": "inv_helmet_60",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Shadowcloth": 4,
+      "Primal Mana": 12,
+      "Primal Air": 12
+    },
+    "colors": [
+      375,
+      375,
+      385,
+      395
+    ]
+  },
+  "Foreman's Reinforced Helmet": {
+    "id": 23839,
+    "quality": 4,
+    "icon": "inv_helmet_60",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Hardened Adamantite Bar": 8,
+      "Primal Earth": 12,
+      "Primal Fire": 12
+    },
+    "colors": [
+      375,
+      375,
+      385,
+      395
+    ]
+  },
+  "Gnomish Flame Turret": {
+    "id": 23841,
+    "quality": 1,
+    "icon": "inv_gizmo_gnomishflameturret",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Handful of Fel Iron Bolts": 2,
+      "Elemental Blasting Powder": 3,
+      "Fel Iron Casing": 1
+    },
+    "colors": [
+      325,
+      335,
+      345,
+      355
+    ]
+  },
+  "Gnomish Poultryizer": {
+    "id": 23835,
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Khorium Power Core": 2,
+      "Arcane Dust": 10,
+      "Large Prismatic Shard": 2
+    },
+    "colors": [
+      340,
+      360,
+      370,
+      380
+    ]
+  },
+  "Primal Shadow": {
+    "id": 22456,
+    "quality": 2,
+    "icon": "inv_elemental_primal_shadow"
+  },
+  "Nigh Invulnerability Belt": {
+    "id": 23825,
+    "quality": 3,
+    "icon": "inv_belt_27",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Heavy Knothide Leather": 8,
+      "Khorium Power Core": 4,
+      "Primal Life": 10,
+      "Primal Shadow": 10,
+      "Delicate Arcanite Converter": 2
+    },
+    "colors": [
+      350,
+      360,
+      370,
+      380
+    ]
+  },
+  "Gnomish Tonk Controller": {
+    "id": 23832,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 4,
+      "Gold Power Core": 1
+    }
+  },
+  "Spellcloth": {
+    "id": 24271,
+    "quality": 3,
+    "icon": "inv_fabric_spellfire"
+  },
+  "Primal Water": {
+    "id": 21885,
+    "quality": 2,
+    "icon": "inv_elemental_primal_water"
+  },
+  "Talasite": {
+    "id": 23437,
+    "quality": 3,
+    "icon": "inv_jewelcrafting_talasite_02"
+  },
+  "Gnomish Power Goggles": {
+    "id": 23828,
+    "quality": 4,
+    "icon": "inv_helmet_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Spellcloth": 4,
+      "Primal Fire": 8,
+      "Primal Air": 8,
+      "Primal Earth": 8,
+      "Primal Water": 8,
+      "Talasite": 2
+    },
+    "colors": [
+      375,
+      375,
+      385,
+      395
+    ]
+  },
+  "Living Ruby": {
+    "id": 23436,
+    "quality": 3,
+    "icon": "inv_jewelcrafting_livingruby_02"
+  },
+  "Gnomish Battle Goggles": {
+    "id": 23829,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Heavy Knothide Leather": 8,
+      "Primal Shadow": 12,
+      "Primal Earth": 12,
+      "Primal Fire": 12,
+      "Living Ruby": 2
+    },
+    "colors": [
+      375,
+      375,
+      385,
+      395
+    ]
+  },
+  "Purple Dye": {
+    "id": 4342,
+    "quality": 1,
+    "icon": "inv_potion_02",
+    "vendor": 2500
+  },
+  "Purple Smoke Flare": {
+    "id": 25886,
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_purple",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 2,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1,
+      "Purple Dye": 1
+    },
+    "colors": [
+      335,
+      335,
+      345,
+      355
+    ]
+  },
+  "Dimensional Ripper - Area 52": {
+    "id": 30542,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Primal Fire": 2,
+      "The Bigger One": 2,
+      "Handful of Fel Iron Bolts": 4,
+      "Khorium Power Core": 1
+    },
+    "colors": [
+      0,
+      350,
+      360,
+      370
+    ]
+  },
+  "Ultrasafe Transporter: Toshley's Station": {
+    "id": 30544,
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_12",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Primal Air": 2,
+      "Felsteel Stabilizer": 2,
+      "Handful of Fel Iron Bolts": 4,
+      "Khorium Power Core": 1
+    },
+    "colors": [
+      0,
+      350,
+      360,
+      370
+    ]
+  },
+  "Delicate Copper Wire": {
+    "id": 20816,
+    "quality": 1,
+    "icon": "inv_jewelcrafting_delicatecopperwire"
+  },
+  "Icy Blasting Primers": {
+    "id": 32423,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_15",
+    "craftMin": 10,
+    "craftMax": 10,
+    "source": 6,
+    "reagents": {
+      "Primal Water": 1,
+      "Elemental Blasting Powder": 2,
+      "Netherweave Cloth": 2
+    },
+    "colors": [
+      335,
+      335,
+      340,
+      345
+    ]
+  },
+  "Frost Grenade": {
+    "id": 32413,
+    "quality": 1,
+    "icon": "spell_frost_frozencore",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 6,
+    "reagents": {
+      "Icy Blasting Primers": 1,
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1
+    },
+    "colors": [
+      335,
+      345,
+      355,
+      365
+    ]
+  },
+  "Primal Nether": {
+    "id": 23572,
+    "quality": 3,
+    "icon": "inv_elemental_primal_nether"
+  },
+  "Furious Gizmatic Goggles": {
+    "id": 32461,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Living Ruby": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Gyro-Balanced Khorium Destroyer": {
+    "id": 32756,
+    "quality": 4,
+    "icon": "inv_weapon_rifle_13",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Khorium Bar": 20,
+      "Felsteel Stabilizer": 4,
+      "Primal Fire": 12,
+      "Primal Air": 12,
+      "Primal Nether": 1
+    },
+    "colors": [
+      375,
+      375,
+      392,
+      410
+    ]
+  },
+  "Justicebringer 2000 Specs": {
+    "id": 32472,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Dawnstone": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Tankatronic Goggles": {
+    "id": 32473,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Talasite": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Surestrike Goggles v2.0": {
+    "id": 32474,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Nightseye": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Gadgetstorm Goggles": {
+    "id": 32476,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Living Ruby": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Living Replicator Specs": {
+    "id": 32475,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Noble Topaz": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Deathblow X11 Goggles": {
+    "id": 32478,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Living Ruby": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Wonderheal XT40 Shades": {
+    "id": 32479,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Dawnstone": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Magnified Moon Specs": {
+    "id": 32480,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Talasite": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Destruction Holo-gogs": {
+    "id": 32494,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Star of Elune": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Powerheal 4000 Lens": {
+    "id": 32495,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 6,
+      "Khorium Power Core": 1,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4,
+      "Primal Nether": 1,
+      "Noble Topaz": 2
+    },
+    "colors": [
+      0,
+      370,
+      380,
+      390
+    ]
+  },
+  "Adamantite Arrow Maker": {
+    "id": 20475,
+    "quality": 1,
+    "icon": "inv_crate_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Adamantite Bar": 1,
+      "Simple Wood": 4,
+      "Handful of Fel Iron Bolts": 2
+    },
+    "colors": [
+      335,
+      335,
+      345,
+      355
+    ]
+  },
+  "Star Wood": {
+    "id": 11291,
+    "quality": 1,
+    "icon": "inv_tradeskillitem_03",
+    "vendor": 4050
+  },
+  "Flying Machine Control": {
+    "id": 34060,
+    "quality": 3,
+    "icon": "ability_mount_gyrocoptor",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Adamantite Frame": 2,
+      "Fel Iron Bar": 30,
+      "Handful of Fel Iron Bolts": 8,
+      "Star Wood": 8,
+      "Adamantite Bar": 5,
+      "Elemental Seaforium Charge": 4
+    },
+    "colors": [
+      350,
+      375,
+      380,
+      385
+    ]
+  },
+  "Hula Girl Doll": {
+    "id": 34249,
+    "quality": 1,
+    "icon": "inv_misc_toy_07"
+  },
+  "Turbo-Charged Flying Machine Control": {
+    "id": 34061,
+    "quality": 4,
+    "icon": "ability_mount_gyrocoptorelite",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Flying Machine Control": 1,
+      "Khorium Power Core": 8,
+      "Felsteel Stabilizer": 8,
+      "Hula Girl Doll": 1
+    },
+    "colors": [
+      375,
+      385,
+      390,
+      395
+    ]
+  },
+  "Field Repair Bot 110G": {
+    "id": 34113,
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_01",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 2,
+    "reagents": {
+      "Adamantite Bar": 8,
+      "Handful of Fel Iron Bolts": 8,
+      "Khorium Power Core": 1
+    },
+    "colors": [
+      360,
+      370,
+      380,
+      390
+    ]
+  },
+  "Annihilator Holo-Gogs": {
+    "id": 34847,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Destruction Holo-gogs": 1,
+      "Primal Shadow": 4,
+      "Primal Fire": 4,
+      "Primal Mana": 4,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Hardened Khorium": {
+    "id": 35128,
+    "quality": 2,
+    "icon": "inv_ingot_thorium"
+  },
+  "Primal Might": {
+    "id": 23571,
+    "quality": 3,
+    "icon": "spell_nature_lightningoverload"
+  },
+  "Hard Khorium Goggles": {
+    "id": 34357,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Tankatronic Goggles": 1,
+      "Hardened Khorium": 2,
+      "Primal Might": 1,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Hyper-Magnified Moon Specs": {
+    "id": 35182,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Magnified Moon Specs": 1,
+      "Primal Water": 6,
+      "Primal Life": 12,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Justicebringer 3000 Specs": {
+    "id": 35185,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Justicebringer 2000 Specs": 1,
+      "Primal Life": 8,
+      "Primal Mana": 8,
+      "Primal Earth": 8,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Lightning Etched Specs": {
+    "id": 34355,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Gadgetstorm Goggles": 1,
+      "Primal Might": 2,
+      "Primal Air": 2,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Mayhem Projection Goggles": {
+    "id": 34354,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Furious Gizmatic Goggles": 1,
+      "Primal Fire": 10,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Powerheal 9000 Lens": {
+    "id": 35181,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Powerheal 4000 Lens": 1,
+      "Primal Life": 8,
+      "Primal Mana": 8,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Primal-Attuned Goggles": {
+    "id": 35184,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Living Replicator Specs": 1,
+      "Primal Life": 5,
+      "Primal Mana": 5,
+      "Primal Water": 5,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Quad Deathblow X44 Goggles": {
+    "id": 34353,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Deathblow X11 Goggles": 1,
+      "Primal Shadow": 12,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Surestrike Goggles v3.0": {
+    "id": 34356,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Surestrike Goggles v2.0": 1,
+      "Primal Air": 12,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Wonderheal XT68 Shades": {
+    "id": 35183,
+    "quality": 4,
+    "icon": "inv_gizmo_newgoggles",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Wonderheal XT40 Shades": 1,
+      "Primal Water": 4,
+      "Primal Mana": 8,
+      "Primal Nether": 4
+    },
+    "colors": [
+      375,
+      390,
+      410,
+      430
+    ]
+  },
+  "Bolt of Netherweave": {
+    "id": 21840,
+    "quality": 1,
+    "icon": "inv_fabric_netherweave_bolt"
+  },
+  "Rocket Boots Xtreme Lite": {
+    "id": 35581,
+    "quality": 3,
+    "icon": "inv_gizmo_rocketboot_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Bolt of Netherweave": 8,
+      "Khorium Power Core": 2,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4
+    },
+    "colors": [
+      355,
+      365,
+      375,
+      385
+    ]
+  }
+}

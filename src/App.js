@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.scss';
 
-import Select from 'react-select';
-import AsyncSelect from 'react-select/async';
+//import Select from 'react-select';
+//import AsyncSelect from 'react-select/async';
+import Select, { underlinerFunc } from './select';
 
 import { serverList } from './nexushub';
 
@@ -33,32 +34,30 @@ const serverOptions = serverList.then(servers => {
   const regions = {};
   servers.forEach(({slug, name, region}) => {
     if (!regions[region]) regions[region] = [];
-    regions[region].push({value: slug, label: name});
+    regions[region].push({id: slug, name});
   });
   return Object.entries(regions).map(([region, list]) => {
-    list.sort(({label: name1}, {label: name2}) => name1.localeCompare(name2));
-    return {label: region, options: list};
+    list.sort(({name: name1}, {name: name2}) => name1.localeCompare(name2));
+    return {title: region, options: list};
   });
 });
 
 const factionOptions = [
-  {value: "alliance", label: "Alliance"},
-  {value: "horde", label: "Horde"},
-  {value: "both", label: "Both"},
+  {id: "alliance", name: "Alliance"},
+  {id: "horde", name: "Horde"},
+  {id: "both", name: "Both"},
 ];
 
-const profNames = {alchemy: "Alchemy", blacksmithing: "Blacksmithing", cooking: "Cooking", enchanting: "Enchanting", engineering: "Engineering", firstaid: "First Aid", leatherworking: "Leatherworking", tailoring: "Tailoring"};
-const categoryNames = {...profNames, quest: "Quests", tierset: "Tier Sets", "": "Misc"};
+const profNames = {alchemy: "Alchemy", blacksmithing: "Blacksmithing", cooking: "Cooking", enchanting: "Enchanting", engineering: "Engineering", firstaid: "First Aid", leatherworking: "Leatherworking", tailoring: "Tailoring", mining: "Mining"};
+const categoryNames = {...profNames, quest: "Quests", tierset: "Item Sets", "": "Misc"};
 
-const itemOptions = (term, callback) => {
-  if (term.length < 3) callback([]);
-  term = term.toLowerCase();
+function itemOptions() {
   const categories = {};
-  Object.entries(Data).filter(([name, data]) => data.reagents && name.toLowerCase().includes(term)).forEach(([name, data]) => {
+  Object.entries(Data).filter(([name, data]) => data.reagents).forEach(([name, data]) => {
     categories[data.category || ""] = (categories[data.category || ""] || []);
-    categories[data.category || ""].push({value: name, label: name});
+    categories[data.category || ""].push(name);
   });
-  callback(Object.entries(categories).map(([cat, list]) => ({label: categoryNames[cat], options: list})));
+  return Object.entries(categories).map(([cat, list]) => ({title: categoryNames[cat], options: list}));
 }
 
 function Money({value}) {
@@ -138,9 +137,12 @@ function shoppingList(list, results, item, count, overrides) {
   return list;
 }
 
-function ItemLink({name, data}) {
+function ItemLink({name, data, ...props}) {
+  if (data.icon) {
+    name = <><span className="wow-icon" style={{backgroundImage: `url(https://wow.zamimg.com/images/wow/icons/small/${data.icon}.jpg)`}}/> {name}</>;
+  }
   if (data.id) {
-    return <a className={"quality-" + data.quality} href={`https://classic.wowhead.com/item=${data.id}`} target="_blank" rel="noreferrer">{name}</a>;
+    return <a className={"quality-" + data.quality} href={`https://tbc.wowhead.com/item=${data.id}`} target="_blank" rel="noreferrer" {...props}>{name}</a>;
   } else {
     return <span className={"quality-" + data.quality}>{name}</span>;
   }
@@ -263,14 +265,20 @@ function ShoppingList({results, overrides, shopping, setShopping}) {
   );
 }
 
+const preventDefault = e => e.preventDefault();
+function renderItem(name, search) {
+  const title = search ? underlinerFunc(name, search) : name;
+  return Data[name] ? <ItemLink name={title} data={Data[name]} onClick={preventDefault}/> : <span>{title}</span>;
+}
+
 export default function App() {
   const [serverList, setServerList] = React.useState([]);
   React.useEffect(() => {
     serverOptions.then(opt => setServerList(opt));
   }, []);
 
-  const [server, setServer] = usePersistentState("wowcrafting-server");
-  const [faction, setFaction] = usePersistentState("wowcrafting-faction", factionOptions[0]);
+  const [server, setServer] = usePersistentState("wowcrafting-server-v2");
+  const [faction, setFaction] = usePersistentState("wowcrafting-faction-v2", factionOptions[0]);
   const [item, setItem] = React.useState();
   const [results, setResults] = React.useState();
   const [overrides, setOverrides] = React.useState({});
@@ -293,10 +301,10 @@ export default function App() {
   const toCalc = React.useRef();
   React.useEffect(() => {
     if (!server || !faction) return;
-    const slug = `${server.value}-${faction.value}`;
+    const slug = `${server.id}-${faction.id}`;
     toCalc.current = slug;
     setResults(true);
-    calculate(server.value, faction.value).then(data => {
+    calculate(server.id, faction.id).then(data => {
       if (toCalc.current === slug) {
         setResults(data);
       }
@@ -306,9 +314,9 @@ export default function App() {
   return (
     <div className="App">
       <div className="config">
-        <Select className="select-server" value={server} onChange={onServerChange} options={serverList} placeholder="Select server..."/>
+        <Select className="select-server" value={server} onChange={onServerChange} options={serverList} placeholder="Select server..." searchLimit={10}/>
         <Select className="select-faction" value={faction} onChange={onFactionChange} options={factionOptions}/>
-        {!!(server && faction) && <AsyncSelect className="select-item" value={item} onChange={onItemChange} loadOptions={itemOptions} noOptionsMessage={() => null} placeholder="Select item..."/>}
+        {!!(server && faction) && <Select className="select-item" renderOption={renderItem} value={item} onChange={onItemChange} options={itemOptions} placeholder="Select item..." virtualScroll searchLimit={10}/>}
       </div>
       {!!(results && item) && (
         <div className="Results">
@@ -316,7 +324,7 @@ export default function App() {
             <div className="calculating">Calculating...</div>
           ) : (
             <div className="results-main">
-              <ResultView results={results} item={item.value} overrides={overrides} setOverrides={setOverrides} shopping={shopping} setShopping={setShopping}/>
+              <ResultView results={results} item={item} overrides={overrides} setOverrides={setOverrides} shopping={shopping} setShopping={setShopping}/>
             </div>
           )}
           {results !== true && <ShoppingList results={results} overrides={overrides} shopping={shopping} setShopping={setShopping}/>}

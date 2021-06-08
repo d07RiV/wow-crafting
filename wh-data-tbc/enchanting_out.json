@@ -1,0 +1,3617 @@
+{
+  "Strange Dust": {
+    "id": 10940,
+    "quality": 1,
+    "icon": "inv_enchant_duststrange"
+  },
+  "Enchant Bracer - Minor Health": {
+    "reagents": {
+      "Strange Dust": 1
+    },
+    "colors": [
+      0,
+      70,
+      90,
+      110
+    ]
+  },
+  "Enchant Chest - Minor Health": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 1
+    },
+    "colors": [
+      15,
+      70,
+      90,
+      110
+    ]
+  },
+  "Copper Rod": {
+    "id": 6217,
+    "quality": 1,
+    "icon": "inv_misc_flute_01"
+  },
+  "Lesser Magic Essence": {
+    "id": 10938,
+    "quality": 2,
+    "icon": "inv_enchant_essencemagicsmall"
+  },
+  "Runed Copper Rod": {
+    "id": 6218,
+    "quality": 1,
+    "icon": "inv_staff_goldfeathered_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Copper Rod": 1,
+      "Strange Dust": 1,
+      "Lesser Magic Essence": 1
+    },
+    "colors": [
+      1,
+      5,
+      7,
+      10
+    ]
+  },
+  "Enchant Chest - Minor Absorption": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 2,
+      "Lesser Magic Essence": 1
+    },
+    "colors": [
+      40,
+      90,
+      110,
+      130
+    ]
+  },
+  "Enchant Bracer - Minor Deflection": {
+    "reagents": {
+      "Lesser Magic Essence": 1,
+      "Strange Dust": 1
+    },
+    "colors": [
+      0,
+      80,
+      100,
+      120
+    ]
+  },
+  "Enchant Chest - Minor Mana": {
+    "source": 5,
+    "reagents": {
+      "Lesser Magic Essence": 1
+    },
+    "colors": [
+      20,
+      80,
+      100,
+      120
+    ]
+  },
+  "Enchant Cloak - Minor Resistance": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 1,
+      "Lesser Magic Essence": 2
+    },
+    "colors": [
+      45,
+      95,
+      115,
+      135
+    ]
+  },
+  "Enchant Bracer - Minor Stamina": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 3
+    },
+    "colors": [
+      50,
+      100,
+      120,
+      140
+    ]
+  },
+  "Enchant Chest - Lesser Health": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 2,
+      "Lesser Magic Essence": 2
+    },
+    "colors": [
+      60,
+      105,
+      125,
+      145
+    ]
+  },
+  "Enchant Bracer - Minor Spirit": {
+    "source": 2,
+    "reagents": {
+      "Lesser Magic Essence": 2
+    },
+    "colors": [
+      60,
+      105,
+      125,
+      145
+    ]
+  },
+  "Greater Magic Essence": {
+    "id": 10939,
+    "quality": 2,
+    "icon": "inv_enchant_essencemagiclarge"
+  },
+  "Enchant Cloak - Minor Protection": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 3,
+      "Greater Magic Essence": 1
+    },
+    "colors": [
+      70,
+      110,
+      130,
+      150
+    ]
+  },
+  "Enchant Chest - Lesser Mana": {
+    "source": 5,
+    "reagents": {
+      "Greater Magic Essence": 1,
+      "Lesser Magic Essence": 1
+    },
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ]
+  },
+  "Enchant Bracer - Minor Agility": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 2,
+      "Greater Magic Essence": 1
+    },
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ]
+  },
+  "Enchant Bracer - Minor Strength": {
+    "source": 2,
+    "reagents": {
+      "Strange Dust": 5
+    },
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ]
+  },
+  "Enchant Weapon - Minor Beastslayer": {
+    "source": 2,
+    "reagents": {
+      "Strange Dust": 4,
+      "Greater Magic Essence": 2
+    },
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ]
+  },
+  "Small Glimmering Shard": {
+    "id": 10978,
+    "quality": 3,
+    "icon": "inv_enchant_shardglimmeringsmall"
+  },
+  "Enchant Weapon - Minor Striking": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 2,
+      "Greater Magic Essence": 1,
+      "Small Glimmering Shard": 1
+    },
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ]
+  },
+  "Enchant 2H Weapon - Minor Impact": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 4,
+      "Small Glimmering Shard": 1
+    },
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ]
+  },
+  "Enchant 2H Weapon - Lesser Intellect": {
+    "source": 5,
+    "reagents": {
+      "Greater Magic Essence": 3
+    },
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ]
+  },
+  "Silver Rod": {
+    "id": 6338,
+    "quality": 1,
+    "icon": "inv_staff_01"
+  },
+  "Runed Silver Rod": {
+    "id": 6339,
+    "quality": 1,
+    "icon": "inv_staff_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Silver Rod": 1,
+      "Strange Dust": 6,
+      "Greater Magic Essence": 3,
+      "Runed Copper Rod": 1
+    },
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ]
+  },
+  "Lesser Astral Essence": {
+    "id": 10998,
+    "quality": 2,
+    "icon": "inv_enchant_essenceastralsmall"
+  },
+  "Enchant Chest - Health": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 4,
+      "Lesser Astral Essence": 1
+    },
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ]
+  },
+  "Enchant Bracer - Lesser Spirit": {
+    "source": 2,
+    "reagents": {
+      "Lesser Astral Essence": 2
+    },
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ]
+  },
+  "Fire Oil": {
+    "id": 6371,
+    "quality": 1,
+    "icon": "inv_potion_38"
+  },
+  "Enchant Cloak - Lesser Fire Resistance": {
+    "source": 6,
+    "reagents": {
+      "Fire Oil": 1,
+      "Lesser Astral Essence": 1
+    },
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ]
+  },
+  "Enchant Boots - Minor Stamina": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 8
+    },
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ]
+  },
+  "Enchant Boots - Minor Agility": {
+    "source": 5,
+    "reagents": {
+      "Strange Dust": 6,
+      "Lesser Astral Essence": 2
+    },
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ]
+  },
+  "Enchant Shield - Minor Stamina": {
+    "source": 6,
+    "reagents": {
+      "Lesser Astral Essence": 1,
+      "Strange Dust": 2
+    },
+    "colors": [
+      105,
+      130,
+      150,
+      170
+    ]
+  },
+  "Enchant 2H Weapon - Lesser Spirit": {
+    "source": 2,
+    "reagents": {
+      "Lesser Astral Essence": 1,
+      "Strange Dust": 6
+    },
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ]
+  },
+  "Enchant Cloak - Minor Agility": {
+    "source": 5,
+    "reagents": {
+      "Lesser Astral Essence": 1
+    },
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ]
+  },
+  "Enchant Cloak - Lesser Protection": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 6,
+      "Small Glimmering Shard": 1
+    },
+    "colors": [
+      115,
+      140,
+      160,
+      180
+    ]
+  },
+  "Enchant Shield - Lesser Protection": {
+    "source": 2,
+    "reagents": {
+      "Lesser Astral Essence": 1,
+      "Strange Dust": 1,
+      "Small Glimmering Shard": 1
+    },
+    "colors": [
+      115,
+      140,
+      160,
+      180
+    ]
+  },
+  "Enchant Shield - Lesser Spirit": {
+    "source": 6,
+    "reagents": {
+      "Lesser Astral Essence": 2,
+      "Strange Dust": 4
+    },
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ]
+  },
+  "Soul Dust": {
+    "id": 11083,
+    "quality": 1,
+    "icon": "inv_enchant_dustsoul"
+  },
+  "Enchant Bracer - Lesser Stamina": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 2
+    },
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ]
+  },
+  "Large Glimmering Shard": {
+    "id": 11084,
+    "quality": 3,
+    "icon": "inv_enchant_shardglimmeringlarge"
+  },
+  "Enchant Weapon - Lesser Striking": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 2,
+      "Large Glimmering Shard": 1
+    },
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ]
+  },
+  "Greater Astral Essence": {
+    "id": 11082,
+    "quality": 2,
+    "icon": "inv_enchant_essenceastrallarge"
+  },
+  "Shadow Protection Potion": {
+    "id": 6048,
+    "quality": 1,
+    "icon": "inv_potion_44"
+  },
+  "Enchant Cloak - Lesser Shadow Resistance": {
+    "source": 2,
+    "reagents": {
+      "Greater Astral Essence": 1,
+      "Shadow Protection Potion": 1
+    },
+    "colors": [
+      135,
+      160,
+      180,
+      200
+    ]
+  },
+  "Enchant 2H Weapon - Lesser Impact": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 3,
+      "Large Glimmering Shard": 1
+    },
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ]
+  },
+  "Enchant Bracer - Lesser Strength": {
+    "source": 5,
+    "reagents": {
+      "Soul Dust": 2
+    },
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ]
+  },
+  "Enchant Chest - Lesser Absorption": {
+    "source": 6,
+    "reagents": {
+      "Strange Dust": 2,
+      "Greater Astral Essence": 1,
+      "Large Glimmering Shard": 1
+    },
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ]
+  },
+  "Enchant Chest - Mana": {
+    "source": 6,
+    "reagents": {
+      "Greater Astral Essence": 1,
+      "Lesser Astral Essence": 2
+    },
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ]
+  },
+  "Iron Ore": {
+    "id": 2772,
+    "quality": 1,
+    "icon": "inv_ore_iron_01"
+  },
+  "Enchant Gloves - Mining": {
+    "source": 2,
+    "reagents": {
+      "Soul Dust": 1,
+      "Iron Ore": 3
+    },
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ]
+  },
+  "Kingsblood": {
+    "id": 3356,
+    "quality": 1,
+    "icon": "inv_misc_herb_03"
+  },
+  "Enchant Gloves - Herbalism": {
+    "source": 2,
+    "reagents": {
+      "Soul Dust": 1,
+      "Kingsblood": 3
+    },
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ]
+  },
+  "Blackmouth Oil": {
+    "id": 6370,
+    "quality": 1,
+    "icon": "inv_drink_12"
+  },
+  "Enchant Gloves - Fishing": {
+    "source": 2,
+    "reagents": {
+      "Soul Dust": 1,
+      "Blackmouth Oil": 3
+    },
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ]
+  },
+  "Enchant Bracer - Lesser Intellect": {
+    "source": 6,
+    "reagents": {
+      "Greater Astral Essence": 2
+    },
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ]
+  },
+  "Enchant Chest - Minor Stats": {
+    "source": 6,
+    "reagents": {
+      "Greater Astral Essence": 1,
+      "Soul Dust": 1,
+      "Large Glimmering Shard": 1
+    },
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ]
+  },
+  "Golden Rod": {
+    "id": 11128,
+    "quality": 1,
+    "icon": "inv_staff_10"
+  },
+  "Iridescent Pearl": {
+    "id": 5500,
+    "quality": 2,
+    "icon": "inv_misc_gem_pearl_02"
+  },
+  "Runed Golden Rod": {
+    "id": 11130,
+    "quality": 1,
+    "icon": "inv_staff_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Golden Rod": 1,
+      "Iridescent Pearl": 1,
+      "Greater Astral Essence": 2,
+      "Soul Dust": 2,
+      "Runed Silver Rod": 1
+    },
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ]
+  },
+  "Lesser Mystic Essence": {
+    "id": 11134,
+    "quality": 2,
+    "icon": "inv_enchant_essencemysticalsmall"
+  },
+  "Enchant Shield - Lesser Stamina": {
+    "source": 6,
+    "reagents": {
+      "Lesser Mystic Essence": 1,
+      "Soul Dust": 1
+    },
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ]
+  },
+  "Small Glowing Shard": {
+    "id": 11138,
+    "quality": 3,
+    "icon": "inv_enchant_shardglowingsmall"
+  },
+  "Enchant Cloak - Defense": {
+    "source": 6,
+    "reagents": {
+      "Small Glowing Shard": 1,
+      "Soul Dust": 3
+    },
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ]
+  },
+  "Enchant Boots - Lesser Agility": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 1,
+      "Lesser Mystic Essence": 1
+    },
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ]
+  },
+  "Enchant Chest - Greater Health": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 3
+    },
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ]
+  },
+  "Enchant Bracer - Spirit": {
+    "source": 6,
+    "reagents": {
+      "Lesser Mystic Essence": 1
+    },
+    "colors": [
+      165,
+      185,
+      205,
+      225
+    ]
+  },
+  "Enchant Boots - Lesser Stamina": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 4
+    },
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ]
+  },
+  "Enchant Bracer - Lesser Deflection": {
+    "source": 5,
+    "reagents": {
+      "Lesser Mystic Essence": 1,
+      "Soul Dust": 2
+    },
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ]
+  },
+  "Enchant Bracer - Stamina": {
+    "source": 6,
+    "reagents": {
+      "Soul Dust": 6
+    },
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ]
+  },
+  "Large Fang": {
+    "id": 5637,
+    "quality": 1,
+    "icon": "inv_misc_bone_08"
+  },
+  "Enchant Weapon - Lesser Beastslayer": {
+    "source": 2,
+    "reagents": {
+      "Lesser Mystic Essence": 1,
+      "Large Fang": 2,
+      "Small Glowing Shard": 1
+    },
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ]
+  },
+  "Elemental Earth": {
+    "id": 7067,
+    "quality": 1,
+    "icon": "inv_ore_iron_01"
+  },
+  "Enchant Weapon - Lesser Elemental Slayer": {
+    "source": 2,
+    "reagents": {
+      "Lesser Mystic Essence": 1,
+      "Elemental Earth": 1,
+      "Small Glowing Shard": 1
+    },
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ]
+  },
+  "Elemental Fire": {
+    "id": 7068,
+    "quality": 1,
+    "icon": "spell_fire_fire"
+  },
+  "Enchant Cloak - Fire Resistance": {
+    "source": 6,
+    "reagents": {
+      "Lesser Mystic Essence": 1,
+      "Elemental Fire": 1
+    },
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ]
+  },
+  "Greater Mystic Essence": {
+    "id": 11135,
+    "quality": 2,
+    "icon": "inv_enchant_essencemysticallarge"
+  },
+  "Vision Dust": {
+    "id": 11137,
+    "quality": 1,
+    "icon": "inv_enchant_dustvision"
+  },
+  "Enchant Shield - Spirit": {
+    "source": 6,
+    "reagents": {
+      "Greater Mystic Essence": 1,
+      "Vision Dust": 1
+    },
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ]
+  },
+  "Enchant Bracer - Strength": {
+    "source": 6,
+    "reagents": {
+      "Vision Dust": 1
+    },
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ]
+  },
+  "Enchant Chest - Greater Mana": {
+    "source": 6,
+    "reagents": {
+      "Greater Mystic Essence": 1
+    },
+    "colors": [
+      185,
+      205,
+      225,
+      245
+    ]
+  },
+  "Enchant Boots - Lesser Spirit": {
+    "source": 2,
+    "reagents": {
+      "Greater Mystic Essence": 1,
+      "Lesser Mystic Essence": 2
+    },
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ]
+  },
+  "Large Glowing Shard": {
+    "id": 11139,
+    "quality": 3,
+    "icon": "inv_enchant_shardglowinglarge"
+  },
+  "Enchant Shield - Lesser Block": {
+    "source": 2,
+    "reagents": {
+      "Greater Mystic Essence": 2,
+      "Vision Dust": 2,
+      "Large Glowing Shard": 1
+    },
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ]
+  },
+  "Enchant Weapon - Striking": {
+    "source": 6,
+    "reagents": {
+      "Greater Mystic Essence": 2,
+      "Large Glowing Shard": 1
+    },
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ]
+  },
+  "Enchant 2H Weapon - Impact": {
+    "source": 6,
+    "reagents": {
+      "Vision Dust": 4,
+      "Large Glowing Shard": 1
+    },
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ]
+  },
+  "Green Whelp Scale": {
+    "id": 7392,
+    "quality": 1,
+    "icon": "inv_misc_monsterscales_03"
+  },
+  "Enchant Gloves - Skinning": {
+    "source": 2,
+    "reagents": {
+      "Vision Dust": 1,
+      "Green Whelp Scale": 3
+    },
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ]
+  },
+  "Enchant Chest - Lesser Stats": {
+    "source": 6,
+    "reagents": {
+      "Greater Mystic Essence": 2,
+      "Vision Dust": 2,
+      "Large Glowing Shard": 1
+    },
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ]
+  },
+  "Truesilver Rod": {
+    "id": 11144,
+    "quality": 1,
+    "icon": "inv_staff_11"
+  },
+  "Black Pearl": {
+    "id": 7971,
+    "quality": 2,
+    "icon": "inv_misc_gem_pearl_01"
+  },
+  "Runed Truesilver Rod": {
+    "id": 11145,
+    "quality": 1,
+    "icon": "inv_staff_11",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Truesilver Rod": 1,
+      "Black Pearl": 1,
+      "Greater Mystic Essence": 2,
+      "Vision Dust": 2,
+      "Runed Golden Rod": 1
+    },
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ]
+  },
+  "Enchant Cloak - Greater Defense": {
+    "source": 6,
+    "reagents": {
+      "Vision Dust": 3
+    },
+    "colors": [
+      205,
+      225,
+      245,
+      265
+    ]
+  },
+  "Lesser Nether Essence": {
+    "id": 11174,
+    "quality": 2,
+    "icon": "inv_enchant_essencenethersmall"
+  },
+  "Enchant Cloak - Resistance": {
+    "source": 6,
+    "reagents": {
+      "Lesser Nether Essence": 1
+    },
+    "colors": [
+      205,
+      225,
+      245,
+      265
+    ]
+  },
+  "Enchant Gloves - Agility": {
+    "source": 6,
+    "reagents": {
+      "Lesser Nether Essence": 1,
+      "Vision Dust": 1
+    },
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ]
+  },
+  "Enchant Shield - Stamina": {
+    "source": 2,
+    "reagents": {
+      "Vision Dust": 5
+    },
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ]
+  },
+  "Enchant Bracer - Intellect": {
+    "source": 6,
+    "reagents": {
+      "Lesser Nether Essence": 2
+    },
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ]
+  },
+  "Enchant Boots - Stamina": {
+    "source": 6,
+    "reagents": {
+      "Vision Dust": 5
+    },
+    "colors": [
+      215,
+      235,
+      255,
+      275
+    ]
+  },
+  "Truesilver Bar": {
+    "id": 6037,
+    "quality": 2,
+    "icon": "inv_ingot_08"
+  },
+  "Enchant Gloves - Advanced Mining": {
+    "source": 2,
+    "reagents": {
+      "Vision Dust": 3,
+      "Truesilver Bar": 3
+    },
+    "colors": [
+      215,
+      235,
+      255,
+      275
+    ]
+  },
+  "Enchant Bracer - Greater Spirit": {
+    "source": 2,
+    "reagents": {
+      "Lesser Nether Essence": 3,
+      "Vision Dust": 1
+    },
+    "colors": [
+      220,
+      240,
+      260,
+      280
+    ]
+  },
+  "Enchant Chest - Superior Health": {
+    "source": 6,
+    "reagents": {
+      "Vision Dust": 6
+    },
+    "colors": [
+      220,
+      240,
+      260,
+      280
+    ]
+  },
+  "Sungrass": {
+    "id": 8838,
+    "quality": 1,
+    "icon": "inv_misc_herb_18"
+  },
+  "Enchant Gloves - Advanced Herbalism": {
+    "source": 2,
+    "reagents": {
+      "Vision Dust": 3,
+      "Sungrass": 3
+    },
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ]
+  },
+  "Enchant Cloak - Lesser Agility": {
+    "source": 2,
+    "reagents": {
+      "Lesser Nether Essence": 2
+    },
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ]
+  },
+  "Enchant Gloves - Strength": {
+    "source": 6,
+    "reagents": {
+      "Lesser Nether Essence": 2,
+      "Vision Dust": 3
+    },
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ]
+  },
+  "Small Radiant Shard": {
+    "id": 11177,
+    "quality": 3,
+    "icon": "inv_enchant_shardradientsmall"
+  },
+  "Aquamarine": {
+    "id": 7909,
+    "quality": 2,
+    "icon": "inv_misc_gem_crystal_02"
+  },
+  "Enchant Boots - Minor Speed": {
+    "source": 6,
+    "reagents": {
+      "Small Radiant Shard": 1,
+      "Aquamarine": 1,
+      "Lesser Nether Essence": 1
+    },
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ]
+  },
+  "Essence of Fire": {
+    "id": 7078,
+    "quality": 2,
+    "icon": "spell_fire_volcano"
+  },
+  "Enchant Weapon - Fiery Weapon": {
+    "source": 2,
+    "reagents": {
+      "Small Radiant Shard": 4,
+      "Essence of Fire": 1
+    },
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ]
+  },
+  "Greater Nether Essence": {
+    "id": 11175,
+    "quality": 2,
+    "icon": "inv_enchant_essencenetherlarge"
+  },
+  "Dream Dust": {
+    "id": 11176,
+    "quality": 1,
+    "icon": "inv_enchant_dustdream"
+  },
+  "Enchant Shield - Greater Spirit": {
+    "source": 6,
+    "reagents": {
+      "Greater Nether Essence": 1,
+      "Dream Dust": 2
+    },
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ]
+  },
+  "Elixir of Demonslaying": {
+    "id": 9224,
+    "quality": 1,
+    "icon": "inv_potion_27"
+  },
+  "Enchant Weapon - Demonslaying": {
+    "source": 2,
+    "reagents": {
+      "Small Radiant Shard": 1,
+      "Dream Dust": 2,
+      "Elixir of Demonslaying": 1
+    },
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ]
+  },
+  "Enchant Chest - Superior Mana": {
+    "source": 6,
+    "reagents": {
+      "Greater Nether Essence": 1,
+      "Lesser Nether Essence": 2
+    },
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ]
+  },
+  "Enchant Bracer - Deflection": {
+    "source": 5,
+    "reagents": {
+      "Greater Nether Essence": 1,
+      "Dream Dust": 2
+    },
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ]
+  },
+  "Large Radiant Shard": {
+    "id": 11178,
+    "quality": 3,
+    "icon": "inv_enchant_shardradientlarge"
+  },
+  "Frost Oil": {
+    "id": 3829,
+    "quality": 1,
+    "icon": "inv_potion_20"
+  },
+  "Enchant Shield - Frost Resistance": {
+    "source": 2,
+    "reagents": {
+      "Large Radiant Shard": 1,
+      "Frost Oil": 1
+    },
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ]
+  },
+  "Enchant Boots - Agility": {
+    "source": 6,
+    "reagents": {
+      "Greater Nether Essence": 2
+    },
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ]
+  },
+  "Enchant 2H Weapon - Greater Impact": {
+    "source": 6,
+    "reagents": {
+      "Large Radiant Shard": 2,
+      "Dream Dust": 2
+    },
+    "colors": [
+      240,
+      260,
+      280,
+      300
+    ]
+  },
+  "Enchant Bracer - Greater Strength": {
+    "source": 6,
+    "reagents": {
+      "Dream Dust": 2,
+      "Greater Nether Essence": 1
+    },
+    "colors": [
+      240,
+      260,
+      280,
+      300
+    ]
+  },
+  "Enchant Chest - Stats": {
+    "source": 6,
+    "reagents": {
+      "Large Radiant Shard": 1,
+      "Dream Dust": 3,
+      "Greater Nether Essence": 2
+    },
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ]
+  },
+  "Enchant Weapon - Greater Striking": {
+    "source": 6,
+    "reagents": {
+      "Large Radiant Shard": 2,
+      "Greater Nether Essence": 2
+    },
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ]
+  },
+  "Enchant Bracer - Greater Stamina": {
+    "source": 2,
+    "reagents": {
+      "Dream Dust": 5
+    },
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ]
+  },
+  "Enchant Gloves - Riding Skill": {
+    "source": 2,
+    "reagents": {
+      "Large Radiant Shard": 2,
+      "Dream Dust": 3
+    },
+    "colors": [
+      250,
+      270,
+      290,
+      310
+    ]
+  },
+  "Wildvine": {
+    "id": 8153,
+    "quality": 1,
+    "icon": "inv_misc_herb_03"
+  },
+  "Enchant Gloves - Minor Haste": {
+    "source": 6,
+    "reagents": {
+      "Large Radiant Shard": 2,
+      "Wildvine": 2
+    },
+    "colors": [
+      250,
+      270,
+      290,
+      310
+    ]
+  },
+  "Simple Wood": {
+    "id": 4470,
+    "quality": 1,
+    "icon": "inv_tradeskillitem_01",
+    "vendor": 40
+  },
+  "Lesser Magic Wand": {
+    "id": 11287,
+    "quality": 2,
+    "icon": "inv_staff_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Simple Wood": 1,
+      "Lesser Magic Essence": 1
+    },
+    "colors": [
+      10,
+      75,
+      95,
+      115
+    ]
+  },
+  "Greater Magic Wand": {
+    "id": 11288,
+    "quality": 2,
+    "icon": "inv_staff_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Simple Wood": 1,
+      "Greater Magic Essence": 1
+    },
+    "colors": [
+      70,
+      110,
+      130,
+      150
+    ]
+  },
+  "Star Wood": {
+    "id": 11291,
+    "quality": 1,
+    "icon": "inv_tradeskillitem_03",
+    "vendor": 4050
+  },
+  "Lesser Mystic Wand": {
+    "id": 11289,
+    "quality": 2,
+    "icon": "inv_staff_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Star Wood": 1,
+      "Lesser Mystic Essence": 1,
+      "Soul Dust": 1
+    },
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ]
+  },
+  "Greater Mystic Wand": {
+    "id": 11290,
+    "quality": 2,
+    "icon": "inv_wand_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Star Wood": 1,
+      "Greater Mystic Essence": 1,
+      "Vision Dust": 1
+    },
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ]
+  },
+  "Blood of the Mountain": {
+    "id": 11382,
+    "quality": 2,
+    "icon": "inv_misc_gem_bloodstone_03"
+  },
+  "Small Brilliant Shard": {
+    "id": 14343,
+    "quality": 3,
+    "icon": "inv_enchant_shardbrilliantsmall"
+  },
+  "Smoking Heart of the Mountain": {
+    "id": 11811,
+    "quality": 3,
+    "icon": "inv_misc_gem_bloodstone_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Blood of the Mountain": 1,
+      "Essence of Fire": 1,
+      "Small Brilliant Shard": 3
+    },
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ]
+  },
+  "Rugged Leather": {
+    "id": 8170,
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_02"
+  },
+  "Lesser Eternal Essence": {
+    "id": 16202,
+    "quality": 2,
+    "icon": "inv_enchant_essenceeternalsmall"
+  },
+  "Enchanted Leather": {
+    "id": 12810,
+    "quality": 1,
+    "icon": "inv_misc_rune_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Rugged Leather": 1,
+      "Lesser Eternal Essence": 1
+    },
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ]
+  },
+  "Thorium Bar": {
+    "id": 12359,
+    "quality": 1,
+    "icon": "inv_ingot_07"
+  },
+  "Enchanted Thorium Bar": {
+    "id": 12655,
+    "quality": 1,
+    "icon": "inv_ingot_eternium",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Thorium Bar": 1,
+      "Dream Dust": 3
+    },
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ]
+  },
+  "Enchant Bracer - Greater Intellect": {
+    "source": 6,
+    "reagents": {
+      "Lesser Eternal Essence": 3
+    },
+    "colors": [
+      255,
+      275,
+      295,
+      315
+    ]
+  },
+  "Enchant Boots - Greater Stamina": {
+    "source": 2,
+    "reagents": {
+      "Dream Dust": 10
+    },
+    "colors": [
+      260,
+      280,
+      300,
+      320
+    ]
+  },
+  "Heart of Fire": {
+    "id": 7077,
+    "quality": 1,
+    "icon": "spell_fire_lavaspawn"
+  },
+  "Core of Earth": {
+    "id": 7075,
+    "quality": 1,
+    "icon": "inv_stone_05"
+  },
+  "Globe of Water": {
+    "id": 7079,
+    "quality": 1,
+    "icon": "inv_misc_orb_01"
+  },
+  "Breath of Wind": {
+    "id": 7081,
+    "quality": 1,
+    "icon": "spell_nature_cyclone"
+  },
+  "Ichor of Undeath": {
+    "id": 7972,
+    "quality": 1,
+    "icon": "inv_misc_slime_01"
+  },
+  "Enchant Cloak - Greater Resistance": {
+    "source": 6,
+    "reagents": {
+      "Lesser Eternal Essence": 2,
+      "Heart of Fire": 1,
+      "Core of Earth": 1,
+      "Globe of Water": 1,
+      "Breath of Wind": 1,
+      "Ichor of Undeath": 1
+    },
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ]
+  },
+  "Enchant Shield - Greater Stamina": {
+    "source": 5,
+    "reagents": {
+      "Dream Dust": 10
+    },
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ]
+  },
+  "Enchant Bracer - Superior Spirit": {
+    "source": 2,
+    "reagents": {
+      "Lesser Eternal Essence": 3,
+      "Dream Dust": 10
+    },
+    "colors": [
+      270,
+      290,
+      310,
+      330
+    ]
+  },
+  "Illusion Dust": {
+    "id": 16204,
+    "quality": 1,
+    "icon": "inv_enchant_dustillusion"
+  },
+  "Enchant Gloves - Greater Agility": {
+    "source": 6,
+    "reagents": {
+      "Lesser Eternal Essence": 3,
+      "Illusion Dust": 3
+    },
+    "colors": [
+      270,
+      290,
+      310,
+      330
+    ]
+  },
+  "Greater Eternal Essence": {
+    "id": 16203,
+    "quality": 2,
+    "icon": "inv_enchant_essenceeternallarge"
+  },
+  "Enchant Boots - Spirit": {
+    "source": 2,
+    "reagents": {
+      "Greater Eternal Essence": 2,
+      "Lesser Eternal Essence": 1
+    },
+    "colors": [
+      275,
+      295,
+      315,
+      335
+    ]
+  },
+  "Enchant Chest - Major Health": {
+    "source": 5,
+    "reagents": {
+      "Illusion Dust": 6,
+      "Small Brilliant Shard": 1
+    },
+    "colors": [
+      275,
+      295,
+      315,
+      335
+    ]
+  },
+  "Enchant Shield - Superior Spirit": {
+    "source": 6,
+    "reagents": {
+      "Greater Eternal Essence": 2,
+      "Illusion Dust": 4
+    },
+    "colors": [
+      280,
+      300,
+      320,
+      340
+    ]
+  },
+  "Essence of Water": {
+    "id": 7080,
+    "quality": 2,
+    "icon": "spell_nature_acid_01"
+  },
+  "Essence of Air": {
+    "id": 7082,
+    "quality": 2,
+    "icon": "spell_nature_earthbind"
+  },
+  "Icecap": {
+    "id": 13467,
+    "quality": 1,
+    "icon": "inv_misc_herb_icecap"
+  },
+  "Enchant Weapon - Icy Chill": {
+    "source": 2,
+    "reagents": {
+      "Small Brilliant Shard": 4,
+      "Essence of Water": 1,
+      "Essence of Air": 1,
+      "Icecap": 1
+    },
+    "colors": [
+      285,
+      300,
+      317,
+      335
+    ]
+  },
+  "Enchant Cloak - Superior Defense": {
+    "source": 5,
+    "reagents": {
+      "Illusion Dust": 8
+    },
+    "colors": [
+      285,
+      300,
+      317,
+      335
+    ]
+  },
+  "Enchant Chest - Major Mana": {
+    "source": 6,
+    "reagents": {
+      "Greater Eternal Essence": 3,
+      "Small Brilliant Shard": 1
+    },
+    "colors": [
+      290,
+      305,
+      322,
+      340
+    ]
+  },
+  "Arcanite Rod": {
+    "id": 16206,
+    "quality": 1,
+    "icon": "inv_staff_19"
+  },
+  "Golden Pearl": {
+    "id": 13926,
+    "quality": 2,
+    "icon": "inv_misc_gem_pearl_04"
+  },
+  "Large Brilliant Shard": {
+    "id": 14344,
+    "quality": 3,
+    "icon": "inv_enchant_shardbrilliantlarge"
+  },
+  "Runed Arcanite Rod": {
+    "id": 16207,
+    "quality": 1,
+    "icon": "inv_wand_09",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Arcanite Rod": 1,
+      "Golden Pearl": 1,
+      "Illusion Dust": 10,
+      "Greater Eternal Essence": 4,
+      "Runed Truesilver Rod": 1,
+      "Large Brilliant Shard": 2
+    },
+    "colors": [
+      290,
+      305,
+      322,
+      340
+    ]
+  },
+  "Enchant Gloves - Greater Strength": {
+    "source": 6,
+    "reagents": {
+      "Greater Eternal Essence": 4,
+      "Illusion Dust": 4
+    },
+    "colors": [
+      295,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Boots - Greater Agility": {
+    "source": 6,
+    "reagents": {
+      "Greater Eternal Essence": 8
+    },
+    "colors": [
+      295,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Bracer - Superior Strength": {
+    "source": 2,
+    "reagents": {
+      "Illusion Dust": 6,
+      "Greater Eternal Essence": 6
+    },
+    "colors": [
+      295,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant 2H Weapon - Superior Impact": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 4,
+      "Illusion Dust": 10
+    },
+    "colors": [
+      295,
+      310,
+      325,
+      340
+    ]
+  },
+  "Essence of Undeath": {
+    "id": 12808,
+    "quality": 2,
+    "icon": "spell_shadow_shadetruesight"
+  },
+  "Enchant Weapon - Unholy Weapon": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 4,
+      "Essence of Undeath": 4
+    },
+    "colors": [
+      295,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant 2H Weapon - Major Intellect": {
+    "source": 2,
+    "reagents": {
+      "Greater Eternal Essence": 12,
+      "Large Brilliant Shard": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Weapon - Superior Striking": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 2,
+      "Greater Eternal Essence": 10
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Bracer - Superior Stamina": {
+    "source": 2,
+    "reagents": {
+      "Illusion Dust": 15
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Righteous Orb": {
+    "id": 12811,
+    "quality": 2,
+    "icon": "inv_misc_gem_pearl_03"
+  },
+  "Enchant Weapon - Crusader": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 4,
+      "Righteous Orb": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Chest - Greater Stats": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 4,
+      "Illusion Dust": 15,
+      "Greater Eternal Essence": 10
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Living Essence": {
+    "id": 12803,
+    "quality": 2,
+    "icon": "spell_nature_abolishmagic"
+  },
+  "Enchant Weapon - Lifestealing": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 6,
+      "Essence of Undeath": 6,
+      "Living Essence": 6
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant 2H Weapon - Major Spirit": {
+    "source": 2,
+    "reagents": {
+      "Greater Eternal Essence": 12,
+      "Large Brilliant Shard": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Wintersbite": {
+    "id": 3819,
+    "quality": 1,
+    "icon": "inv_misc_flower_03"
+  },
+  "Enchant Weapon - Winter's Might": {
+    "source": 2,
+    "reagents": {
+      "Greater Mystic Essence": 3,
+      "Vision Dust": 3,
+      "Large Glowing Shard": 1,
+      "Wintersbite": 2
+    },
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ]
+  },
+  "Enchant Weapon - Spell Power": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 4,
+      "Greater Eternal Essence": 12,
+      "Essence of Fire": 4,
+      "Essence of Water": 4,
+      "Essence of Air": 4,
+      "Golden Pearl": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Weapon - Healing Power": {
+    "source": 2,
+    "reagents": {
+      "Large Brilliant Shard": 4,
+      "Greater Eternal Essence": 8,
+      "Living Essence": 6,
+      "Essence of Water": 6,
+      "Righteous Orb": 1
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Essence of Earth": {
+    "id": 7076,
+    "quality": 2,
+    "icon": "spell_nature_strengthofearthtotem02"
+  },
+  "Enchant Weapon - Strength": {
+    "source": 5,
+    "reagents": {
+      "Large Brilliant Shard": 6,
+      "Greater Eternal Essence": 6,
+      "Illusion Dust": 4,
+      "Essence of Earth": 2
+    },
+    "colors": [
+      290,
+      305,
+      322,
+      340
+    ]
+  },
+  "Enchant Weapon - Agility": {
+    "source": 5,
+    "faction": 576,
+    "reagents": {
+      "Large Brilliant Shard": 6,
+      "Greater Eternal Essence": 6,
+      "Illusion Dust": 4,
+      "Essence of Air": 2
+    },
+    "colors": [
+      290,
+      305,
+      322,
+      340
+    ]
+  },
+  "Enchant Bracer - Mana Regeneration": {
+    "source": 5,
+    "faction": 529,
+    "reagents": {
+      "Illusion Dust": 16,
+      "Greater Eternal Essence": 4,
+      "Essence of Water": 2
+    },
+    "colors": [
+      290,
+      305,
+      322,
+      340
+    ]
+  },
+  "Enchant Bracer - Healing": {
+    "source": 5,
+    "faction": 529,
+    "reagents": {
+      "Large Brilliant Shard": 2,
+      "Illusion Dust": 20,
+      "Greater Eternal Essence": 4,
+      "Living Essence": 6
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Weapon - Mighty Spirit": {
+    "source": 5,
+    "reagents": {
+      "Large Brilliant Shard": 10,
+      "Greater Eternal Essence": 8,
+      "Illusion Dust": 15
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Weapon - Mighty Intellect": {
+    "source": 5,
+    "reagents": {
+      "Large Brilliant Shard": 15,
+      "Greater Eternal Essence": 12,
+      "Illusion Dust": 20
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Small Prismatic Shard": {
+    "id": 22448,
+    "quality": 3,
+    "icon": "inv_enchant_shardprismaticsmall",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 6,
+    "reagents": {
+      "Large Prismatic Shard": 1
+    },
+    "colors": [
+      0,
+      0,
+      335,
+      335
+    ]
+  },
+  "Greater Planar Essence": {
+    "id": 22446,
+    "quality": 2,
+    "icon": "inv_enchant_essencearcanelarge"
+  },
+  "Primal Life": {
+    "id": 21886,
+    "quality": 2,
+    "icon": "inv_elemental_primal_life"
+  },
+  "Enchant Gloves - Threat": {
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Small Prismatic Shard": 4,
+      "Greater Planar Essence": 2,
+      "Primal Life": 8
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Nexus Crystal": {
+    "id": 20725,
+    "quality": 4,
+    "icon": "inv_enchant_shardnexuslarge"
+  },
+  "Enchant Gloves - Shadow Power": {
+    "source": 2,
+    "reagents": {
+      "Nexus Crystal": 3,
+      "Large Brilliant Shard": 10,
+      "Essence of Undeath": 6
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Gloves - Frost Power": {
+    "source": 2,
+    "reagents": {
+      "Nexus Crystal": 3,
+      "Large Brilliant Shard": 10,
+      "Essence of Water": 4
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Gloves - Fire Power": {
+    "source": 2,
+    "reagents": {
+      "Nexus Crystal": 2,
+      "Large Brilliant Shard": 10,
+      "Essence of Fire": 4
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Gloves - Healing Power": {
+    "source": 2,
+    "reagents": {
+      "Nexus Crystal": 3,
+      "Large Brilliant Shard": 8,
+      "Righteous Orb": 1
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Primal Air": {
+    "id": 22451,
+    "quality": 2,
+    "icon": "inv_elemental_primal_air"
+  },
+  "Enchant Gloves - Superior Agility": {
+    "source": 5,
+    "faction": 989,
+    "reagents": {
+      "Small Prismatic Shard": 3,
+      "Greater Planar Essence": 3,
+      "Primal Air": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Cloak - Greater Fire Resistance": {
+    "source": 5,
+    "faction": 609,
+    "reagents": {
+      "Small Prismatic Shard": 3,
+      "Greater Planar Essence": 3,
+      "Essence of Fire": 4
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Cloak - Greater Nature Resistance": {
+    "source": 5,
+    "faction": 609,
+    "reagents": {
+      "Small Prismatic Shard": 2,
+      "Greater Planar Essence": 3,
+      "Living Essence": 4
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Fel Lotus": {
+    "id": 22794,
+    "quality": 1,
+    "icon": "inv_misc_herb_fellotus"
+  },
+  "Enchant Cloak - Stealth": {
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Small Prismatic Shard": 3,
+      "Greater Planar Essence": 3,
+      "Fel Lotus": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Primal Shadow": {
+    "id": 22456,
+    "quality": 2,
+    "icon": "inv_elemental_primal_shadow"
+  },
+  "Enchant Cloak - Subtlety": {
+    "source": 5,
+    "faction": 947,
+    "reagents": {
+      "Small Prismatic Shard": 4,
+      "Greater Planar Essence": 2,
+      "Primal Shadow": 8
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Primal Earth": {
+    "id": 22452,
+    "quality": 2,
+    "icon": "inv_elemental_primal_earth"
+  },
+  "Enchant Cloak - Dodge": {
+    "source": 5,
+    "faction": 1011,
+    "reagents": {
+      "Small Prismatic Shard": 3,
+      "Greater Planar Essence": 3,
+      "Primal Earth": 8
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Maple Seed": {
+    "id": 17034,
+    "quality": 1,
+    "icon": "inv_misc_food_02",
+    "vendor": 200
+  },
+  "Empty Vial": {
+    "id": 3371,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 4
+  },
+  "Minor Wizard Oil": {
+    "id": 20744,
+    "quality": 1,
+    "icon": "inv_poison_mindnumbing",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Strange Dust": 2,
+      "Maple Seed": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      45,
+      55,
+      65,
+      75
+    ]
+  },
+  "Leaded Vial": {
+    "id": 3372,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 40
+  },
+  "Minor Mana Oil": {
+    "id": 20745,
+    "quality": 1,
+    "icon": "inv_potion_98",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Soul Dust": 3,
+      "Maple Seed": 2,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      150,
+      160,
+      170,
+      180
+    ]
+  },
+  "Stranglethorn Seed": {
+    "id": 17035,
+    "quality": 1,
+    "icon": "inv_misc_food_02",
+    "vendor": 400
+  },
+  "Lesser Wizard Oil": {
+    "id": 20746,
+    "quality": 1,
+    "icon": "inv_potion_103",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Vision Dust": 3,
+      "Stranglethorn Seed": 2,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      200,
+      210,
+      220,
+      230
+    ]
+  },
+  "Purple Lotus": {
+    "id": 8831,
+    "quality": 1,
+    "icon": "inv_misc_herb_17"
+  },
+  "Crystal Vial": {
+    "id": 8925,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 500
+  },
+  "Lesser Mana Oil": {
+    "id": 20747,
+    "quality": 1,
+    "icon": "inv_potion_99",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Dream Dust": 3,
+      "Purple Lotus": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      250,
+      260,
+      270,
+      280
+    ]
+  },
+  "Firebloom": {
+    "id": 4625,
+    "quality": 1,
+    "icon": "inv_misc_herb_19"
+  },
+  "Wizard Oil": {
+    "id": 20750,
+    "quality": 1,
+    "icon": "inv_potion_104",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Illusion Dust": 3,
+      "Firebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      275,
+      285,
+      295,
+      305
+    ]
+  },
+  "Imbued Vial": {
+    "id": 18256,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 6000
+  },
+  "Brilliant Wizard Oil": {
+    "id": 20749,
+    "quality": 1,
+    "icon": "inv_potion_105",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Large Brilliant Shard": 2,
+      "Firebloom": 3,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ]
+  },
+  "Brilliant Mana Oil": {
+    "id": 20748,
+    "quality": 1,
+    "icon": "inv_potion_100",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Large Brilliant Shard": 2,
+      "Purple Lotus": 3,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ]
+  },
+  "Enchant 2H Weapon - Agility": {
+    "source": 5,
+    "faction": 576,
+    "reagents": {
+      "Large Brilliant Shard": 10,
+      "Greater Eternal Essence": 6,
+      "Illusion Dust": 14,
+      "Essence of Air": 4
+    },
+    "colors": [
+      290,
+      305,
+      322,
+      340
+    ]
+  },
+  "Arcane Dust": {
+    "id": 22445,
+    "quality": 1,
+    "icon": "inv_enchant_dustarcane",
+    "craftMin": 3,
+    "craftMax": 3,
+    "reagents": {
+      "Arcane Crystal": 1
+    }
+  },
+  "Enchant Bracer - Brawn": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 6
+    },
+    "colors": [
+      305,
+      315,
+      330,
+      345
+    ]
+  },
+  "Lesser Planar Essence": {
+    "id": 22447,
+    "quality": 2,
+    "icon": "inv_enchant_essencearcanesmall"
+  },
+  "Enchant Bracer - Stats": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 6,
+      "Lesser Planar Essence": 6
+    },
+    "colors": [
+      315,
+      325,
+      340,
+      355
+    ]
+  },
+  "Enchant Bracer - Major Defense": {
+    "reagents": {
+      "Small Prismatic Shard": 2,
+      "Arcane Dust": 10
+    },
+    "colors": [
+      320,
+      330,
+      345,
+      360
+    ]
+  },
+  "Enchant Bracer - Superior Healing": {
+    "source": 5,
+    "faction": 947,
+    "reagents": {
+      "Greater Planar Essence": 4,
+      "Primal Life": 4
+    },
+    "colors": [
+      325,
+      335,
+      350,
+      365
+    ]
+  },
+  "Enchant Bracer - Restore Mana Prime": {
+    "source": 2,
+    "reagents": {
+      "Greater Planar Essence": 8
+    },
+    "colors": [
+      335,
+      345,
+      360,
+      375
+    ]
+  },
+  "Large Prismatic Shard": {
+    "id": 22449,
+    "quality": 3,
+    "icon": "inv_enchant_shardprismaticlarge",
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Void Crystal": 1
+    },
+    "colors": [
+      0,
+      0,
+      0,
+      375
+    ]
+  },
+  "Enchant Bracer - Fortitude": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 1,
+      "Greater Planar Essence": 10,
+      "Arcane Dust": 20
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Primal Fire": {
+    "id": 21884,
+    "quality": 2,
+    "icon": "inv_elemental_primal_fire"
+  },
+  "Primal Water": {
+    "id": 21885,
+    "quality": 2,
+    "icon": "inv_elemental_primal_water"
+  },
+  "Enchant Bracer - Spellpower": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 6,
+      "Primal Fire": 6,
+      "Primal Water": 6
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Ring - Striking": {
+    "source": 5,
+    "faction": 933,
+    "reagents": {
+      "Large Prismatic Shard": 2,
+      "Arcane Dust": 6
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Ring - Spellpower": {
+    "source": 5,
+    "faction": 989,
+    "reagents": {
+      "Large Prismatic Shard": 2,
+      "Greater Planar Essence": 2
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Ring - Healing Power": {
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Large Prismatic Shard": 2,
+      "Greater Planar Essence": 3,
+      "Arcane Dust": 5
+    },
+    "colors": [
+      370,
+      380,
+      395,
+      410
+    ]
+  },
+  "Void Crystal": {
+    "id": 22450,
+    "quality": 4,
+    "icon": "inv_enchant_voidcrystal"
+  },
+  "Enchant Ring - Stats": {
+    "source": 5,
+    "faction": 990,
+    "reagents": {
+      "Void Crystal": 2,
+      "Large Prismatic Shard": 2
+    },
+    "colors": [
+      375,
+      385,
+      400,
+      415
+    ]
+  },
+  "Enchant Shield - Tough Shield": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 6,
+      "Primal Earth": 10
+    },
+    "colors": [
+      310,
+      320,
+      335,
+      350
+    ]
+  },
+  "Enchant Shield - Intellect": {
+    "source": 5,
+    "reagents": {
+      "Greater Planar Essence": 4
+    },
+    "colors": [
+      325,
+      335,
+      350,
+      365
+    ]
+  },
+  "Enchant Shield - Shield Block": {
+    "source": 2,
+    "reagents": {
+      "Arcane Dust": 12,
+      "Greater Planar Essence": 4,
+      "Primal Earth": 10
+    },
+    "colors": [
+      340,
+      350,
+      365,
+      380
+    ]
+  },
+  "Mote of Earth": {
+    "id": 22573,
+    "quality": 1,
+    "icon": "inv_elemental_mote_earth01"
+  },
+  "Mote of Fire": {
+    "id": 22574,
+    "quality": 1,
+    "icon": "inv_elemental_mote_fire01"
+  },
+  "Mote of Air": {
+    "id": 22572,
+    "quality": 1,
+    "icon": "inv_elemental_mote_air01"
+  },
+  "Mote of Water": {
+    "id": 22578,
+    "quality": 1,
+    "icon": "inv_elemental_mote_water01"
+  },
+  "Enchant Shield - Resistance": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 2,
+      "Mote of Earth": 1,
+      "Mote of Fire": 1,
+      "Mote of Air": 1,
+      "Mote of Water": 1
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Major Healing Potion": {
+    "id": 13446,
+    "quality": 1,
+    "icon": "inv_potion_54"
+  },
+  "Major Mana Potion": {
+    "id": 13444,
+    "quality": 1,
+    "icon": "inv_potion_76"
+  },
+  "Enchant Boots - Vitality": {
+    "source": 2,
+    "reagents": {
+      "Arcane Dust": 6,
+      "Major Healing Potion": 4,
+      "Major Mana Potion": 4
+    },
+    "colors": [
+      305,
+      315,
+      330,
+      345
+    ]
+  },
+  "Enchant Boots - Fortitude": {
+    "source": 2,
+    "reagents": {
+      "Arcane Dust": 12
+    },
+    "colors": [
+      320,
+      330,
+      345,
+      360
+    ]
+  },
+  "Enchant Boots - Dexterity": {
+    "source": 2,
+    "reagents": {
+      "Greater Planar Essence": 8,
+      "Arcane Dust": 8
+    },
+    "colors": [
+      340,
+      350,
+      365,
+      380
+    ]
+  },
+  "Primal Nether": {
+    "id": 23572,
+    "quality": 3,
+    "icon": "inv_elemental_primal_nether"
+  },
+  "Enchant Boots - Surefooted": {
+    "source": 2,
+    "reagents": {
+      "Void Crystal": 2,
+      "Large Prismatic Shard": 4,
+      "Primal Nether": 1
+    },
+    "colors": [
+      370,
+      380,
+      395,
+      410
+    ]
+  },
+  "Enchant Chest - Exceptional Health": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 8,
+      "Major Healing Potion": 4,
+      "Large Brilliant Shard": 2
+    },
+    "colors": [
+      315,
+      325,
+      340,
+      355
+    ]
+  },
+  "Enchant Chest - Exceptional Mana": {
+    "reagents": {
+      "Large Prismatic Shard": 1,
+      "Major Mana Potion": 4,
+      "Greater Planar Essence": 3
+    },
+    "colors": [
+      325,
+      335,
+      350,
+      365
+    ]
+  },
+  "Enchant Chest - Exceptional Stats": {
+    "source": 5,
+    "faction": 947,
+    "reagents": {
+      "Large Prismatic Shard": 4,
+      "Arcane Dust": 4,
+      "Greater Planar Essence": 4
+    },
+    "colors": [
+      345,
+      355,
+      370,
+      385
+    ]
+  },
+  "Enchant Cloak - Major Armor": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 8
+    },
+    "colors": [
+      310,
+      320,
+      335,
+      350
+    ]
+  },
+  "Enchant Cloak - Major Resistance": {
+    "source": 2,
+    "reagents": {
+      "Greater Planar Essence": 4,
+      "Primal Fire": 4,
+      "Primal Air": 4,
+      "Primal Earth": 4,
+      "Primal Water": 4
+    },
+    "colors": [
+      330,
+      340,
+      355,
+      370
+    ]
+  },
+  "Enchant Weapon - Major Striking": {
+    "source": 5,
+    "faction": 933,
+    "reagents": {
+      "Large Prismatic Shard": 2,
+      "Greater Planar Essence": 6,
+      "Arcane Dust": 6
+    },
+    "colors": [
+      340,
+      350,
+      365,
+      380
+    ]
+  },
+  "Enchant Weapon - Major Intellect": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 2,
+      "Greater Planar Essence": 10
+    },
+    "colors": [
+      340,
+      350,
+      365,
+      380
+    ]
+  },
+  "Enchant Weapon - Potency": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 4,
+      "Greater Planar Essence": 5,
+      "Arcane Dust": 20
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant 2H Weapon - Savagery": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 4,
+      "Arcane Dust": 40
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant Weapon - Major Spellpower": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 8,
+      "Greater Planar Essence": 8
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant 2H Weapon - Major Agility": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 8,
+      "Greater Planar Essence": 6,
+      "Arcane Dust": 20
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Weapon - Battlemaster": {
+    "source": 2,
+    "reagents": {
+      "Void Crystal": 8,
+      "Large Prismatic Shard": 8,
+      "Primal Water": 2
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Weapon - Spellsurge": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 12,
+      "Greater Planar Essence": 10,
+      "Arcane Dust": 20
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Weapon - Mongoose": {
+    "source": 2,
+    "reagents": {
+      "Void Crystal": 6,
+      "Large Prismatic Shard": 10,
+      "Greater Planar Essence": 8,
+      "Arcane Dust": 40
+    },
+    "colors": [
+      375,
+      385,
+      400,
+      415
+    ]
+  },
+  "Primal Might": {
+    "id": 23571,
+    "quality": 3,
+    "icon": "spell_nature_lightningoverload"
+  },
+  "Enchant Weapon - Sunfire": {
+    "source": 2,
+    "reagents": {
+      "Void Crystal": 12,
+      "Large Prismatic Shard": 10,
+      "Greater Planar Essence": 8,
+      "Primal Fire": 6,
+      "Primal Might": 1
+    },
+    "colors": [
+      375,
+      385,
+      400,
+      415
+    ]
+  },
+  "Enchant Weapon - Soulfrost": {
+    "source": 2,
+    "reagents": {
+      "Void Crystal": 12,
+      "Large Prismatic Shard": 10,
+      "Greater Planar Essence": 8,
+      "Primal Water": 6,
+      "Primal Shadow": 6
+    },
+    "colors": [
+      375,
+      385,
+      400,
+      415
+    ]
+  },
+  "Netherbloom": {
+    "id": 22791,
+    "quality": 1,
+    "icon": "inv_misc_herb_netherbloom"
+  },
+  "Superior Mana Oil": {
+    "id": 22521,
+    "quality": 1,
+    "icon": "inv_potion_101",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Arcane Dust": 3,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      310,
+      310,
+      320,
+      330
+    ]
+  },
+  "Nightmare Vine": {
+    "id": 22792,
+    "quality": 1,
+    "icon": "inv_misc_herb_nightmarevine"
+  },
+  "Superior Wizard Oil": {
+    "id": 22522,
+    "quality": 1,
+    "icon": "inv_potion_141",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "reagents": {
+      "Arcane Dust": 3,
+      "Nightmare Vine": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      340,
+      340,
+      350,
+      360
+    ]
+  },
+  "Arcane Crystal": {
+    "id": 12363,
+    "quality": 2,
+    "icon": "inv_misc_gem_topaz_01"
+  },
+  "Fel Iron Rod": {
+    "id": 25843,
+    "quality": 1,
+    "icon": "inv_rod_felsteel"
+  },
+  "Runed Fel Iron Rod": {
+    "id": 22461,
+    "quality": 1,
+    "icon": "inv_rod_enchantedfelsteel",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fel Iron Rod": 1,
+      "Greater Eternal Essence": 4,
+      "Large Brilliant Shard": 6,
+      "Runed Arcanite Rod": 1
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Adamantite Rod": {
+    "id": 25844,
+    "quality": 1,
+    "icon": "inv_rod_adamantite"
+  },
+  "Runed Adamantite Rod": {
+    "id": 22462,
+    "quality": 2,
+    "icon": "inv_rod_enchantedadamantite",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Adamantite Rod": 1,
+      "Greater Planar Essence": 8,
+      "Large Prismatic Shard": 8,
+      "Primal Might": 1,
+      "Runed Fel Iron Rod": 1
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Eternium Rod": {
+    "id": 25845,
+    "quality": 1,
+    "icon": "inv_rod_eternium"
+  },
+  "Runed Eternium Rod": {
+    "id": 22463,
+    "quality": 3,
+    "icon": "inv_rod_enchantedeternium",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Eternium Rod": 1,
+      "Greater Planar Essence": 12,
+      "Void Crystal": 2,
+      "Primal Might": 4,
+      "Runed Adamantite Rod": 1
+    },
+    "colors": [
+      0,
+      375,
+      385,
+      400
+    ]
+  },
+  "Enchant Chest - Major Spirit": {
+    "source": 6,
+    "reagents": {
+      "Greater Planar Essence": 2
+    },
+    "colors": [
+      320,
+      330,
+      345,
+      360
+    ]
+  },
+  "Enchant Chest - Restore Mana Prime": {
+    "source": 6,
+    "reagents": {
+      "Lesser Planar Essence": 2,
+      "Arcane Dust": 2
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Chest - Major Resilience": {
+    "source": 2,
+    "reagents": {
+      "Greater Planar Essence": 4,
+      "Arcane Dust": 10
+    },
+    "colors": [
+      345,
+      355,
+      370,
+      385
+    ]
+  },
+  "Enchant Gloves - Blasting": {
+    "source": 6,
+    "reagents": {
+      "Lesser Planar Essence": 1,
+      "Arcane Dust": 4
+    },
+    "colors": [
+      305,
+      315,
+      330,
+      345
+    ]
+  },
+  "Enchant Gloves - Spell Strike": {
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Greater Planar Essence": 8,
+      "Arcane Dust": 2,
+      "Large Prismatic Shard": 2
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Gloves - Major Strength": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 12,
+      "Greater Planar Essence": 1
+    },
+    "colors": [
+      340,
+      350,
+      365,
+      380
+    ]
+  },
+  "Enchant Gloves - Assault": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 8
+    },
+    "colors": [
+      310,
+      320,
+      335,
+      350
+    ]
+  },
+  "Primal Mana": {
+    "id": 22457,
+    "quality": 2,
+    "icon": "inv_elemental_primal_mana"
+  },
+  "Enchant Gloves - Major Spellpower": {
+    "source": 5,
+    "faction": 989,
+    "reagents": {
+      "Greater Planar Essence": 6,
+      "Large Prismatic Shard": 6,
+      "Primal Mana": 6
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Gloves - Major Healing": {
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Greater Planar Essence": 6,
+      "Large Prismatic Shard": 6,
+      "Primal Life": 6
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant Bracer - Major Intellect": {
+    "source": 6,
+    "reagents": {
+      "Lesser Planar Essence": 3
+    },
+    "colors": [
+      305,
+      315,
+      330,
+      345
+    ]
+  },
+  "Enchant Bracer - Assault": {
+    "source": 6,
+    "reagents": {
+      "Arcane Dust": 6
+    },
+    "colors": [
+      300,
+      310,
+      325,
+      340
+    ]
+  },
+  "Enchant Cloak - Spell Penetration": {
+    "source": 5,
+    "faction": 933,
+    "reagents": {
+      "Greater Planar Essence": 2,
+      "Arcane Dust": 6,
+      "Primal Mana": 2
+    },
+    "colors": [
+      325,
+      335,
+      350,
+      365
+    ]
+  },
+  "Enchant Cloak - Greater Agility": {
+    "source": 6,
+    "reagents": {
+      "Greater Planar Essence": 1,
+      "Arcane Dust": 4,
+      "Primal Air": 1
+    },
+    "colors": [
+      310,
+      320,
+      335,
+      350
+    ]
+  },
+  "Enchant Cloak - Greater Arcane Resistance": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 4,
+      "Primal Mana": 8
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant Cloak - Greater Shadow Resistance": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 4,
+      "Primal Shadow": 8
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant Boots - Cat's Swiftness": {
+    "reagents": {
+      "Large Prismatic Shard": 8,
+      "Primal Air": 8
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Boots - Boar's Speed": {
+    "source": 2,
+    "reagents": {
+      "Large Prismatic Shard": 8,
+      "Primal Earth": 8
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Shield - Major Stamina": {
+    "source": 5,
+    "reagents": {
+      "Arcane Dust": 15
+    },
+    "colors": [
+      325,
+      335,
+      350,
+      365
+    ]
+  },
+  "Enchant Weapon - Major Healing": {
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Large Prismatic Shard": 8,
+      "Primal Water": 8,
+      "Primal Life": 8
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Prismatic Sphere": {
+    "id": 22460,
+    "quality": 3,
+    "icon": "inv_enchant_prismaticsphere",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Large Prismatic Shard": 4
+    },
+    "colors": [
+      325,
+      325,
+      330,
+      335
+    ]
+  },
+  "Void Sphere": {
+    "id": 22459,
+    "quality": 4,
+    "icon": "inv_enchant_voidsphere",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Void Crystal": 2
+    },
+    "colors": [
+      350,
+      360,
+      375,
+      390
+    ]
+  },
+  "Enchant Weapon - Greater Agility": {
+    "source": 5,
+    "faction": 967,
+    "reagents": {
+      "Arcane Dust": 8,
+      "Greater Planar Essence": 4,
+      "Large Prismatic Shard": 6,
+      "Primal Air": 2
+    },
+    "colors": [
+      350,
+      360,
+      367,
+      375
+    ]
+  },
+  "Elixir of Major Strength": {
+    "id": 22824,
+    "quality": 1,
+    "icon": "inv_potion_147"
+  },
+  "Enchant Weapon - Executioner": {
+    "source": 2,
+    "reagents": {
+      "Void Crystal": 6,
+      "Large Prismatic Shard": 10,
+      "Greater Planar Essence": 6,
+      "Arcane Dust": 30,
+      "Elixir of Major Strength": 3
+    },
+    "colors": [
+      375,
+      385,
+      400,
+      415
+    ]
+  },
+  "Enchant Shield - Resilience": {
+    "source": 6,
+    "reagents": {
+      "Large Prismatic Shard": 1,
+      "Lesser Planar Essence": 4
+    },
+    "colors": [
+      330,
+      340,
+      355,
+      370
+    ]
+  },
+  "Enchant Weapon - Deathfrost": {
+    "reagents": {
+      "Primal Shadow": 2,
+      "Primal Water": 2
+    },
+    "colors": [
+      350,
+      350,
+      357,
+      365
+    ]
+  },
+  "Eternium Ore": {
+    "id": 23427,
+    "quality": 2,
+    "icon": "inv_ore_eternium"
+  },
+  "Enchant Chest - Defense": {
+    "reagents": {
+      "Greater Planar Essence": 4,
+      "Arcane Dust": 8,
+      "Eternium Ore": 4
+    },
+    "colors": [
+      360,
+      370,
+      385,
+      400
+    ]
+  },
+  "Enchant Cloak - Steelweave": {
+    "source": 2,
+    "reagents": {
+      "Greater Planar Essence": 8,
+      "Primal Earth": 8
+    },
+    "colors": [
+      375,
+      380,
+      395,
+      410
+    ]
+  }
+}

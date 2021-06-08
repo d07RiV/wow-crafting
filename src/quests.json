@@ -2326,5 +2326,650 @@
       "Logistics Task IX": 0,
       "Logistics Task X": 0
     }
+  },
+  "Frozen Rune": {
+    "id": 22682,
+    "quality": 3
+  },
+  "Glacial Leggings": {
+    "id": 22700,
+    "quality": 4,
+    "category": "quest",
+    "reagents": {
+      "Frozen Rune": 2,
+      "Essence of Water": 2,
+      "Blue Sapphire": 2
+    },
+    "requiredMoney": 300000
+  },
+  "Polar Leggings": {
+    "id": 22701,
+    "quality": 4,
+    "category": "quest",
+    "reagents": {
+      "Frozen Rune": 2,
+      "Essence of Water": 2,
+      "Blue Sapphire": 2
+    },
+    "requiredMoney": 300000
+  },
+  "Icy Scale Leggings": {
+    "id": 22702,
+    "quality": 4,
+    "category": "quest",
+    "reagents": {
+      "Frozen Rune": 2,
+      "Essence of Water": 2,
+      "Blue Sapphire": 2
+    },
+    "requiredMoney": 300000
+  },
+  "Icebane Leggings": {
+    "id": 22699,
+    "quality": 4,
+    "category": "quest",
+    "reagents": {
+      "Frozen Rune": 2,
+      "Essence of Water": 2,
+      "Blue Sapphire": 2
+    },
+    "requiredMoney": 300000
+  },
+  "Ramaladni's Icy Grasp": {
+    "id": 22707,
+    "quality": 4,
+    "category": "quest",
+    "reagents": {
+      "Frozen Rune": 1,
+      "Blue Sapphire": 1,
+      "Arcanite Bar": 1
+    }
+  },
+  "Glacial Headdress": {
+    "id": 23032,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Glacial Mantle": {
+    "id": 22968,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Polar Helmet": {
+    "id": 23020,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Polar Shoulder Pads": {
+    "id": 22941,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Icy Scale Coif": {
+    "id": 23033,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Icy Scale Spaulders": {
+    "id": 22967,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Icebane Helmet": {
+    "id": 23019,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Icebane Pauldrons": {
+    "id": 22940,
+    "quality": 4,
+    "bindOnPickup": true
+  },
+  "Glacial Set": {
+    "category": "tierset",
+    "reagents": {
+      "Glacial Headdress": 1,
+      "Glacial Mantle": 1,
+      "Glacial Cloak": 1,
+      "Glacial Vest": 1,
+      "Glacial Leggings": 1,
+      "Glacial Gloves": 1,
+      "Glacial Wrists": 1,
+      "Ramaladni's Icy Grasp": 1
+    }
+  },
+  "Polar Set": {
+    "category": "tierset",
+    "reagents": {
+      "Polar Helmet": 1,
+      "Polar Shoulder Pads": 1,
+      "Glacial Cloak": 1,
+      "Polar Tunic": 1,
+      "Polar Leggings": 1,
+      "Polar Gloves": 1,
+      "Polar Bracers": 1,
+      "Ramaladni's Icy Grasp": 1
+    }
+  },
+  "Icy Scale Set": {
+    "category": "tierset",
+    "reagents": {
+      "Icy Scale Coif": 1,
+      "Icy Scale Spaulders": 1,
+      "Glacial Cloak": 1,
+      "Icy Scale Breastplate": 1,
+      "Icy Scale Leggings": 1,
+      "Icy Scale Gauntlets": 1,
+      "Icy Scale Bracers": 1,
+      "Ramaladni's Icy Grasp": 1
+    }
+  },
+  "Icebane Set": {
+    "category": "tierset",
+    "reagents": {
+      "Icebane Helmet": 1,
+      "Icebane Pauldrons": 1,
+      "Glacial Cloak": 1,
+      "Icebane Breastplate": 1,
+      "Icebane Leggings": 1,
+      "Icebane Gauntlets": 1,
+      "Icebane Bracers": 1,
+      "Ramaladni's Icy Grasp": 1
+    }
+  },
+  "The Dread Citadel - Naxxramas (Honored)": {
+    "category": "quest",
+    "reagents": {
+      "Arcane Crystal": 5,
+      "Nexus Crystal": 2,
+      "Righteous Orb": 1
+    },
+    "requiredMoney": 600000
+  },
+  "The Dread Citadel - Naxxramas (Revered)": {
+    "category": "quest",
+    "reagents": {
+      "Arcane Crystal": 2,
+      "Nexus Crystal": 1
+    },
+    "requiredMoney": 300000
+  },
+  "Lightning Eel": {
+    "id": 13757,
+    "quality": 1
+  },
+  "Plated Armorfish": {
+    "id": 13890,
+    "quality": 1
+  },
+  "Craftsman's Writ - Brightcloth Pants": {
+    "category": "quest",
+    "reagents": {
+      "Brightcloth Pants": 6
+    }
+  },
+  "Craftsman's Writ - Dense Weightstone": {
+    "category": "quest",
+    "reagents": {
+      "Dense Weightstone": 120
+    }
+  },
+  "Craftsman's Writ - Flask of Petrification": {
+    "category": "quest",
+    "reagents": {
+      "Flask of Petrification": 1
+    }
+  },
+  "Craftsman's Writ - Gnomish Battle Chicken": {
+    "category": "quest",
+    "reagents": {
+      "Gnomish Battle Chicken": 4
+    }
+  },
+  "Craftsman's Writ - Goblin Sapper Charge": {
+    "category": "quest",
+    "reagents": {
+      "Goblin Sapper Charge": 20
+    }
+  },
+  "Craftsman's Writ - Greater Arcane Protection Potion": {
+    "category": "quest",
+    "reagents": {
+      "Greater Arcane Protection Potion": 15
+    }
+  },
+  "Craftsman's Writ - Huge Thorium Battleaxe": {
+    "category": "quest",
+    "reagents": {
+      "Huge Thorium Battleaxe": 3
+    }
+  },
+  "Craftsman's Writ - Imperial Plate Chest": {
+    "category": "quest",
+    "reagents": {
+      "Imperial Plate Chest": 3
+    }
+  },
+  "Craftsman's Writ - Lightning Eel": {
+    "category": "quest",
+    "reagents": {
+      "Lightning Eel": 30
+    }
+  },
+  "Craftsman's Writ - Major Healing Potion": {
+    "category": "quest",
+    "reagents": {
+      "Major Healing Potion": 20
+    }
+  },
+  "Craftsman's Writ - Major Mana Potion": {
+    "category": "quest",
+    "reagents": {
+      "Major Mana Potion": 10
+    }
+  },
+  "Craftsman's Writ - Plated Armorfish": {
+    "category": "quest",
+    "reagents": {
+      "Plated Armorfish": 30
+    }
+  },
+  "Craftsman's Writ - Radiant Circlet": {
+    "category": "quest",
+    "reagents": {
+      "Radiant Circlet": 3
+    }
+  },
+  "Craftsman's Writ - Rugged Armor Kit": {
+    "category": "quest",
+    "reagents": {
+      "Rugged Armor Kit": 25
+    }
+  },
+  "Craftsman's Writ - Runecloth Bag": {
+    "category": "quest",
+    "reagents": {
+      "Runecloth Bag": 8
+    }
+  },
+  "Craftsman's Writ - Runecloth Boots": {
+    "category": "quest",
+    "reagents": {
+      "Runecloth Boots": 8
+    }
+  },
+  "Craftsman's Writ - Runecloth Robe": {
+    "category": "quest",
+    "reagents": {
+      "Runecloth Robe": 8
+    }
+  },
+  "Craftsman's Writ - Runic Leather Pants": {
+    "category": "quest",
+    "reagents": {
+      "Runic Leather Pants": 4
+    }
+  },
+  "Craftsman's Writ - Stonescale Eel": {
+    "category": "quest",
+    "reagents": {
+      "Stonescale Eel": 40
+    }
+  },
+  "Craftsman's Writ - Thorium Grenade": {
+    "category": "quest",
+    "reagents": {
+      "Thorium Grenade": 20
+    }
+  },
+  "Craftsman's Writ - Thorium Tube": {
+    "category": "quest",
+    "reagents": {
+      "Thorium Tube": 14
+    }
+  },
+  "Craftsman's Writ - Volcanic Hammer": {
+    "category": "quest",
+    "reagents": {
+      "Volcanic Hammer": 3
+    }
+  },
+  "Craftsman's Writ - Wicked Leather Belt": {
+    "category": "quest",
+    "reagents": {
+      "Wicked Leather Belt": 9
+    }
+  },
+  "Craftsman's Writ - Wicked Leather Headband": {
+    "category": "quest",
+    "reagents": {
+      "Wicked Leather Headband": 10
+    }
+  },
+  "Craftsman's Writs": {
+    "category": "quest",
+    "reagents": {
+      "Craftsman's Writ - Brightcloth Pants": 0,
+      "Craftsman's Writ - Dense Weightstone": 0,
+      "Craftsman's Writ - Flask of Petrification": 0,
+      "Craftsman's Writ - Gnomish Battle Chicken": 0,
+      "Craftsman's Writ - Goblin Sapper Charge": 0,
+      "Craftsman's Writ - Greater Arcane Protection Potion": 0,
+      "Craftsman's Writ - Huge Thorium Battleaxe": 0,
+      "Craftsman's Writ - Imperial Plate Chest": 0,
+      "Craftsman's Writ - Lightning Eel": 0,
+      "Craftsman's Writ - Major Healing Potion": 0,
+      "Craftsman's Writ - Major Mana Potion": 0,
+      "Craftsman's Writ - Plated Armorfish": 0,
+      "Craftsman's Writ - Radiant Circlet": 0,
+      "Craftsman's Writ - Rugged Armor Kit": 0,
+      "Craftsman's Writ - Runecloth Bag": 0,
+      "Craftsman's Writ - Runecloth Boots": 0,
+      "Craftsman's Writ - Runecloth Robe": 0,
+      "Craftsman's Writ - Runic Leather Pants": 0,
+      "Craftsman's Writ - Stonescale Eel": 0,
+      "Craftsman's Writ - Thorium Grenade": 0,
+      "Craftsman's Writ - Thorium Tube": 0,
+      "Craftsman's Writ - Volcanic Hammer": 0,
+      "Craftsman's Writ - Wicked Leather Belt": 0,
+      "Craftsman's Writ - Wicked Leather Headband": 0
+    }
+  },
+  "Dark Iron Ore": {
+    "id": 11370,
+    "quality": 1
+  },
+  "Summon Dreadsteed (without ritual items worth 250g)": {
+    "category": "quest",
+    "reagents": {
+      "Dark Iron Ore": 25,
+      "Large Brilliant Shard": 6,
+      "Black Dragonscale": 35,
+      "Elixir of Shadow Power": 10,
+      "Arcanite Bar": 3
+    },
+    "requiredMoney": 1560000
+  },
+  "Enriched Manna Biscuit": {
+    "id": 13724,
+    "quality": 1,
+    "vendor": 1500
+  },
+  "Stratholme Holy Water": {
+    "id": 13180,
+    "quality": 1,
+    "bindOnPickup": true
+  },
+  "Pristine Black Diamond": {
+    "id": 18335,
+    "quality": 3
+  },
+  "Summon Charger": {
+    "category": "quest",
+    "reagents": {
+      "Runecloth": 40,
+      "Arcanite Bar": 6,
+      "Arthas' Tears": 10,
+      "Stratholme Holy Water": 5,
+      "Enriched Manna Biscuit": 20,
+      "Azerothian Diamond": 1,
+      "Pristine Black Diamond": 1
+    },
+    "requiredMoney": 3500000
+  },
+  "Blasted Boar Lung": {
+    "id": 8392,
+    "quality": 1
+  },
+  "Scorpok Pincer": {
+    "id": 8393,
+    "quality": 1
+  },
+  "Basilisk Brain": {
+    "id": 8394,
+    "quality": 1
+  },
+  "Blasted Boar Lung": {
+    "id": 8392,
+    "quality": 1
+  },
+  "Snickerfang Jowl": {
+    "id": 8391,
+    "quality": 1
+  },
+  "Vulture Gizzard": {
+    "id": 8396,
+    "quality": 1
+  },
+  "Lung Juice Cocktail": {
+    "category": "quest",
+    "id": 8411,
+    "quality": 1,
+    "reagents": {
+      "Blasted Boar Lung": 3,
+      "Scorpok Pincer": 2,
+      "Basilisk Brain": 1
+    }
+  },
+  "R.O.I.D.S.": {
+    "category": "quest",
+    "id": 8410,
+    "quality": 1,
+    "reagents": {
+      "Snickerfang Jowl": 3,
+      "Blasted Boar Lung": 2,
+      "Scorpok Pincer": 1
+    }
+  },
+  "Ground Scorpok Assay": {
+    "category": "quest",
+    "id": 8412,
+    "quality": 1,
+    "reagents": {
+      "Scorpok Pincer": 3,
+      "Vulture Gizzard": 2,
+      "Blasted Boar Lung": 1
+    }
+  },
+  "Cerebral Cortex Compound": {
+    "category": "quest",
+    "id": 8423,
+    "quality": 1,
+    "reagents": {
+      "Basilisk Brain": 10,
+      "Vulture Gizzard": 2
+    }
+  },
+  "Gizzard Gum": {
+    "category": "quest",
+    "id": 8424,
+    "quality": 1,
+    "reagents": {
+      "Vulture Gizzard": 10,
+      "Snickerfang Jowl": 2
+    }
+  },
+  "Libram of Protection": {
+    "id": 18334,
+    "quality": 2
+  },
+  "Libram of Focus": {
+    "id": 18333,
+    "quality": 2
+  },
+  "Libram of Constitution": {
+    "id": 11733,
+    "quality": 2
+  },
+  "Libram of Rumination": {
+    "id": 11732,
+    "quality": 2
+  },
+  "Libram of Rapidity": {
+    "id": 18332,
+    "quality": 2
+  },
+  "Libram of Tenacity": {
+    "id": 11734,
+    "quality": 2
+  },
+  "Libram of Resilience": {
+    "id": 11736,
+    "quality": 2
+  },
+  "Libram of Voracity": {
+    "id": 11737,
+    "quality": 2
+  },
+  "Arcanum of Protection": {
+    "category": "quest",
+    "id": 18331,
+    "quality": 2,
+    "reagents": {
+      "Libram of Protection": 1,
+      "Pristine Black Diamond": 1,
+      "Large Brilliant Shard": 2,
+      "Frayed Abomination Stitching": 1
+    }
+  },
+  "Arcanum of Focus": {
+    "category": "quest",
+    "id": 18330,
+    "quality": 2,
+    "reagents": {
+      "Libram of Focus": 1,
+      "Pristine Black Diamond": 1,
+      "Large Brilliant Shard": 4,
+      "Skin of Shadow": 2
+    }
+  },
+  "Night Dragon's Breath": {
+    "id": 11952,
+    "quality": 1,
+    "bindOnPickup": true
+  },
+  "Lesser Arcanum of Constitution": {
+    "category": "quest",
+    "id": 11642,
+    "quality": 2,
+    "reagents": {
+      "Libram of Constitution": 1,
+      "Lung Juice Cocktail": 1,
+      "Black Diamond": 1,
+      "Night Dragon's Breath": 4
+    },
+    "requiredMoney": 30
+  },
+  "Black Blood of the Tormented": {
+    "id": 11952,
+    "quality": 1,
+    "bindOnPickup": true
+  },
+  "Lesser Arcanum of Rumination": {
+    "category": "quest",
+    "id": 11622,
+    "quality": 2,
+    "reagents": {
+      "Libram of Rumination": 1,
+      "Black Diamond": 1,
+      "Gizzard Gum": 1,
+      "Black Blood of the Tormented": 1
+    },
+    "requiredMoney": 30
+  },
+  "Arcanum of Rapidity": {
+    "category": "quest",
+    "id": 18329,
+    "quality": 2,
+    "reagents": {
+      "Libram of Rapidity": 1,
+      "Pristine Black Diamond": 1,
+      "Large Brilliant Shard": 2,
+      "Blood of Heroes": 2
+    }
+  },
+  "Crystal Ward": {
+    "category": "quest",
+    "id": 11564,
+    "quality": 1,
+    "craftMin": 6,
+    "craftMax": 6,
+    "reagents": {
+      "Red Power Crystal": 10,
+      "Green Power Crystal": 10
+    }
+  },
+  "Eye of Kajal": {
+    "id": 11753,
+    "quality": 1,
+    "bindOnPickup": true
+  },
+  "Lesser Arcanum of Tenacity": {
+    "category": "quest",
+    "id": 11643,
+    "quality": 2,
+    "reagents": {
+      "Libram of Tenacity": 1,
+      "Black Diamond": 1,
+      "Crystal Ward": 4,
+      "Eye of Kajal": 1
+    },
+    "requiredMoney": 30
+  },
+  "Crystal Spire": {
+    "category": "quest",
+    "id": 11567,
+    "quality": 1,
+    "craftMin": 6,
+    "craftMax": 6,
+    "reagents": {
+      "Blue Power Crystal": 10,
+      "Yellow Power Crystal": 10
+    }
+  },
+  "Burning Essence": {
+    "id": 11751,
+    "quality": 1,
+    "bindOnPickup": true
+  },
+  "Lesser Arcanum of Resilience": {
+    "category": "quest",
+    "id": 11644,
+    "quality": 2,
+    "reagents": {
+      "Libram of Resilience": 1,
+      "Black Diamond": 1,
+      "Crystal Spire": 4,
+      "Burning Essence": 1
+    },
+    "requiredMoney": 30
+  },
+  "Crystal Force": {
+    "category": "quest",
+    "id": 11563,
+    "quality": 1,
+    "craftMin": 6,
+    "craftMax": 6,
+    "reagents": {
+      "Blue Power Crystal": 10,
+      "Green Power Crystal": 10
+    }
+  },
+  "Whipper Root Tuber": {
+    "id": 11951,
+    "quality": 1,
+    "bindOnPickup": true
+  },
+  "Lesser Arcanum of Voracity": {
+    "category": "quest",
+    "id": 11645,
+    "quality": 2,
+    "reagents": {
+      "Libram of Voracity": 1,
+      "Black Diamond": 1,
+      "Crystal Force": 4,
+      "Whipper Root Tuber": 4
+    },
+    "requiredMoney": 30
   }
 }

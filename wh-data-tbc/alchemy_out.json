@@ -1,0 +1,3840 @@
+{
+  "Peacebloom": {
+    "id": 2447,
+    "quality": 1,
+    "icon": "inv_misc_flower_02"
+  },
+  "Silverleaf": {
+    "id": 765,
+    "quality": 1,
+    "icon": "inv_misc_herb_10"
+  },
+  "Empty Vial": {
+    "id": 3371,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 4
+  },
+  "Minor Healing Potion": {
+    "id": 118,
+    "quality": 1,
+    "icon": "inv_potion_49",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Peacebloom": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      1,
+      55,
+      75,
+      95
+    ]
+  },
+  "Earthroot": {
+    "id": 2449,
+    "quality": 1,
+    "icon": "inv_misc_herb_07"
+  },
+  "Elixir of Lion's Strength": {
+    "id": 2454,
+    "quality": 1,
+    "icon": "inv_potion_56",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Earthroot": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      1,
+      55,
+      75,
+      95
+    ]
+  },
+  "Mageroyal": {
+    "id": 785,
+    "quality": 1,
+    "icon": "inv_jewelry_talisman_03"
+  },
+  "Minor Mana Potion": {
+    "id": 2455,
+    "quality": 1,
+    "icon": "inv_potion_70",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mageroyal": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      25,
+      65,
+      85,
+      105
+    ]
+  },
+  "Minor Rejuvenation Potion": {
+    "id": 2456,
+    "quality": 1,
+    "icon": "inv_potion_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mageroyal": 2,
+      "Peacebloom": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      40,
+      70,
+      90,
+      110
+    ]
+  },
+  "Elixir of Minor Fortitude": {
+    "id": 2458,
+    "quality": 1,
+    "icon": "inv_potion_42",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Earthroot": 2,
+      "Peacebloom": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      50,
+      80,
+      100,
+      120
+    ]
+  },
+  "Swiftthistle": {
+    "id": 2452,
+    "quality": 1,
+    "icon": "inv_misc_herb_04"
+  },
+  "Briarthorn": {
+    "id": 2450,
+    "quality": 1,
+    "icon": "inv_misc_root_01"
+  },
+  "Swiftness Potion": {
+    "id": 2459,
+    "quality": 1,
+    "icon": "inv_potion_95",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Swiftthistle": 1,
+      "Briarthorn": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      60,
+      90,
+      110,
+      130
+    ]
+  },
+  "Elixir of Tongues": {
+    "reagents": {
+      "Earthroot": 2,
+      "Mageroyal": 2,
+      "Empty Vial": 1
+    }
+  },
+  "Lesser Healing Potion": {
+    "id": 858,
+    "quality": 1,
+    "icon": "inv_potion_50",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Minor Healing Potion": 1,
+      "Briarthorn": 1
+    },
+    "colors": [
+      55,
+      85,
+      105,
+      125
+    ]
+  },
+  "Elixir of Wisdom": {
+    "id": 3383,
+    "quality": 1,
+    "icon": "inv_potion_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mageroyal": 1,
+      "Briarthorn": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ]
+  },
+  "Wild Steelbloom": {
+    "id": 3355,
+    "quality": 1,
+    "icon": "inv_misc_flower_01"
+  },
+  "Minor Magic Resistance Potion": {
+    "id": 3384,
+    "quality": 1,
+    "icon": "inv_potion_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mageroyal": 3,
+      "Wild Steelbloom": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ]
+  },
+  "Stranglekelp": {
+    "id": 3820,
+    "quality": 1,
+    "icon": "inv_misc_herb_11"
+  },
+  "Lesser Mana Potion": {
+    "id": 3385,
+    "quality": 1,
+    "icon": "inv_potion_71",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mageroyal": 1,
+      "Stranglekelp": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ]
+  },
+  "Large Venom Sac": {
+    "id": 1288,
+    "quality": 1,
+    "icon": "inv_misc_organ_01"
+  },
+  "Bruiseweed": {
+    "id": 2453,
+    "quality": 1,
+    "icon": "inv_misc_herb_01"
+  },
+  "Leaded Vial": {
+    "id": 3372,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 40
+  },
+  "Potion of Curing": {
+    "id": 3386,
+    "quality": 1,
+    "icon": "inv_potion_12",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Large Venom Sac": 1,
+      "Bruiseweed": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ]
+  },
+  "Strong Troll's Blood Potion": {
+    "id": 3388,
+    "quality": 1,
+    "icon": "inv_potion_78",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bruiseweed": 2,
+      "Briarthorn": 2,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ]
+  },
+  "Elixir of Defense": {
+    "id": 3389,
+    "quality": 1,
+    "icon": "inv_potion_64",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Wild Steelbloom": 1,
+      "Stranglekelp": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ]
+  },
+  "Elixir of Lesser Agility": {
+    "id": 3390,
+    "quality": 1,
+    "icon": "inv_potion_92",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Wild Steelbloom": 1,
+      "Swiftthistle": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ]
+  },
+  "Kingsblood": {
+    "id": 3356,
+    "quality": 1,
+    "icon": "inv_misc_herb_03"
+  },
+  "Elixir of Ogre's Strength": {
+    "id": 3391,
+    "quality": 1,
+    "icon": "inv_potion_57",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Earthroot": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ]
+  },
+  "Weak Troll's Blood Potion": {
+    "id": 3382,
+    "quality": 1,
+    "icon": "inv_potion_77",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Peacebloom": 1,
+      "Earthroot": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      15,
+      60,
+      80,
+      100
+    ]
+  },
+  "Elixir of Minor Agility": {
+    "id": 2457,
+    "quality": 1,
+    "icon": "inv_potion_91",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Swiftthistle": 1,
+      "Silverleaf": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      50,
+      80,
+      100,
+      120
+    ]
+  },
+  "Healing Potion": {
+    "id": 929,
+    "quality": 1,
+    "icon": "inv_potion_51",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Bruiseweed": 1,
+      "Briarthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ]
+  },
+  "Fadeleaf": {
+    "id": 3818,
+    "quality": 1,
+    "icon": "inv_misc_herb_12"
+  },
+  "Lesser Invisibility Potion": {
+    "id": 3823,
+    "quality": 1,
+    "icon": "inv_potion_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fadeleaf": 1,
+      "Wild Steelbloom": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      165,
+      185,
+      205,
+      225
+    ]
+  },
+  "Grave Moss": {
+    "id": 3369,
+    "quality": 1,
+    "icon": "inv_misc_dust_02"
+  },
+  "Shadow Oil": {
+    "id": 3824,
+    "quality": 1,
+    "icon": "inv_potion_23",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Fadeleaf": 4,
+      "Grave Moss": 4,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      165,
+      190,
+      210,
+      230
+    ]
+  },
+  "Goldthorn": {
+    "id": 3821,
+    "quality": 1,
+    "icon": "inv_misc_herb_15"
+  },
+  "Elixir of Fortitude": {
+    "id": 3825,
+    "quality": 1,
+    "icon": "inv_potion_43",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Wild Steelbloom": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ]
+  },
+  "Liferoot": {
+    "id": 3357,
+    "quality": 1,
+    "icon": "inv_misc_root_02"
+  },
+  "Mighty Troll's Blood Potion": {
+    "id": 3826,
+    "quality": 1,
+    "icon": "inv_potion_79",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Liferoot": 1,
+      "Bruiseweed": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ]
+  },
+  "Mana Potion": {
+    "id": 3827,
+    "quality": 1,
+    "icon": "inv_potion_72",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Stranglekelp": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ]
+  },
+  "Khadgar's Whisker": {
+    "id": 3358,
+    "quality": 1,
+    "icon": "inv_misc_herb_08"
+  },
+  "Elixir of Detect Lesser Invisibility": {
+    "id": 3828,
+    "quality": 1,
+    "icon": "inv_potion_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Khadgar's Whisker": 1,
+      "Fadeleaf": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ]
+  },
+  "Wintersbite": {
+    "id": 3819,
+    "quality": 1,
+    "icon": "inv_misc_flower_03"
+  },
+  "Frost Oil": {
+    "id": 3829,
+    "quality": 1,
+    "icon": "inv_potion_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Khadgar's Whisker": 4,
+      "Wintersbite": 2,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ]
+  },
+  "Discolored Worg Heart": {
+    "id": 3164,
+    "quality": 1,
+    "icon": "inv_misc_organ_02"
+  },
+  "Discolored Healing Potion": {
+    "id": 4596,
+    "quality": 1,
+    "icon": "inv_potion_35",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Discolored Worg Heart": 1,
+      "Peacebloom": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      50,
+      80,
+      100,
+      120
+    ]
+  },
+  "Mithril Ore": {
+    "id": 3858,
+    "quality": 1,
+    "icon": "inv_ore_mithril_02"
+  },
+  "Lesser Stoneshield Potion": {
+    "id": 4623,
+    "quality": 1,
+    "icon": "inv_potion_67",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Mithril Ore": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      215,
+      230,
+      250,
+      270
+    ]
+  },
+  "Blackmouth Oil": {
+    "id": 6370,
+    "quality": 1,
+    "icon": "inv_drink_12",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Oily Blackmouth": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      80,
+      80,
+      90,
+      100
+    ]
+  },
+  "Free Action Potion": {
+    "id": 5634,
+    "quality": 1,
+    "icon": "inv_potion_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Blackmouth Oil": 2,
+      "Stranglekelp": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ]
+  },
+  "Delicate Feather": {
+    "id": 5636,
+    "quality": 0,
+    "icon": "inv_feather_10"
+  },
+  "Cowardly Flight Potion": {
+    "id": 5632,
+    "quality": 1,
+    "icon": "inv_potion_12",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Delicate Feather": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    }
+  },
+  "Large Fang": {
+    "id": 5637,
+    "quality": 1,
+    "icon": "inv_misc_bone_08"
+  },
+  "Great Rage Potion": {
+    "id": 5633,
+    "quality": 1,
+    "icon": "inv_potion_21",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Large Fang": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ]
+  },
+  "Sharp Claw": {
+    "id": 5635,
+    "quality": 1,
+    "icon": "inv_misc_monsterclaw_03"
+  },
+  "Rage Potion": {
+    "id": 5631,
+    "quality": 1,
+    "icon": "inv_potion_24",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Sharp Claw": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      60,
+      90,
+      110,
+      130
+    ]
+  },
+  "Elixir of Water Breathing": {
+    "id": 5996,
+    "quality": 1,
+    "icon": "inv_potion_17",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Stranglekelp": 1,
+      "Blackmouth Oil": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ]
+  },
+  "Greater Healing Potion": {
+    "id": 1710,
+    "quality": 1,
+    "icon": "inv_potion_52",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Liferoot": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ]
+  },
+  "Elixir of Minor Defense": {
+    "id": 5997,
+    "quality": 1,
+    "icon": "inv_potion_63",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Silverleaf": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      1,
+      55,
+      75,
+      95
+    ]
+  },
+  "Small Flame Sac": {
+    "id": 4402,
+    "quality": 1,
+    "icon": "inv_misc_organ_06"
+  },
+  "Fire Oil": {
+    "id": 6371,
+    "quality": 1,
+    "icon": "inv_potion_38",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Firefin Snapper": 2,
+      "Empty Vial": 1
+    },
+    "colors": [
+      130,
+      150,
+      160,
+      170
+    ]
+  },
+  "Fire Protection Potion": {
+    "id": 6049,
+    "quality": 1,
+    "icon": "inv_potion_16",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Small Flame Sac": 1,
+      "Fire Oil": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      165,
+      210,
+      230,
+      250
+    ]
+  },
+  "Frost Protection Potion": {
+    "id": 6050,
+    "quality": 1,
+    "icon": "inv_potion_13",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Wintersbite": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      190,
+      205,
+      225,
+      245
+    ]
+  },
+  "Holy Protection Potion": {
+    "id": 6051,
+    "quality": 1,
+    "icon": "inv_potion_09",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bruiseweed": 1,
+      "Swiftthistle": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ]
+  },
+  "Nature Protection Potion": {
+    "id": 6052,
+    "quality": 1,
+    "icon": "inv_potion_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Liferoot": 1,
+      "Stranglekelp": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ]
+  },
+  "Shadow Protection Potion": {
+    "id": 6048,
+    "quality": 1,
+    "icon": "inv_potion_44",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Grave Moss": 1,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      135,
+      160,
+      180,
+      200
+    ]
+  },
+  "Oily Blackmouth": {
+    "id": 6358,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_04"
+  },
+  "Firefin Snapper": {
+    "id": 6359,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_01"
+  },
+  "Swim Speed Potion": {
+    "id": 6372,
+    "quality": 1,
+    "icon": "inv_potion_13",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Swiftthistle": 1,
+      "Blackmouth Oil": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ]
+  },
+  "Elixir of Firepower": {
+    "id": 6373,
+    "quality": 1,
+    "icon": "inv_potion_33",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Fire Oil": 2,
+      "Kingsblood": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ]
+  },
+  "Deviate Fish": {
+    "id": 6522,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_01"
+  },
+  "Elixir of Giant Growth": {
+    "id": 6662,
+    "quality": 1,
+    "icon": "inv_potion_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Deviate Fish": 1,
+      "Earthroot": 1,
+      "Empty Vial": 1
+    },
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ]
+  },
+  "Elixir of Waterwalking": {
+    "reagents": {
+      "Blackmouth Oil": 1,
+      "Liferoot": 1,
+      "Leaded Vial": 1
+    }
+  },
+  "Elixir of Agility": {
+    "id": 8949,
+    "quality": 1,
+    "icon": "inv_potion_93",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Stranglekelp": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      185,
+      205,
+      225,
+      245
+    ]
+  },
+  "Elixir of Greater Defense": {
+    "id": 8951,
+    "quality": 1,
+    "icon": "inv_potion_65",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Wild Steelbloom": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ]
+  },
+  "Firebloom": {
+    "id": 4625,
+    "quality": 1,
+    "icon": "inv_misc_herb_19"
+  },
+  "Crystal Vial": {
+    "id": 8925,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 500
+  },
+  "Oil of Immolation": {
+    "id": 8956,
+    "quality": 1,
+    "icon": "inv_potion_11",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Firebloom": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      205,
+      220,
+      240,
+      260
+    ]
+  },
+  "Greater Mana Potion": {
+    "id": 6149,
+    "quality": 1,
+    "icon": "inv_potion_73",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Khadgar's Whisker": 1,
+      "Goldthorn": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      205,
+      220,
+      240,
+      260
+    ]
+  },
+  "Elemental Earth": {
+    "id": 7067,
+    "quality": 1,
+    "icon": "inv_ore_iron_01"
+  },
+  "Restorative Potion": {
+    "id": 9030,
+    "quality": 1,
+    "icon": "inv_potion_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Elemental Earth": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      215,
+      225,
+      245,
+      265
+    ]
+  },
+  "Purple Lotus": {
+    "id": 8831,
+    "quality": 1,
+    "icon": "inv_misc_herb_17"
+  },
+  "Magic Resistance Potion": {
+    "id": 9036,
+    "quality": 1,
+    "icon": "inv_potion_16",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Khadgar's Whisker": 1,
+      "Purple Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      210,
+      225,
+      245,
+      265
+    ]
+  },
+  "Volatile Rum": {
+    "id": 9260,
+    "quality": 1,
+    "icon": "inv_drink_01"
+  },
+  "Goblin Rocket Fuel": {
+    "id": 9061,
+    "quality": 1,
+    "icon": "inv_cask_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Firebloom": 1,
+      "Volatile Rum": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      210,
+      225,
+      245,
+      265
+    ]
+  },
+  "Sungrass": {
+    "id": 8838,
+    "quality": 1,
+    "icon": "inv_misc_herb_18"
+  },
+  "Superior Healing Potion": {
+    "id": 3928,
+    "quality": 1,
+    "icon": "inv_potion_53",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Sungrass": 1,
+      "Khadgar's Whisker": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      215,
+      230,
+      250,
+      270
+    ]
+  },
+  "Wildvine": {
+    "id": 8153,
+    "quality": 1,
+    "icon": "inv_misc_herb_03"
+  },
+  "Wildvine Potion": {
+    "id": 9144,
+    "quality": 1,
+    "icon": "inv_potion_34",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Wildvine": 1,
+      "Purple Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ]
+  },
+  "Iron Bar": {
+    "id": 3575,
+    "quality": 1,
+    "icon": "inv_ingot_iron"
+  },
+  "Black Vitriol": {
+    "id": 9262,
+    "quality": 1,
+    "icon": "inv_misc_gem_sapphire_03"
+  },
+  "Philosopher's Stone": {
+    "id": 9149,
+    "quality": 2,
+    "icon": "inv_misc_orb_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Iron Bar": 4,
+      "Black Vitriol": 1,
+      "Purple Lotus": 4,
+      "Firebloom": 4
+    },
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ]
+  },
+  "Arthas' Tears": {
+    "id": 8836,
+    "quality": 1,
+    "icon": "inv_misc_herb_13"
+  },
+  "Elixir of Detect Undead": {
+    "id": 9154,
+    "quality": 1,
+    "icon": "inv_potion_53",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Arthas' Tears": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      230,
+      245,
+      265,
+      285
+    ]
+  },
+  "Blindweed": {
+    "id": 8839,
+    "quality": 1,
+    "icon": "inv_misc_herb_14"
+  },
+  "Arcane Elixir": {
+    "id": 9155,
+    "quality": 1,
+    "icon": "inv_potion_30",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Blindweed": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      235,
+      250,
+      270,
+      290
+    ]
+  },
+  "Ghost Mushroom": {
+    "id": 8845,
+    "quality": 1,
+    "icon": "inv_mushroom_08"
+  },
+  "Invisibility Potion": {
+    "id": 9172,
+    "quality": 1,
+    "icon": "inv_potion_25",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Ghost Mushroom": 1,
+      "Sungrass": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      235,
+      250,
+      270,
+      290
+    ]
+  },
+  "Elixir of Greater Intellect": {
+    "id": 9179,
+    "quality": 1,
+    "icon": "inv_potion_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Blindweed": 1,
+      "Khadgar's Whisker": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      235,
+      250,
+      270,
+      290
+    ]
+  },
+  "Gift of Arthas": {
+    "id": 9088,
+    "quality": 1,
+    "icon": "inv_potion_28",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Arthas' Tears": 1,
+      "Blindweed": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      240,
+      255,
+      275,
+      295
+    ]
+  },
+  "Elixir of Greater Agility": {
+    "id": 9187,
+    "quality": 1,
+    "icon": "inv_potion_94",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Sungrass": 1,
+      "Goldthorn": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      240,
+      255,
+      275,
+      295
+    ]
+  },
+  "Elixir of Dream Vision": {
+    "id": 9197,
+    "quality": 1,
+    "icon": "inv_potion_14",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Purple Lotus": 3,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      240,
+      255,
+      275,
+      295
+    ]
+  },
+  "Gromsblood": {
+    "id": 8846,
+    "quality": 1,
+    "icon": "inv_misc_herb_16"
+  },
+  "Elixir of Giants": {
+    "id": 9206,
+    "quality": 1,
+    "icon": "inv_potion_61",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Sungrass": 1,
+      "Gromsblood": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      245,
+      260,
+      280,
+      300
+    ]
+  },
+  "Purple Dye": {
+    "id": 4342,
+    "quality": 1,
+    "icon": "inv_potion_02",
+    "vendor": 2500
+  },
+  "Ghost Dye": {
+    "id": 9210,
+    "quality": 1,
+    "icon": "inv_poison_mindnumbing",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ghost Mushroom": 2,
+      "Purple Dye": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      245,
+      260,
+      280,
+      300
+    ]
+  },
+  "Elixir of Shadow Power": {
+    "id": 9264,
+    "quality": 1,
+    "icon": "inv_potion_46",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ghost Mushroom": 3,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ]
+  },
+  "Elixir of Demonslaying": {
+    "id": 9224,
+    "quality": 1,
+    "icon": "inv_potion_27",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Gromsblood": 1,
+      "Ghost Mushroom": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ]
+  },
+  "Elixir of Detect Demon": {
+    "id": 9233,
+    "quality": 1,
+    "icon": "inv_potion_53",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Gromsblood": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ]
+  },
+  "Transmute: Iron to Gold": {
+    "source": 5,
+    "reagents": {
+      "Iron Bar": 1
+    },
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ]
+  },
+  "Mithril Bar": {
+    "id": 3860,
+    "quality": 1,
+    "icon": "inv_ingot_06"
+  },
+  "Transmute: Mithril to Truesilver": {
+    "source": 5,
+    "reagents": {
+      "Mithril Bar": 1
+    },
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ]
+  },
+  "Catseye Elixir": {
+    "id": 10592,
+    "quality": 1,
+    "icon": "inv_potion_36",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Goldthorn": 1,
+      "Fadeleaf": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ]
+  },
+  "Dreamless Sleep Potion": {
+    "id": 12190,
+    "quality": 1,
+    "icon": "inv_potion_83",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Purple Lotus": 3,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      230,
+      245,
+      265,
+      285
+    ]
+  },
+  "Thorium Bar": {
+    "id": 12359,
+    "quality": 1,
+    "icon": "inv_ingot_07"
+  },
+  "Arcane Crystal": {
+    "id": 12363,
+    "quality": 2,
+    "icon": "inv_misc_gem_topaz_01"
+  },
+  "Transmute: Arcanite": {
+    "source": 5,
+    "reagents": {
+      "Thorium Bar": 1,
+      "Arcane Crystal": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Stonescale Eel": {
+    "id": 13422,
+    "quality": 1,
+    "icon": "inv_misc_fish_11"
+  },
+  "Stonescale Oil": {
+    "id": 13423,
+    "quality": 1,
+    "icon": "inv_potion_68",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Stonescale Eel": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ]
+  },
+  "Mighty Rage Potion": {
+    "id": 13442,
+    "quality": 1,
+    "icon": "inv_potion_41",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Gromsblood": 3,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      255,
+      270,
+      290,
+      310
+    ]
+  },
+  "Superior Mana Potion": {
+    "id": 13443,
+    "quality": 1,
+    "icon": "inv_potion_74",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Sungrass": 2,
+      "Blindweed": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      260,
+      275,
+      295,
+      315
+    ]
+  },
+  "Elixir of Superior Defense": {
+    "id": 13445,
+    "quality": 1,
+    "icon": "inv_potion_66",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Stonescale Oil": 2,
+      "Sungrass": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      265,
+      280,
+      300,
+      320
+    ]
+  },
+  "Dreamfoil": {
+    "id": 13463,
+    "quality": 1,
+    "icon": "inv_misc_herb_dreamfoil"
+  },
+  "Plaguebloom": {
+    "id": 13466,
+    "quality": 1,
+    "icon": "inv_misc_herb_plaguebloom"
+  },
+  "Elixir of the Sages": {
+    "id": 13447,
+    "quality": 1,
+    "icon": "inv_potion_29",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Dreamfoil": 1,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      270,
+      285,
+      305,
+      325
+    ]
+  },
+  "Golden Sansam": {
+    "id": 13464,
+    "quality": 1,
+    "icon": "inv_misc_herb_sansamroot"
+  },
+  "Mountain Silversage": {
+    "id": 13465,
+    "quality": 1,
+    "icon": "inv_misc_herb_mountainsilversage"
+  },
+  "Major Healing Potion": {
+    "id": 13446,
+    "quality": 1,
+    "icon": "inv_potion_54",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Golden Sansam": 2,
+      "Mountain Silversage": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ]
+  },
+  "Elixir of Brute Force": {
+    "id": 13453,
+    "quality": 1,
+    "icon": "inv_potion_59",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Gromsblood": 2,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ]
+  },
+  "Essence of Air": {
+    "id": 7082,
+    "quality": 2,
+    "icon": "spell_nature_earthbind"
+  },
+  "Transmute: Air to Fire": {
+    "source": 5,
+    "faction": 529,
+    "reagents": {
+      "Essence of Air": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Essence of Earth": {
+    "id": 7076,
+    "quality": 2,
+    "icon": "spell_nature_strengthofearthtotem02"
+  },
+  "Transmute: Earth to Water": {
+    "source": 5,
+    "faction": 576,
+    "reagents": {
+      "Essence of Earth": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Transmute: Earth to Life": {
+    "source": 2,
+    "reagents": {
+      "Essence of Earth": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Essence of Fire": {
+    "id": 7078,
+    "quality": 2,
+    "icon": "spell_fire_volcano"
+  },
+  "Transmute: Fire to Earth": {
+    "source": 5,
+    "reagents": {
+      "Essence of Fire": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Essence of Undeath": {
+    "id": 12808,
+    "quality": 2,
+    "icon": "spell_shadow_shadetruesight"
+  },
+  "Transmute: Undeath to Water": {
+    "source": 2,
+    "reagents": {
+      "Essence of Undeath": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Essence of Water": {
+    "id": 7080,
+    "quality": 2,
+    "icon": "spell_nature_acid_01"
+  },
+  "Transmute: Water to Air": {
+    "source": 5,
+    "reagents": {
+      "Essence of Water": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Transmute: Water to Undeath": {
+    "source": 2,
+    "reagents": {
+      "Essence of Water": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Living Essence": {
+    "id": 12803,
+    "quality": 2,
+    "icon": "spell_nature_abolishmagic"
+  },
+  "Transmute: Life to Earth": {
+    "source": 2,
+    "reagents": {
+      "Living Essence": 1
+    },
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ]
+  },
+  "Thorium Ore": {
+    "id": 10620,
+    "quality": 1,
+    "icon": "inv_ore_thorium_02"
+  },
+  "Greater Stoneshield Potion": {
+    "id": 13455,
+    "quality": 1,
+    "icon": "inv_potion_69",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Stonescale Oil": 2,
+      "Thorium Ore": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      280,
+      295,
+      315,
+      335
+    ]
+  },
+  "Elixir of the Mongoose": {
+    "id": 13452,
+    "quality": 1,
+    "icon": "inv_potion_32",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mountain Silversage": 2,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      280,
+      295,
+      315,
+      335
+    ]
+  },
+  "Icecap": {
+    "id": 13467,
+    "quality": 1,
+    "icon": "inv_misc_herb_icecap"
+  },
+  "Purification Potion": {
+    "id": 13462,
+    "quality": 1,
+    "icon": "inv_potion_31",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Icecap": 2,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      285,
+      300,
+      320,
+      340
+    ]
+  },
+  "Greater Arcane Elixir": {
+    "id": 13454,
+    "quality": 1,
+    "icon": "inv_potion_25",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Dreamfoil": 3,
+      "Mountain Silversage": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      285,
+      300,
+      320,
+      340
+    ]
+  },
+  "Elemental Fire": {
+    "id": 7068,
+    "quality": 1,
+    "icon": "spell_fire_fire"
+  },
+  "Greater Fire Protection Potion": {
+    "id": 13457,
+    "quality": 1,
+    "icon": "inv_potion_24",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Elemental Fire": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ]
+  },
+  "Elemental Water": {
+    "id": 7070,
+    "quality": 1,
+    "icon": "inv_potion_03"
+  },
+  "Greater Frost Protection Potion": {
+    "id": 13456,
+    "quality": 1,
+    "icon": "inv_potion_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Elemental Water": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ]
+  },
+  "Greater Nature Protection Potion": {
+    "id": 13458,
+    "quality": 1,
+    "icon": "inv_potion_22",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Elemental Earth": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ]
+  },
+  "Dream Dust": {
+    "id": 11176,
+    "quality": 1,
+    "icon": "inv_enchant_dustdream"
+  },
+  "Greater Arcane Protection Potion": {
+    "id": 13461,
+    "quality": 1,
+    "icon": "inv_potion_83",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Dream Dust": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ]
+  },
+  "Greater Shadow Protection Potion": {
+    "id": 13459,
+    "quality": 1,
+    "icon": "inv_potion_23",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Shadow Oil": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ]
+  },
+  "Elemental Air": {
+    "id": 7069,
+    "quality": 1,
+    "icon": "spell_nature_tranquility"
+  },
+  "Greater Holy Protection Potion": {
+    "id": 13460,
+    "quality": 1,
+    "icon": "inv_potion_09",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Elemental Air": 1,
+      "Dreamfoil": 1,
+      "Crystal Vial": 1
+    }
+  },
+  "Major Mana Potion": {
+    "id": 13444,
+    "quality": 1,
+    "icon": "inv_potion_76",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Dreamfoil": 3,
+      "Icecap": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      295,
+      310,
+      330,
+      350
+    ]
+  },
+  "Earthstorm Diamond": {
+    "id": 25867,
+    "quality": 3,
+    "icon": "inv_misc_gem_diamond_04"
+  },
+  "Skyfire Diamond": {
+    "id": 25868,
+    "quality": 3,
+    "icon": "inv_misc_gem_diamond_05"
+  },
+  "Fel Lotus": {
+    "id": 22794,
+    "quality": 1,
+    "icon": "inv_misc_herb_fellotus"
+  },
+  "Primal Might": {
+    "id": 23571,
+    "quality": 3,
+    "icon": "spell_nature_lightningoverload"
+  },
+  "Alchemist's Stone": {
+    "id": 13503,
+    "quality": 4,
+    "icon": "spell_holy_pureofheart",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Philosopher's Stone": 1,
+      "Earthstorm Diamond": 1,
+      "Skyfire Diamond": 1,
+      "Fel Lotus": 2,
+      "Primal Might": 5
+    },
+    "colors": [
+      300,
+      365,
+      372,
+      380
+    ]
+  },
+  "Black Lotus": {
+    "id": 13468,
+    "quality": 2,
+    "icon": "inv_misc_herb_blacklotus"
+  },
+  "Flask of Petrification": {
+    "id": 13506,
+    "quality": 1,
+    "icon": "inv_potion_26",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Stonescale Oil": 7,
+      "Mountain Silversage": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Flask of the Titans": {
+    "id": 13510,
+    "quality": 1,
+    "icon": "inv_potion_62",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Gromsblood": 7,
+      "Stonescale Oil": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Flask of Distilled Wisdom": {
+    "id": 13511,
+    "quality": 1,
+    "icon": "inv_potion_97",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Dreamfoil": 7,
+      "Icecap": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Flask of Supreme Power": {
+    "id": 13512,
+    "quality": 1,
+    "icon": "inv_potion_41",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 989,
+    "reagents": {
+      "Dreamfoil": 7,
+      "Mountain Silversage": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Flask of Chromatic Resistance": {
+    "id": 13513,
+    "quality": 1,
+    "icon": "inv_potion_48",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 1011,
+    "reagents": {
+      "Icecap": 7,
+      "Mountain Silversage": 3,
+      "Black Lotus": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Limited Invulnerability Potion": {
+    "id": 3387,
+    "quality": 1,
+    "icon": "inv_potion_62",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Blindweed": 2,
+      "Ghost Mushroom": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      250,
+      275,
+      295,
+      315
+    ]
+  },
+  "Elixir of Frost Power": {
+    "id": 17708,
+    "quality": 1,
+    "icon": "inv_potion_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Wintersbite": 2,
+      "Khadgar's Whisker": 1,
+      "Leaded Vial": 1
+    },
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ]
+  },
+  "Heart of the Wild": {
+    "id": 10286,
+    "quality": 1,
+    "icon": "inv_misc_herb_08"
+  },
+  "Imbued Vial": {
+    "id": 18256,
+    "quality": 1,
+    "icon": "inv_drink_06",
+    "vendor": 6000
+  },
+  "Major Rejuvenation Potion": {
+    "id": 18253,
+    "quality": 1,
+    "icon": "inv_potion_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Heart of the Wild": 1,
+      "Golden Sansam": 4,
+      "Dreamfoil": 4,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ]
+  },
+  "Ichor of Undeath": {
+    "id": 7972,
+    "quality": 1,
+    "icon": "inv_misc_slime_01"
+  },
+  "Elixir of Greater Water Breathing": {
+    "id": 18294,
+    "quality": 1,
+    "icon": "inv_potion_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Ichor of Undeath": 1,
+      "Purple Lotus": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      215,
+      230,
+      250,
+      270
+    ]
+  },
+  "Blood of Heroes": {
+    "id": 12938,
+    "quality": 1,
+    "icon": "inv_potion_33"
+  },
+  "Massive Mojo": {
+    "id": 19943,
+    "quality": 1,
+    "icon": "spell_nature_strength"
+  },
+  "Powerful Mojo": {
+    "id": 12804,
+    "quality": 1,
+    "icon": "spell_nature_astralrecalgroup"
+  },
+  "Gurubashi Mojo Madness": {
+    "id": 19931,
+    "quality": 3,
+    "icon": "inv_poison_mindnumbing",
+    "craftMin": 3,
+    "craftMax": 3,
+    "reagents": {
+      "Blood of Heroes": 1,
+      "Massive Mojo": 1,
+      "Powerful Mojo": 6,
+      "Black Lotus": 1
+    },
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ]
+  },
+  "Mageblood Potion": {
+    "id": 20007,
+    "quality": 1,
+    "icon": "inv_potion_45",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Dreamfoil": 1,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ]
+  },
+  "Greater Dreamless Sleep Potion": {
+    "id": 20002,
+    "quality": 1,
+    "icon": "inv_potion_83",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Dreamfoil": 2,
+      "Golden Sansam": 1,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ]
+  },
+  "Living Action Potion": {
+    "id": 20008,
+    "quality": 1,
+    "icon": "inv_potion_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Icecap": 2,
+      "Mountain Silversage": 2,
+      "Heart of the Wild": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      285,
+      300,
+      320,
+      340
+    ]
+  },
+  "Major Troll's Blood Potion": {
+    "id": 20004,
+    "quality": 1,
+    "icon": "inv_potion_80",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 270,
+    "reagents": {
+      "Gromsblood": 1,
+      "Plaguebloom": 2,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ]
+  },
+  "Heart of Fire": {
+    "id": 7077,
+    "quality": 1,
+    "icon": "spell_fire_lavaspawn"
+  },
+  "Transmute: Elemental Fire": {
+    "source": 5,
+    "faction": 59,
+    "reagents": {
+      "Heart of Fire": 1
+    },
+    "colors": [
+      300,
+      301,
+      305,
+      310
+    ]
+  },
+  "Elixir of Greater Firepower": {
+    "id": 21546,
+    "quality": 1,
+    "icon": "inv_potion_60",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Fire Oil": 3,
+      "Firebloom": 3,
+      "Crystal Vial": 1
+    },
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ]
+  },
+  "Ragveil": {
+    "id": 22787,
+    "quality": 1,
+    "icon": "inv_misc_herb_ragveil"
+  },
+  "Felweed": {
+    "id": 22785,
+    "quality": 1,
+    "icon": "inv_misc_herb_felweed"
+  },
+  "Elixir of Camouflage": {
+    "id": 22823,
+    "quality": 1,
+    "icon": "inv_potion_150",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ragveil": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      305,
+      320,
+      327,
+      335
+    ]
+  },
+  "Elixir of Major Strength": {
+    "id": 22824,
+    "quality": 1,
+    "icon": "inv_potion_147",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mountain Silversage": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      305,
+      320,
+      327,
+      335
+    ]
+  },
+  "Dreaming Glory": {
+    "id": 22786,
+    "quality": 1,
+    "icon": "inv_misc_herb_dreamingglory"
+  },
+  "Elixir of Healing Power": {
+    "id": 22825,
+    "quality": 1,
+    "icon": "inv_potion_142",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Golden Sansam": 1,
+      "Dreaming Glory": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      310,
+      325,
+      332,
+      340
+    ]
+  },
+  "Sneaking Potion": {
+    "id": 22826,
+    "quality": 1,
+    "icon": "inv_potion_110",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ragveil": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      315,
+      330,
+      337,
+      345
+    ]
+  },
+  "Mote of Water": {
+    "id": 22578,
+    "quality": 1,
+    "icon": "inv_elemental_mote_water01"
+  },
+  "Ancient Lichen": {
+    "id": 22790,
+    "quality": 1,
+    "icon": "inv_misc_herb_ancientlichen"
+  },
+  "Elixir of Major Frost Power": {
+    "id": 22827,
+    "quality": 1,
+    "icon": "inv_potion_148",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mote of Water": 2,
+      "Ancient Lichen": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      320,
+      335,
+      342,
+      350
+    ]
+  },
+  "Terocone": {
+    "id": 22789,
+    "quality": 1,
+    "icon": "inv_misc_herb_terrocone"
+  },
+  "Insane Strength Potion": {
+    "id": 22828,
+    "quality": 1,
+    "icon": "inv_potion_109",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Terocone": 3,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      320,
+      335,
+      342,
+      350
+    ]
+  },
+  "Elixir of the Searching Eye": {
+    "id": 22830,
+    "quality": 1,
+    "icon": "inv_potion_135",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Ragveil": 2,
+      "Terocone": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      325,
+      340,
+      347,
+      355
+    ]
+  },
+  "Netherbloom": {
+    "id": 22791,
+    "quality": 1,
+    "icon": "inv_misc_herb_netherbloom"
+  },
+  "Super Healing Potion": {
+    "id": 22829,
+    "quality": 1,
+    "icon": "inv_potion_131",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Netherbloom": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      325,
+      340,
+      347,
+      355
+    ]
+  },
+  "Elixir of Major Agility": {
+    "id": 22831,
+    "quality": 1,
+    "icon": "inv_potion_127",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 947,
+    "reagents": {
+      "Terocone": 1,
+      "Felweed": 2,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      330,
+      345,
+      352,
+      360
+    ]
+  },
+  "Shrouding Potion": {
+    "id": 22871,
+    "quality": 1,
+    "icon": "inv_potion_144",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 970,
+    "reagents": {
+      "Ragveil": 3,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      335,
+      350,
+      357,
+      365
+    ]
+  },
+  "Super Mana Potion": {
+    "id": 22832,
+    "quality": 1,
+    "icon": "inv_potion_137",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Dreaming Glory": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      340,
+      355,
+      362,
+      370
+    ]
+  },
+  "Mote of Fire": {
+    "id": 22574,
+    "quality": 1,
+    "icon": "inv_elemental_mote_fire01"
+  },
+  "Elixir of Major Firepower": {
+    "id": 22833,
+    "quality": 1,
+    "icon": "inv_potion_146",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 934,
+    "reagents": {
+      "Mote of Fire": 2,
+      "Ancient Lichen": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      345,
+      360,
+      367,
+      375
+    ]
+  },
+  "Elixir of Major Defense": {
+    "id": 22834,
+    "quality": 1,
+    "icon": "inv_potion_122",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ancient Lichen": 3,
+      "Terocone": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      345,
+      360,
+      367,
+      375
+    ]
+  },
+  "Nightmare Vine": {
+    "id": 22792,
+    "quality": 1,
+    "icon": "inv_misc_herb_nightmarevine"
+  },
+  "Elixir of Major Shadow Power": {
+    "id": 22835,
+    "quality": 1,
+    "icon": "inv_potion_145",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 1011,
+    "reagents": {
+      "Ancient Lichen": 1,
+      "Nightmare Vine": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Major Dreamless Sleep Potion": {
+    "id": 22836,
+    "quality": 1,
+    "icon": "inv_potion_139",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Dreaming Glory": 1,
+      "Nightmare Vine": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Heroic Potion": {
+    "id": 22837,
+    "quality": 1,
+    "icon": "inv_potion_106",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Terocone": 2,
+      "Ancient Lichen": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Haste Potion": {
+    "id": 22838,
+    "quality": 1,
+    "icon": "inv_potion_108",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Terocone": 2,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Destruction Potion": {
+    "id": 22839,
+    "quality": 1,
+    "icon": "inv_potion_107",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Nightmare Vine": 2,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Primal Air": {
+    "id": 22451,
+    "quality": 2,
+    "icon": "inv_elemental_primal_air"
+  },
+  "Transmute: Primal Air to Fire": {
+    "source": 5,
+    "faction": 935,
+    "reagents": {
+      "Primal Air": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Primal Earth": {
+    "id": 22452,
+    "quality": 2,
+    "icon": "inv_elemental_primal_earth"
+  },
+  "Transmute: Primal Earth to Water": {
+    "source": 5,
+    "faction": 970,
+    "reagents": {
+      "Primal Earth": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Primal Fire": {
+    "id": 21884,
+    "quality": 2,
+    "icon": "inv_elemental_primal_fire"
+  },
+  "Transmute: Primal Fire to Earth": {
+    "source": 5,
+    "faction": 978,
+    "reagents": {
+      "Primal Fire": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Primal Water": {
+    "id": 21885,
+    "quality": 2,
+    "icon": "inv_elemental_primal_water"
+  },
+  "Transmute: Primal Water to Air": {
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Primal Water": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Elixir of Major Mageblood": {
+    "id": 22840,
+    "quality": 1,
+    "icon": "inv_potion_151",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Ancient Lichen": 1,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      355,
+      370,
+      377,
+      385
+    ]
+  },
+  "Primal Mana": {
+    "id": 22457,
+    "quality": 2,
+    "icon": "inv_elemental_primal_mana"
+  },
+  "Mana Thistle": {
+    "id": 22793,
+    "quality": 1,
+    "icon": "inv_misc_herb_manathistle"
+  },
+  "Major Arcane Protection Potion": {
+    "id": 22845,
+    "quality": 1,
+    "icon": "inv_potion_128",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 2,
+    "reagents": {
+      "Primal Mana": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Major Fire Protection Potion": {
+    "id": 22841,
+    "quality": 1,
+    "icon": "inv_potion_124",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 2,
+    "reagents": {
+      "Primal Fire": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Major Frost Protection Potion": {
+    "id": 22842,
+    "quality": 1,
+    "icon": "inv_potion_126",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 2,
+    "reagents": {
+      "Primal Water": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Primal Life": {
+    "id": 21886,
+    "quality": 2,
+    "icon": "inv_elemental_primal_life"
+  },
+  "Major Holy Protection Potion": {
+    "id": 22847,
+    "quality": 1,
+    "icon": "inv_potion_125",
+    "craftMin": 5,
+    "craftMax": 5,
+    "reagents": {
+      "Primal Life": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Major Nature Protection Potion": {
+    "id": 22844,
+    "quality": 1,
+    "icon": "inv_potion_127",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Primal Life": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Primal Shadow": {
+    "id": 22456,
+    "quality": 2,
+    "icon": "inv_elemental_primal_shadow"
+  },
+  "Major Shadow Protection Potion": {
+    "id": 22846,
+    "quality": 1,
+    "icon": "inv_potion_123",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 2,
+    "reagents": {
+      "Primal Shadow": 1,
+      "Mana Thistle": 3,
+      "Imbued Vial": 5
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Elixir of Empowerment": {
+    "id": 22848,
+    "quality": 1,
+    "icon": "inv_potion_136",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Netherbloom": 1,
+      "Mana Thistle": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      365,
+      380,
+      387,
+      395
+    ]
+  },
+  "Mote of Earth": {
+    "id": 22573,
+    "quality": 1,
+    "icon": "inv_elemental_mote_earth01"
+  },
+  "Ironshield Potion": {
+    "id": 22849,
+    "quality": 1,
+    "icon": "inv_potion_133",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Ancient Lichen": 2,
+      "Mote of Earth": 3,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      365,
+      380,
+      387,
+      395
+    ]
+  },
+  "Transmute: Primal Earth to Life": {
+    "reagents": {
+      "Primal Earth": 1
+    },
+    "colors": [
+      0,
+      385,
+      392,
+      400
+    ]
+  },
+  "Transmute: Primal Fire to Mana": {
+    "reagents": {
+      "Primal Fire": 1
+    },
+    "colors": [
+      0,
+      385,
+      392,
+      400
+    ]
+  },
+  "Transmute: Primal Life to Earth": {
+    "reagents": {
+      "Primal Life": 1
+    },
+    "colors": [
+      0,
+      385,
+      392,
+      400
+    ]
+  },
+  "Transmute: Primal Mana to Fire": {
+    "reagents": {
+      "Primal Mana": 1
+    },
+    "colors": [
+      0,
+      385,
+      392,
+      400
+    ]
+  },
+  "Transmute: Primal Shadow to Water": {
+    "reagents": {
+      "Primal Shadow": 1
+    },
+    "colors": [
+      0,
+      385,
+      392,
+      400
+    ]
+  },
+  "Transmute: Primal Water to Shadow": {
+    "reagents": {
+      "Primal Water": 1
+    },
+    "colors": [
+      0,
+      385,
+      392,
+      400
+    ]
+  },
+  "Super Rejuvenation Potion": {
+    "id": 22850,
+    "quality": 1,
+    "icon": "inv_potion_134",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Mana Thistle": 2,
+      "Dreaming Glory": 1,
+      "Netherbloom": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      0,
+      390,
+      397,
+      405
+    ]
+  },
+  "Flask of Blinding Light": {
+    "id": 22861,
+    "quality": 1,
+    "icon": "inv_potion_116",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Netherbloom": 7,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      0,
+      390,
+      397,
+      405
+    ]
+  },
+  "Flask of Fortification": {
+    "id": 22851,
+    "quality": 1,
+    "icon": "inv_potion_119",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Ancient Lichen": 7,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      0,
+      390,
+      397,
+      405
+    ]
+  },
+  "Flask of Mighty Restoration": {
+    "id": 22853,
+    "quality": 1,
+    "icon": "inv_potion_118",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Dreaming Glory": 7,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      0,
+      390,
+      397,
+      405
+    ]
+  },
+  "Flask of Relentless Assault": {
+    "id": 22854,
+    "quality": 1,
+    "icon": "inv_potion_117",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Terocone": 7,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      0,
+      390,
+      397,
+      405
+    ]
+  },
+  "Flask of Pure Death": {
+    "id": 22866,
+    "quality": 1,
+    "icon": "inv_potion_115",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Fel Lotus": 1,
+      "Mana Thistle": 3,
+      "Nightmare Vine": 7,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      0,
+      390,
+      397,
+      405
+    ]
+  },
+  "Transmute: Primal Might": {
+    "source": 5,
+    "reagents": {
+      "Primal Earth": 1,
+      "Primal Water": 1,
+      "Primal Air": 1,
+      "Primal Fire": 1,
+      "Primal Mana": 1
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Deep Peridot": {
+    "id": 23079,
+    "quality": 2,
+    "icon": "inv_misc_gem_deepperidot_03"
+  },
+  "Shadow Draenite": {
+    "id": 23107,
+    "quality": 2,
+    "icon": "inv_misc_gem_ebondraenite_03"
+  },
+  "Golden Draenite": {
+    "id": 23112,
+    "quality": 2,
+    "icon": "inv_misc_gem_goldendraenite_03"
+  },
+  "Transmute: Earthstorm Diamond": {
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Deep Peridot": 3,
+      "Shadow Draenite": 3,
+      "Golden Draenite": 3,
+      "Primal Earth": 2,
+      "Primal Water": 2
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Blood Garnet": {
+    "id": 23077,
+    "quality": 2,
+    "icon": "inv_misc_gem_bloodgem_03"
+  },
+  "Flame Spessarite": {
+    "id": 21929,
+    "quality": 2,
+    "icon": "inv_misc_gem_flamespessarite_03"
+  },
+  "Azure Moonstone": {
+    "id": 23117,
+    "quality": 2,
+    "icon": "inv_misc_gem_azuredraenite_03"
+  },
+  "Transmute: Skyfire Diamond": {
+    "source": 5,
+    "faction": 947,
+    "reagents": {
+      "Blood Garnet": 3,
+      "Flame Spessarite": 3,
+      "Azure Moonstone": 3,
+      "Primal Fire": 2,
+      "Primal Air": 2
+    },
+    "colors": [
+      350,
+      365,
+      372,
+      380
+    ]
+  },
+  "Volatile Healing Potion": {
+    "id": 28100,
+    "quality": 1,
+    "icon": "inv_potion_40",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Golden Sansam": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Onslaught Elixir": {
+    "id": 28102,
+    "quality": 1,
+    "icon": "inv_potion_58",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Mountain Silversage": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Adept's Elixir": {
+    "id": 28103,
+    "quality": 1,
+    "icon": "inv_potion_96",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Dreamfoil": 1,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ]
+  },
+  "Unstable Mana Potion": {
+    "id": 28101,
+    "quality": 1,
+    "icon": "inv_potion_75",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Ragveil": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      310,
+      325,
+      332,
+      340
+    ]
+  },
+  "Elixir of Mastery": {
+    "id": 28104,
+    "quality": 1,
+    "icon": "inv_potion_111",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Terocone": 3,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      315,
+      330,
+      337,
+      345
+    ]
+  },
+  "Mercurial Stone": {
+    "id": 31080,
+    "quality": 2,
+    "icon": "inv_misc_gem_lionseye_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Primal Earth": 1,
+      "Primal Life": 1,
+      "Primal Mana": 1
+    },
+    "colors": [
+      325,
+      340,
+      347,
+      355
+    ]
+  },
+  "Fel Strength Elixir": {
+    "id": 31679,
+    "quality": 1,
+    "icon": "inv_potion_152",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Terocone": 1,
+      "Nightmare Vine": 2,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      335,
+      350,
+      357,
+      365
+    ]
+  },
+  "Fel Regeneration Potion": {
+    "id": 31676,
+    "quality": 1,
+    "icon": "inv_potion_140",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Felweed": 2,
+      "Nightmare Vine": 3,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      345,
+      360,
+      367,
+      375
+    ]
+  },
+  "Fel Mana Potion": {
+    "id": 31677,
+    "quality": 1,
+    "icon": "inv_potion_138",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Mana Thistle": 1,
+      "Nightmare Vine": 2,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      360,
+      375,
+      382,
+      390
+    ]
+  },
+  "Elixir of Major Fortitude": {
+    "id": 32062,
+    "quality": 1,
+    "icon": "inv_potion_158",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Ragveil": 2,
+      "Felweed": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      310,
+      325,
+      332,
+      340
+    ]
+  },
+  "Earthen Elixir": {
+    "id": 32063,
+    "quality": 1,
+    "icon": "inv_potion_154",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "faction": 942,
+    "reagents": {
+      "Dreaming Glory": 1,
+      "Ragveil": 2,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      320,
+      335,
+      342,
+      350
+    ]
+  },
+  "Elixir of Draenic Wisdom": {
+    "id": 32067,
+    "quality": 1,
+    "icon": "inv_potion_155",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Felweed": 1,
+      "Terocone": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      320,
+      335,
+      342,
+      350
+    ]
+  },
+  "Elixir of Ironskin": {
+    "id": 32068,
+    "quality": 1,
+    "icon": "inv_potion_159",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ancient Lichen": 1,
+      "Ragveil": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      330,
+      345,
+      352,
+      360
+    ]
+  },
+  "Fel Iron Casing": {
+    "id": 23782,
+    "quality": 1,
+    "icon": "inv_gizmo_felironcasing"
+  },
+  "Cauldron of Major Arcane Protection": {
+    "id": 32839,
+    "quality": 1,
+    "icon": "inv_misc_cauldron_arcane",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Mana": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "colors": [
+      0,
+      360,
+      370,
+      380
+    ]
+  },
+  "Cauldron of Major Fire Protection": {
+    "id": 32849,
+    "quality": 1,
+    "icon": "inv_misc_cauldron_fire",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Fire": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "colors": [
+      0,
+      360,
+      370,
+      380
+    ]
+  },
+  "Cauldron of Major Frost Protection": {
+    "id": 32850,
+    "quality": 1,
+    "icon": "inv_misc_cauldron_frost",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Water": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "colors": [
+      0,
+      360,
+      370,
+      380
+    ]
+  },
+  "Cauldron of Major Nature Protection": {
+    "id": 32851,
+    "quality": 1,
+    "icon": "inv_misc_cauldron_nature",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Life": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "colors": [
+      0,
+      360,
+      370,
+      380
+    ]
+  },
+  "Cauldron of Major Shadow Protection": {
+    "id": 32852,
+    "quality": 1,
+    "icon": "inv_misc_cauldron_shadow",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Primal Shadow": 2,
+      "Mana Thistle": 7,
+      "Fel Iron Casing": 1
+    },
+    "colors": [
+      0,
+      360,
+      370,
+      380
+    ]
+  },
+  "Flask of Chromatic Wonder": {
+    "id": 33208,
+    "quality": 1,
+    "icon": "inv_potion_48",
+    "craftMin": 0,
+    "craftMax": 0,
+    "source": 5,
+    "faction": 967,
+    "reagents": {
+      "Dreaming Glory": 7,
+      "Netherbloom": 3,
+      "Fel Lotus": 1,
+      "Imbued Vial": 1
+    },
+    "colors": [
+      375,
+      390,
+      397,
+      405
+    ]
+  },
+  "Mad Alchemist's Potion": {
+    "id": 34440,
+    "quality": 1,
+    "icon": "inv_potion_28",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Crystal Vial": 1,
+      "Ragveil": 2
+    },
+    "colors": [
+      325,
+      335,
+      342,
+      350
+    ]
+  },
+  "Nether Vortex": {
+    "id": 30183,
+    "quality": 4,
+    "icon": "inv_elemental_mote_nether"
+  },
+  "Assassin's Alchemist Stone": {
+    "id": 35751,
+    "quality": 4,
+    "icon": "classic_spell_nature_healingway",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Shadow": 6,
+      "Nether Vortex": 2
+    },
+    "colors": [
+      375,
+      390,
+      397,
+      405
+    ]
+  },
+  "Guardian's Alchemist Stone": {
+    "id": 35748,
+    "quality": 4,
+    "icon": "classic_spell_nature_healingway",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Air": 6,
+      "Nether Vortex": 2
+    },
+    "colors": [
+      375,
+      390,
+      397,
+      405
+    ]
+  },
+  "Redeemer's Alchemist Stone": {
+    "id": 35750,
+    "quality": 4,
+    "icon": "classic_spell_nature_healingway",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Life": 6,
+      "Nether Vortex": 2
+    },
+    "colors": [
+      375,
+      390,
+      397,
+      405
+    ]
+  },
+  "Sorcerer's Alchemist Stone": {
+    "id": 35749,
+    "quality": 4,
+    "icon": "classic_spell_nature_healingway",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Alchemist's Stone": 1,
+      "Primal Fire": 6,
+      "Nether Vortex": 2
+    },
+    "colors": [
+      375,
+      390,
+      397,
+      405
+    ]
+  }
+}

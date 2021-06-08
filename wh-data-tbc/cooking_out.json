@@ -1,0 +1,2682 @@
+{
+  "Stringy Wolf Meat": {
+    "id": 2672,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Charred Wolf Meat": {
+    "id": 2679,
+    "quality": 1,
+    "icon": "inv_misc_food_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Stringy Wolf Meat": 1
+    },
+    "colors": [
+      0,
+      45,
+      65,
+      85
+    ]
+  },
+  "Mild Spices": {
+    "id": 2678,
+    "quality": 1,
+    "icon": "inv_misc_food_wheat_02",
+    "vendor": 10
+  },
+  "Spiced Wolf Meat": {
+    "id": 2680,
+    "quality": 1,
+    "icon": "inv_misc_food_65",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Stringy Wolf Meat": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      10,
+      50,
+      70,
+      90
+    ]
+  },
+  "Chunk of Boar Meat": {
+    "id": 769,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Roasted Boar Meat": {
+    "id": 2681,
+    "quality": 1,
+    "icon": "inv_misc_food_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Chunk of Boar Meat": 1
+    },
+    "colors": [
+      0,
+      45,
+      65,
+      85
+    ]
+  },
+  "Coyote Meat": {
+    "id": 2673,
+    "quality": 1,
+    "icon": "inv_misc_food_69"
+  },
+  "Coyote Steak": {
+    "id": 2684,
+    "quality": 1,
+    "icon": "inv_misc_food_65",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Coyote Meat": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Goretusk Liver": {
+    "id": 723,
+    "quality": 1,
+    "icon": "inv_misc_organ_04"
+  },
+  "Goretusk Liver Pie": {
+    "id": 724,
+    "quality": 1,
+    "icon": "inv_misc_food_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Goretusk Liver": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Stringy Vulture Meat": {
+    "id": 729,
+    "quality": 1,
+    "icon": "inv_misc_food_16"
+  },
+  "Murloc Eye": {
+    "id": 730,
+    "quality": 1,
+    "icon": "inv_misc_eye_01"
+  },
+  "Goretusk Snout": {
+    "id": 731,
+    "quality": 1,
+    "icon": "spell_magic_polymorphpig"
+  },
+  "Westfall Stew": {
+    "id": 733,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Stringy Vulture Meat": 1,
+      "Murloc Eye": 1,
+      "Goretusk Snout": 1
+    },
+    "colors": [
+      75,
+      115,
+      135,
+      155
+    ]
+  },
+  "Crawler Meat": {
+    "id": 2674,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Crab Cake": {
+    "id": 2683,
+    "quality": 1,
+    "icon": "inv_misc_food_08",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Crawler Meat": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      75,
+      115,
+      135,
+      155
+    ]
+  },
+  "Crawler Claw": {
+    "id": 2675,
+    "quality": 1,
+    "icon": "inv_misc_birdbeck_02"
+  },
+  "Cooked Crab Claw": {
+    "id": 2682,
+    "quality": 1,
+    "icon": "inv_misc_birdbeck_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Crawler Claw": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      85,
+      125,
+      145,
+      165
+    ]
+  },
+  "Boar Ribs": {
+    "id": 2677,
+    "quality": 1,
+    "icon": "inv_misc_food_16"
+  },
+  "Dry Pork Ribs": {
+    "id": 2687,
+    "quality": 1,
+    "icon": "inv_misc_food_48",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Boar Ribs": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      80,
+      120,
+      140,
+      160
+    ]
+  },
+  "Crisp Spider Meat": {
+    "id": 1081,
+    "quality": 1,
+    "icon": "inv_misc_monsterspidercarapace_01"
+  },
+  "Tough Condor Meat": {
+    "id": 1080,
+    "quality": 1,
+    "icon": "inv_misc_food_72"
+  },
+  "Redridge Goulash": {
+    "id": 1082,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Crisp Spider Meat": 1,
+      "Tough Condor Meat": 1
+    },
+    "colors": [
+      100,
+      135,
+      155,
+      175
+    ]
+  },
+  "Hot Spices": {
+    "id": 2692,
+    "quality": 1,
+    "icon": "inv_misc_food_wheat_02",
+    "vendor": 40
+  },
+  "Succulent Pork Ribs": {
+    "id": 2685,
+    "quality": 1,
+    "icon": "inv_misc_food_16",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Boar Ribs": 2,
+      "Hot Spices": 1
+    },
+    "colors": [
+      110,
+      130,
+      150,
+      170
+    ]
+  },
+  "Lean Wolf Flank": {
+    "id": 1015,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Stormwind Seasoning Herbs": {
+    "id": 2665,
+    "quality": 1,
+    "icon": "inv_misc_dust_02",
+    "vendor": 20
+  },
+  "Seasoned Wolf Kabob": {
+    "id": 1017,
+    "quality": 1,
+    "icon": "inv_misc_food_16",
+    "craftMin": 3,
+    "craftMax": 3,
+    "source": 4,
+    "reagents": {
+      "Lean Wolf Flank": 2,
+      "Stormwind Seasoning Herbs": 1
+    },
+    "colors": [
+      100,
+      140,
+      160,
+      180
+    ]
+  },
+  "Crag Boar Rib": {
+    "id": 2886,
+    "quality": 1,
+    "icon": "inv_misc_food_16"
+  },
+  "Rhapsody Malt": {
+    "id": 2894,
+    "quality": 1,
+    "icon": "inv_drink_13",
+    "vendor": 50
+  },
+  "Beer Basted Boar Ribs": {
+    "id": 2888,
+    "quality": 1,
+    "icon": "inv_misc_food_48",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Crag Boar Rib": 1,
+      "Rhapsody Malt": 1
+    },
+    "colors": [
+      25,
+      60,
+      80,
+      100
+    ]
+  },
+  "Crocolisk Meat": {
+    "id": 2924,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Crocolisk Steak": {
+    "id": 3662,
+    "quality": 1,
+    "icon": "inv_misc_food_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Crocolisk Meat": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      80,
+      120,
+      140,
+      160
+    ]
+  },
+  "Bear Meat": {
+    "id": 3173,
+    "quality": 1,
+    "icon": "inv_misc_food_71"
+  },
+  "Boar Intestines": {
+    "id": 3172,
+    "quality": 1,
+    "icon": "inv_misc_organ_05"
+  },
+  "Spider Ichor": {
+    "id": 3174,
+    "quality": 1,
+    "icon": "inv_misc_slime_01"
+  },
+  "Blood Sausage": {
+    "id": 3220,
+    "quality": 1,
+    "icon": "inv_misc_food_49",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 4,
+    "reagents": {
+      "Bear Meat": 1,
+      "Boar Intestines": 1,
+      "Spider Ichor": 1
+    },
+    "colors": [
+      60,
+      100,
+      120,
+      140
+    ]
+  },
+  "Murloc Fin": {
+    "id": 1468,
+    "quality": 1,
+    "icon": "inv_misc_monsterscales_02"
+  },
+  "Murloc Fin Soup": {
+    "id": 3663,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Murloc Fin": 2,
+      "Hot Spices": 1
+    },
+    "colors": [
+      90,
+      130,
+      150,
+      170
+    ]
+  },
+  "Tender Crocolisk Meat": {
+    "id": 3667,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Crocolisk Gumbo": {
+    "id": 3664,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Tender Crocolisk Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      120,
+      160,
+      180,
+      200
+    ]
+  },
+  "Raptor Egg": {
+    "id": 3685,
+    "quality": 1,
+    "icon": "inv_egg_03"
+  },
+  "Curiously Tasty Omelet": {
+    "id": 3665,
+    "quality": 1,
+    "icon": "inv_egg_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Raptor Egg": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      130,
+      170,
+      190,
+      210
+    ]
+  },
+  "Gooey Spider Leg": {
+    "id": 2251,
+    "quality": 1,
+    "icon": "inv_misc_monsterspidercarapace_01"
+  },
+  "Gooey Spider Cake": {
+    "id": 3666,
+    "quality": 1,
+    "icon": "inv_misc_food_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Gooey Spider Leg": 2,
+      "Hot Spices": 1
+    },
+    "colors": [
+      110,
+      150,
+      170,
+      190
+    ]
+  },
+  "Big Bear Meat": {
+    "id": 3730,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Big Bear Steak": {
+    "id": 3726,
+    "quality": 1,
+    "icon": "inv_misc_food_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Big Bear Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      110,
+      150,
+      170,
+      190
+    ]
+  },
+  "Lion Meat": {
+    "id": 3731,
+    "quality": 1,
+    "icon": "inv_misc_food_71"
+  },
+  "Hot Lion Chops": {
+    "id": 3727,
+    "quality": 1,
+    "icon": "inv_misc_food_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Lion Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      125,
+      175,
+      195,
+      215
+    ]
+  },
+  "Soothing Spices": {
+    "id": 3713,
+    "quality": 1,
+    "icon": "inv_misc_food_wheat_02",
+    "vendor": 160
+  },
+  "Tasty Lion Steak": {
+    "id": 3728,
+    "quality": 1,
+    "icon": "inv_misc_food_14",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Lion Meat": 2,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      150,
+      190,
+      210,
+      230
+    ]
+  },
+  "Turtle Meat": {
+    "id": 3712,
+    "quality": 1,
+    "icon": "inv_misc_food_70"
+  },
+  "Soothing Turtle Bisque": {
+    "id": 3729,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Turtle Meat": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Buzzard Wing": {
+    "id": 3404,
+    "quality": 1,
+    "icon": "inv_misc_monsterscales_02"
+  },
+  "Barbecued Buzzard Wing": {
+    "id": 4457,
+    "quality": 1,
+    "icon": "inv_misc_food_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Buzzard Wing": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Small Spider Leg": {
+    "id": 5465,
+    "quality": 1,
+    "icon": "inv_misc_monsterspidercarapace_01"
+  },
+  "Kaldorei Spider Kabob": {
+    "id": 5472,
+    "quality": 1,
+    "icon": "inv_misc_food_68",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Small Spider Leg": 1
+    },
+    "colors": [
+      10,
+      50,
+      70,
+      90
+    ]
+  },
+  "Scorpid Stinger": {
+    "id": 5466,
+    "quality": 1,
+    "icon": "spell_nature_nullifypoison"
+  },
+  "Scorpid Surprise": {
+    "id": 5473,
+    "quality": 1,
+    "icon": "inv_misc_food_10",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Scorpid Stinger": 1
+    },
+    "colors": [
+      20,
+      60,
+      80,
+      100
+    ]
+  },
+  "Kodo Meat": {
+    "id": 5467,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Roasted Kodo Meat": {
+    "id": 5474,
+    "quality": 1,
+    "icon": "inv_misc_food_60",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Kodo Meat": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      35,
+      75,
+      95,
+      115
+    ]
+  },
+  "Soft Frenzy Flesh": {
+    "id": 5468,
+    "quality": 1,
+    "icon": "inv_misc_fish_04"
+  },
+  "Fillet of Frenzy": {
+    "id": 5476,
+    "quality": 1,
+    "icon": "inv_misc_fish_05",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Soft Frenzy Flesh": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Strider Meat": {
+    "id": 5469,
+    "quality": 1,
+    "icon": "inv_misc_food_16"
+  },
+  "Shiny Red Apple": {
+    "id": 4536,
+    "quality": 1,
+    "icon": "inv_misc_food_19",
+    "vendor": 5
+  },
+  "Strider Stew": {
+    "id": 5477,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 4,
+    "reagents": {
+      "Strider Meat": 1,
+      "Shiny Red Apple": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Dig Rat": {
+    "id": 5051,
+    "quality": 1,
+    "icon": "inv_misc_pelt_bear_ruin_04"
+  },
+  "Dig Rat Stew": {
+    "id": 5478,
+    "quality": 1,
+    "icon": "inv_misc_bowl_01",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 4,
+    "reagents": {
+      "Dig Rat": 1
+    },
+    "colors": [
+      90,
+      130,
+      150,
+      170
+    ]
+  },
+  "Thunder Lizard Tail": {
+    "id": 5470,
+    "quality": 1,
+    "icon": "inv_misc_bone_04"
+  },
+  "Crispy Lizard Tail": {
+    "id": 5479,
+    "quality": 1,
+    "icon": "inv_misc_food_17",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Thunder Lizard Tail": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      100,
+      140,
+      160,
+      180
+    ]
+  },
+  "Stag Meat": {
+    "id": 5471,
+    "quality": 1,
+    "icon": "inv_misc_pelt_wolf_ruin_03"
+  },
+  "Lean Venison": {
+    "id": 5480,
+    "quality": 1,
+    "icon": "inv_misc_food_72",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Stag Meat": 1,
+      "Mild Spices": 4
+    },
+    "colors": [
+      110,
+      150,
+      170,
+      190
+    ]
+  },
+  "Clam Meat": {
+    "id": 5503,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Ice Cold Milk": {
+    "id": 1179,
+    "quality": 1,
+    "icon": "inv_drink_milk_01",
+    "vendor": 100
+  },
+  "Clam Chowder": {
+    "id": 5526,
+    "quality": 1,
+    "icon": "inv_potion_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Clam Meat": 1,
+      "Ice Cold Milk": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      90,
+      130,
+      150,
+      170
+    ]
+  },
+  "Tangy Clam Meat": {
+    "id": 5504,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Goblin Deviled Clams": {
+    "id": 5527,
+    "quality": 1,
+    "icon": "inv_misc_shell_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Tangy Clam Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      125,
+      165,
+      185,
+      205
+    ]
+  },
+  "Refreshing Spring Water": {
+    "id": 159,
+    "quality": 1,
+    "icon": "inv_drink_07",
+    "vendor": 5
+  },
+  "Boiled Clams": {
+    "id": 5525,
+    "quality": 1,
+    "icon": "inv_misc_shell_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Clam Meat": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Giant Clam Meat": {
+    "id": 4655,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Giant Clam Scorcho": {
+    "id": 6038,
+    "quality": 1,
+    "icon": "inv_ammo_firetar",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Giant Clam Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Raw Brilliant Smallfish": {
+    "id": 6291,
+    "quality": 1,
+    "icon": "inv_misc_fish_08"
+  },
+  "Brilliant Smallfish": {
+    "id": 6290,
+    "quality": 1,
+    "icon": "inv_misc_fish_07",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Brilliant Smallfish": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "Raw Slitherskin Mackerel": {
+    "id": 6303,
+    "quality": 1,
+    "icon": "inv_misc_fish_24"
+  },
+  "Slitherskin Mackerel": {
+    "id": 787,
+    "quality": 1,
+    "icon": "inv_misc_fish_24",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Slitherskin Mackerel": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "Raw Longjaw Mud Snapper": {
+    "id": 6289,
+    "quality": 1,
+    "icon": "inv_misc_fish_32"
+  },
+  "Longjaw Mud Snapper": {
+    "id": 4592,
+    "quality": 1,
+    "icon": "inv_misc_fish_32",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Longjaw Mud Snapper": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Raw Loch Frenzy": {
+    "id": 6317,
+    "quality": 1,
+    "icon": "inv_misc_fish_03"
+  },
+  "Loch Frenzy Delight": {
+    "id": 6316,
+    "quality": 1,
+    "icon": "inv_potion_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Loch Frenzy": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Raw Bristle Whisker Catfish": {
+    "id": 6308,
+    "quality": 1,
+    "icon": "inv_misc_fish_30"
+  },
+  "Bristle Whisker Catfish": {
+    "id": 4593,
+    "quality": 1,
+    "icon": "inv_misc_fish_30",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Bristle Whisker Catfish": 1
+    },
+    "colors": [
+      100,
+      140,
+      160,
+      180
+    ]
+  },
+  "Raw Rainbow Fin Albacore": {
+    "id": 6361,
+    "quality": 1,
+    "icon": "inv_misc_fish_25"
+  },
+  "Rainbow Fin Albacore": {
+    "id": 5095,
+    "quality": 1,
+    "icon": "inv_misc_fish_27",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Rainbow Fin Albacore": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Raw Rockscale Cod": {
+    "id": 6362,
+    "quality": 1,
+    "icon": "inv_misc_fish_04"
+  },
+  "Rockscale Cod": {
+    "id": 4594,
+    "quality": 1,
+    "icon": "inv_misc_fish_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Rockscale Cod": 1
+    },
+    "colors": [
+      175,
+      190,
+      210,
+      230
+    ]
+  },
+  "Deviate Fish": {
+    "id": 6522,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_01"
+  },
+  "Savory Deviate Delight": {
+    "id": 6657,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Deviate Fish": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      85,
+      125,
+      145,
+      165
+    ]
+  },
+  "Small Egg": {
+    "id": 6889,
+    "quality": 1,
+    "icon": "inv_egg_01"
+  },
+  "Herb Baked Egg": {
+    "id": 6888,
+    "quality": 1,
+    "icon": "inv_egg_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Small Egg": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "Smoked Bear Meat": {
+    "id": 6890,
+    "quality": 1,
+    "icon": "inv_misc_food_13",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bear Meat": 1
+    },
+    "colors": [
+      40,
+      80,
+      100,
+      120
+    ]
+  },
+  "Swiftthistle": {
+    "id": 2452,
+    "quality": 1,
+    "icon": "inv_misc_herb_04"
+  },
+  "Thistle Tea": {
+    "id": 7676,
+    "quality": 1,
+    "icon": "inv_drink_milk_05",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Swiftthistle": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      60,
+      100,
+      120,
+      140
+    ]
+  },
+  "Meaty Bat Wing": {
+    "id": 12223,
+    "quality": 1,
+    "icon": "inv_misc_pelt_bear_ruin_05"
+  },
+  "Crispy Bat Wing": {
+    "id": 12224,
+    "quality": 1,
+    "icon": "inv_misc_food_46",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Meaty Bat Wing": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "Lean Wolf Steak": {
+    "id": 12209,
+    "quality": 1,
+    "icon": "inv_misc_food_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Lean Wolf Flank": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      125,
+      165,
+      185,
+      205
+    ]
+  },
+  "Raptor Flesh": {
+    "id": 12184,
+    "quality": 1,
+    "icon": "inv_misc_food_69"
+  },
+  "Roast Raptor": {
+    "id": 12210,
+    "quality": 1,
+    "icon": "inv_misc_food_50",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raptor Flesh": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Red Wolf Meat": {
+    "id": 12203,
+    "quality": 1,
+    "icon": "inv_misc_food_71"
+  },
+  "Hot Wolf Ribs": {
+    "id": 13851,
+    "quality": 1,
+    "icon": "inv_misc_food_48",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Red Wolf Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Tiger Meat": {
+    "id": 12202,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Jungle Stew": {
+    "id": 12212,
+    "quality": 1,
+    "icon": "inv_drink_17",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Tiger Meat": 1,
+      "Refreshing Spring Water": 1,
+      "Shiny Red Apple": 2
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Mystery Meat": {
+    "id": 12037,
+    "quality": 1,
+    "icon": "inv_misc_food_67"
+  },
+  "Carrion Surprise": {
+    "id": 12213,
+    "quality": 1,
+    "icon": "inv_misc_food_49",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mystery Meat": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Skin of Dwarven Stout": {
+    "id": 2596,
+    "quality": 1,
+    "icon": "inv_drink_milk_02",
+    "vendor": 110
+  },
+  "Mystery Stew": {
+    "id": 12214,
+    "quality": 1,
+    "icon": "inv_drink_19",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mystery Meat": 1,
+      "Skin of Dwarven Stout": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Small Flame Sac": {
+    "id": 4402,
+    "quality": 1,
+    "icon": "inv_misc_organ_06"
+  },
+  "Dragonbreath Chili": {
+    "id": 12217,
+    "quality": 1,
+    "icon": "inv_drink_17",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Mystery Meat": 1,
+      "Small Flame Sac": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      200,
+      225,
+      237,
+      250
+    ]
+  },
+  "Heavy Kodo Meat": {
+    "id": 12204,
+    "quality": 1,
+    "icon": "inv_misc_food_70"
+  },
+  "Heavy Kodo Stew": {
+    "id": 12215,
+    "quality": 1,
+    "icon": "inv_drink_19",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Heavy Kodo Meat": 2,
+      "Soothing Spices": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      200,
+      225,
+      237,
+      250
+    ]
+  },
+  "Tender Crab Meat": {
+    "id": 12206,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Spiced Chili Crab": {
+    "id": 12216,
+    "quality": 1,
+    "icon": "inv_misc_food_48",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Tender Crab Meat": 1,
+      "Hot Spices": 2
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Giant Egg": {
+    "id": 12207,
+    "quality": 1,
+    "icon": "inv_egg_03"
+  },
+  "Monster Omelet": {
+    "id": 12218,
+    "quality": 1,
+    "icon": "inv_misc_food_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Giant Egg": 1,
+      "Soothing Spices": 2
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Simple Wood": {
+    "id": 4470,
+    "quality": 1,
+    "icon": "inv_tradeskillitem_01",
+    "vendor": 40
+  },
+  "Basic Campfire": {
+    "reagents": {
+      "Simple Wood": 1
+    }
+  },
+  "Raw Glossy Mightfish": {
+    "id": 13754,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_03"
+  },
+  "Cooked Glossy Mightfish": {
+    "id": 13927,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Glossy Mightfish": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Raw Spotted Yellowtail": {
+    "id": 4603,
+    "quality": 1,
+    "icon": "inv_misc_fish_01"
+  },
+  "Spotted Yellowtail": {
+    "id": 6887,
+    "quality": 1,
+    "icon": "inv_misc_fish_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Spotted Yellowtail": 1
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Raw Redgill": {
+    "id": 13758,
+    "quality": 1,
+    "icon": "inv_misc_fish_06"
+  },
+  "Filet of Redgill": {
+    "id": 13930,
+    "quality": 1,
+    "icon": "inv_misc_fish_06",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Redgill": 1
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Winter Squid": {
+    "id": 13755,
+    "quality": 1,
+    "icon": "inv_misc_fish_13"
+  },
+  "Grilled Squid": {
+    "id": 13928,
+    "quality": 1,
+    "icon": "inv_misc_fish_13",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Winter Squid": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      240,
+      265,
+      277,
+      290
+    ]
+  },
+  "Raw Summer Bass": {
+    "id": 13756,
+    "quality": 1,
+    "icon": "inv_misc_fish_03"
+  },
+  "Hot Smoked Bass": {
+    "id": 13929,
+    "quality": 1,
+    "icon": "inv_misc_fish_03",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Summer Bass": 1,
+      "Hot Spices": 2
+    },
+    "colors": [
+      240,
+      265,
+      277,
+      290
+    ]
+  },
+  "Raw Nightfin Snapper": {
+    "id": 13759,
+    "quality": 1,
+    "icon": "inv_misc_fish_23"
+  },
+  "Nightfin Soup": {
+    "id": 13931,
+    "quality": 1,
+    "icon": "inv_drink_17",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Nightfin Snapper": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      250,
+      275,
+      285,
+      295
+    ]
+  },
+  "Raw Sunscale Salmon": {
+    "id": 13760,
+    "quality": 1,
+    "icon": "inv_misc_fish_19"
+  },
+  "Poached Sunscale Salmon": {
+    "id": 13932,
+    "quality": 1,
+    "icon": "inv_misc_fish_19",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Sunscale Salmon": 1
+    },
+    "colors": [
+      250,
+      275,
+      285,
+      295
+    ]
+  },
+  "Darkclaw Lobster": {
+    "id": 13888,
+    "quality": 1,
+    "icon": "inv_misc_fish_14"
+  },
+  "Lobster Stew": {
+    "id": 13933,
+    "quality": 1,
+    "icon": "inv_drink_17",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Darkclaw Lobster": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      275,
+      300,
+      312,
+      325
+    ]
+  },
+  "Large Raw Mightfish": {
+    "id": 13893,
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_02"
+  },
+  "Mightfish Steak": {
+    "id": 13934,
+    "quality": 1,
+    "icon": "inv_misc_food_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Large Raw Mightfish": 1,
+      "Hot Spices": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      275,
+      300,
+      312,
+      325
+    ]
+  },
+  "Raw Whitescale Salmon": {
+    "id": 13889,
+    "quality": 1,
+    "icon": "inv_misc_fish_20"
+  },
+  "Baked Salmon": {
+    "id": 13935,
+    "quality": 1,
+    "icon": "inv_misc_fish_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Whitescale Salmon": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      275,
+      300,
+      312,
+      325
+    ]
+  },
+  "Zesty Clam Meat": {
+    "id": 7974,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Undermine Clam Chowder": {
+    "id": 16766,
+    "quality": 1,
+    "icon": "inv_drink_17",
+    "craftMin": 2,
+    "craftMax": 2,
+    "source": 5,
+    "reagents": {
+      "Zesty Clam Meat": 2,
+      "Hot Spices": 1,
+      "Ice Cold Milk": 1
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Raw Mithril Head Trout": {
+    "id": 8365,
+    "quality": 1,
+    "icon": "inv_misc_fish_02"
+  },
+  "Mithril Head Trout": {
+    "id": 8364,
+    "quality": 1,
+    "icon": "inv_misc_fish_02",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Mithril Head Trout": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Holiday Spirits": {
+    "id": 17196,
+    "quality": 1,
+    "icon": "inv_drink_10",
+    "vendor": 50
+  },
+  "Holiday Spices": {
+    "id": 17194,
+    "quality": 1,
+    "icon": "inv_misc_bag_11",
+    "vendor": 10
+  },
+  "Egg Nog": {
+    "id": 17198,
+    "quality": 1,
+    "icon": "inv_drink_04",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Small Egg": 1,
+      "Ice Cold Milk": 1,
+      "Holiday Spirits": 1,
+      "Holiday Spices": 1
+    },
+    "colors": [
+      35,
+      75,
+      95,
+      115
+    ]
+  },
+  "Gingerbread Cookie": {
+    "id": 17197,
+    "quality": 1,
+    "icon": "inv_misc_food_62",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Small Egg": 1,
+      "Holiday Spices": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "White Spider Meat": {
+    "id": 12205,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Spider Sausage": {
+    "id": 17222,
+    "quality": 1,
+    "icon": "inv_misc_food_66",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "White Spider Meat": 2
+    },
+    "colors": [
+      200,
+      225,
+      237,
+      250
+    ]
+  },
+  "Tender Wolf Meat": {
+    "id": 12208,
+    "quality": 1,
+    "icon": "inv_misc_food_14"
+  },
+  "Tender Wolf Steak": {
+    "id": 18045,
+    "quality": 1,
+    "icon": "inv_misc_food_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Tender Wolf Meat": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      225,
+      250,
+      262,
+      275
+    ]
+  },
+  "Runn Tum Tuber": {
+    "id": 18255,
+    "quality": 1,
+    "icon": "inv_misc_food_55"
+  },
+  "Runn Tum Tuber Surprise": {
+    "id": 18254,
+    "quality": 1,
+    "icon": "inv_misc_food_63",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 2,
+    "reagents": {
+      "Runn Tum Tuber": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      275,
+      300,
+      312,
+      325
+    ]
+  },
+  "Heavy Crocolisk Stew": {
+    "id": 20074,
+    "quality": 1,
+    "icon": "inv_misc_food_64",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Tender Crocolisk Meat": 2,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      150,
+      160,
+      180,
+      200
+    ]
+  },
+  "Sandworm Meat": {
+    "id": 20424,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Smoked Desert Dumplings": {
+    "id": 20452,
+    "quality": 1,
+    "icon": "inv_misc_food_64",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Sandworm Meat": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      285,
+      310,
+      322,
+      335
+    ]
+  },
+  "Goblin Rocket Fuel": {
+    "id": 9061,
+    "quality": 1,
+    "icon": "inv_cask_02"
+  },
+  "Deeprock Salt": {
+    "id": 8150,
+    "quality": 1,
+    "icon": "inv_misc_dust_02"
+  },
+  "Chimaerok Tenderloin": {
+    "id": 21024,
+    "quality": 1,
+    "icon": "inv_misc_food_70"
+  },
+  "Dirge's Kickin' Chimaerok Chops": {
+    "id": 21023,
+    "quality": 1,
+    "icon": "inv_misc_food_65",
+    "craftMin": 5,
+    "craftMax": 5,
+    "source": 4,
+    "reagents": {
+      "Hot Spices": 1,
+      "Goblin Rocket Fuel": 1,
+      "Deeprock Salt": 1,
+      "Chimaerok Tenderloin": 1
+    },
+    "colors": [
+      300,
+      325,
+      337,
+      350
+    ]
+  },
+  "Raw Sagefish": {
+    "id": 21071,
+    "quality": 1,
+    "icon": "inv_misc_fish_20"
+  },
+  "Smoked Sagefish": {
+    "id": 21072,
+    "quality": 1,
+    "icon": "inv_misc_fish_20",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Sagefish": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      80,
+      120,
+      140,
+      160
+    ]
+  },
+  "Raw Greater Sagefish": {
+    "id": 21153,
+    "quality": 1,
+    "icon": "inv_misc_fish_21"
+  },
+  "Sagefish Delight": {
+    "id": 21217,
+    "quality": 1,
+    "icon": "inv_misc_fish_21",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raw Greater Sagefish": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      175,
+      215,
+      235,
+      255
+    ]
+  },
+  "Crunchy Spider Leg": {
+    "id": 22644,
+    "quality": 1,
+    "icon": "inv_misc_ahnqirajtrinket_02"
+  },
+  "Crunchy Spider Surprise": {
+    "id": 22645,
+    "quality": 1,
+    "icon": "inv_misc_food_88_ravagernuggets",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Crunchy Spider Leg": 1
+    },
+    "colors": [
+      60,
+      100,
+      120,
+      140
+    ]
+  },
+  "Lynx Meat": {
+    "id": 27668,
+    "quality": 1,
+    "icon": "inv_misc_food_71"
+  },
+  "Lynx Steak": {
+    "id": 27635,
+    "quality": 1,
+    "icon": "inv_misc_food_47",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Lynx Meat": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "Moongraze Stag Tenderloin": {
+    "id": 23676,
+    "quality": 1,
+    "icon": "inv_misc_food_69"
+  },
+  "Roasted Moongraze Tenderloin": {
+    "id": 24105,
+    "quality": 1,
+    "icon": "inv_misc_food_60",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Moongraze Stag Tenderloin": 1
+    },
+    "colors": [
+      1,
+      45,
+      65,
+      85
+    ]
+  },
+  "Bat Flesh": {
+    "id": 27669,
+    "quality": 1,
+    "icon": "inv_misc_food_70"
+  },
+  "Bat Bites": {
+    "id": 27636,
+    "quality": 1,
+    "icon": "inv_misc_food_86_basilisk",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bat Flesh": 1
+    },
+    "colors": [
+      50,
+      90,
+      110,
+      130
+    ]
+  },
+  "Buzzard Meat": {
+    "id": 27671,
+    "quality": 1,
+    "icon": "inv_misc_food_82"
+  },
+  "Buzzard Bites": {
+    "id": 27651,
+    "quality": 1,
+    "icon": "inv_misc_food_85_stegadonbite",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 4,
+    "reagents": {
+      "Buzzard Meat": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Ravager Flesh": {
+    "id": 27674,
+    "quality": 1,
+    "icon": "inv_misc_food_72"
+  },
+  "Ravager Dog": {
+    "id": 27655,
+    "quality": 1,
+    "icon": "inv_misc_food_53",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Ravager Flesh": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Strange Spores": {
+    "id": 27676,
+    "quality": 1,
+    "icon": "classic_inv_misc_dust_04"
+  },
+  "Sporeling Snack": {
+    "id": 27656,
+    "quality": 1,
+    "icon": "inv_misc_food_87_sporelingsnack",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Strange Spores": 1
+    },
+    "colors": [
+      310,
+      330,
+      340,
+      350
+    ]
+  },
+  "Chunk o' Basilisk": {
+    "id": 27677,
+    "quality": 1,
+    "icon": "inv_misc_food_81"
+  },
+  "Blackened Basilisk": {
+    "id": 27657,
+    "quality": 1,
+    "icon": "inv_misc_food_86_basilisk",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Chunk o' Basilisk": 1
+    },
+    "colors": [
+      315,
+      335,
+      345,
+      355
+    ]
+  },
+  "Clefthoof Meat": {
+    "id": 27678,
+    "quality": 1,
+    "icon": "inv_misc_food_80"
+  },
+  "Roasted Clefthoof": {
+    "id": 27658,
+    "quality": 1,
+    "icon": "inv_misc_food_60",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Clefthoof Meat": 1
+    },
+    "colors": [
+      325,
+      345,
+      355,
+      365
+    ]
+  },
+  "Warped Flesh": {
+    "id": 27681,
+    "quality": 1,
+    "icon": "inv_misc_food_83_talbuksteak"
+  },
+  "Warp Burger": {
+    "id": 27659,
+    "quality": 1,
+    "icon": "inv_misc_food_65",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Warped Flesh": 1
+    },
+    "colors": [
+      325,
+      345,
+      355,
+      365
+    ]
+  },
+  "Talbuk Venison": {
+    "id": 27682,
+    "quality": 1,
+    "icon": "inv_misc_food_71"
+  },
+  "Talbuk Steak": {
+    "id": 27660,
+    "quality": 1,
+    "icon": "inv_misc_food_84_roastclefthoof",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Talbuk Venison": 1
+    },
+    "colors": [
+      325,
+      345,
+      355,
+      365
+    ]
+  },
+  "Barbed Gill Trout": {
+    "id": 27422,
+    "quality": 1,
+    "icon": "inv_misc_fish_37"
+  },
+  "Blackened Trout": {
+    "id": 27661,
+    "quality": 1,
+    "icon": "inv_misc_food_77",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Barbed Gill Trout": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Spotted Feltail": {
+    "id": 27425,
+    "quality": 1,
+    "icon": "inv_misc_fish_39"
+  },
+  "Feltail Delight": {
+    "id": 27662,
+    "quality": 1,
+    "icon": "inv_misc_food_74",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Spotted Feltail": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Zangarian Sporefish": {
+    "id": 27429,
+    "quality": 1,
+    "icon": "inv_misc_fish_34"
+  },
+  "Blackened Sporefish": {
+    "id": 27663,
+    "quality": 1,
+    "icon": "inv_misc_food_79",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Zangarian Sporefish": 1
+    },
+    "colors": [
+      310,
+      330,
+      340,
+      350
+    ]
+  },
+  "Figluster's Mudfish": {
+    "id": 27435,
+    "quality": 1,
+    "icon": "inv_misc_fish_41"
+  },
+  "Grilled Mudfish": {
+    "id": 27664,
+    "quality": 1,
+    "icon": "inv_misc_food_78",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Figluster's Mudfish": 1
+    },
+    "colors": [
+      320,
+      340,
+      350,
+      360
+    ]
+  },
+  "Icefin Bluefish": {
+    "id": 27437,
+    "quality": 1,
+    "icon": "inv_misc_fish_23"
+  },
+  "Poached Bluefish": {
+    "id": 27665,
+    "quality": 1,
+    "icon": "inv_misc_food_76",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Icefin Bluefish": 1
+    },
+    "colors": [
+      320,
+      340,
+      350,
+      360
+    ]
+  },
+  "Golden Darter": {
+    "id": 27438,
+    "quality": 1,
+    "icon": "inv_misc_fish_36"
+  },
+  "Golden Fish Sticks": {
+    "id": 27666,
+    "quality": 1,
+    "icon": "inv_misc_fish_18",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Golden Darter": 1
+    },
+    "colors": [
+      325,
+      345,
+      355,
+      365
+    ]
+  },
+  "Furious Crawdad": {
+    "id": 27439,
+    "quality": 1,
+    "icon": "inv_misc_fish_14"
+  },
+  "Spicy Crawdad": {
+    "id": 27667,
+    "quality": 1,
+    "icon": "inv_misc_fish_16",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Furious Crawdad": 1
+    },
+    "colors": [
+      350,
+      370,
+      380,
+      390
+    ]
+  },
+  "Jaggal Clam Meat": {
+    "id": 24477,
+    "quality": 1,
+    "icon": "inv_misc_food_51"
+  },
+  "Clam Bar": {
+    "id": 30155,
+    "quality": 1,
+    "icon": "inv_misc_food_27",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Jaggal Clam Meat": 2,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Simple Flour": {
+    "id": 30817,
+    "quality": 1,
+    "icon": "inv_misc_food_wheat_01"
+  },
+  "Spice Bread": {
+    "id": 30816,
+    "quality": 1,
+    "icon": "inv_misc_food_95_grainbread",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 6,
+    "reagents": {
+      "Simple Flour": 1,
+      "Mild Spices": 1
+    },
+    "colors": [
+      1,
+      30,
+      35,
+      40
+    ]
+  },
+  "Serpent Flesh": {
+    "id": 31671,
+    "quality": 1,
+    "icon": "inv_misc_food_98_talbuk"
+  },
+  "Crunchy Serpent": {
+    "id": 31673,
+    "quality": 1,
+    "icon": "inv_misc_food_88_ravagernuggets",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Serpent Flesh": 1
+    },
+    "colors": [
+      335,
+      355,
+      365,
+      375
+    ]
+  },
+  "Raptor Ribs": {
+    "id": 31670,
+    "quality": 1,
+    "icon": "inv_misc_food_16"
+  },
+  "Mok'Nathal Shortribs": {
+    "id": 31672,
+    "quality": 1,
+    "icon": "inv_misc_food_48",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Raptor Ribs": 1
+    },
+    "colors": [
+      335,
+      355,
+      365,
+      375
+    ]
+  },
+  "Flask of Stormwind Tawny": {
+    "id": 2593,
+    "quality": 1,
+    "icon": "inv_potion_12"
+  },
+  "Stewed Trout": {
+    "id": 33048,
+    "quality": 1,
+    "icon": "inv_misc_food_64",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Barbed Gill Trout": 1,
+      "Flask of Stormwind Tawny": 1,
+      "Soothing Spices": 1
+    },
+    "colors": [
+      0,
+      335,
+      345,
+      355
+    ]
+  },
+  "Huge Spotted Feltail": {
+    "id": 27515,
+    "quality": 1,
+    "icon": "inv_misc_fish_39"
+  },
+  "Goldenbark Apple": {
+    "id": 4539,
+    "quality": 1,
+    "icon": "inv_misc_food_20"
+  },
+  "Fisherman's Feast": {
+    "id": 33052,
+    "quality": 1,
+    "icon": "inv_misc_food_88_ravagernuggets",
+    "craftMin": 6,
+    "craftMax": 6,
+    "reagents": {
+      "Huge Spotted Feltail": 1,
+      "Goldenbark Apple": 5,
+      "Soothing Spices": 5
+    },
+    "colors": [
+      0,
+      375,
+      380,
+      385
+    ]
+  },
+  "Enormous Barbed Gill Trout": {
+    "id": 27516,
+    "quality": 1,
+    "icon": "inv_misc_fish_37"
+  },
+  "Hot Buttered Trout": {
+    "id": 33053,
+    "quality": 1,
+    "icon": "inv_misc_food_76",
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Enormous Barbed Gill Trout": 1,
+      "Soothing Spices": 2
+    },
+    "colors": [
+      0,
+      375,
+      380,
+      385
+    ]
+  },
+  "Crescent-Tail Skullfish": {
+    "id": 33824,
+    "quality": 1,
+    "icon": "inv_misc_fish_40"
+  },
+  "Skullfish Soup": {
+    "id": 33825,
+    "quality": 1,
+    "icon": "inv_misc_food_63",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Crescent-Tail Skullfish": 1
+    },
+    "colors": [
+      325,
+      335,
+      345,
+      355
+    ]
+  },
+  "Lightning Eel": {
+    "id": 13757,
+    "quality": 1,
+    "icon": "inv_misc_fish_12"
+  },
+  "Stormchops": {
+    "id": 33866,
+    "quality": 1,
+    "icon": "inv_misc_food_91",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Clefthoof Meat": 1,
+      "Lightning Eel": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Bloodfin Catfish": {
+    "id": 33823,
+    "quality": 1,
+    "icon": "inv_misc_fish_29"
+  },
+  "Broiled Bloodfin": {
+    "id": 33867,
+    "quality": 1,
+    "icon": "inv_misc_fish_29",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Bloodfin Catfish": 1
+    },
+    "colors": [
+      300,
+      320,
+      330,
+      340
+    ]
+  },
+  "Spicy Hot Talbuk": {
+    "id": 33872,
+    "quality": 1,
+    "icon": "inv_misc_food_84_roastclefthoof",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Talbuk Venison": 1,
+      "Hot Spices": 1
+    },
+    "colors": [
+      325,
+      335,
+      345,
+      355
+    ]
+  },
+  "Mageroyal": {
+    "id": 785,
+    "quality": 1,
+    "icon": "inv_jewelry_talisman_03"
+  },
+  "Delicious Chocolate Cake": {
+    "id": 33924,
+    "quality": 1,
+    "icon": "inv_misc_celebrationcake_01",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Simple Flour": 8,
+      "Ice Cold Milk": 4,
+      "Mild Spices": 4,
+      "Small Egg": 8,
+      "Flask of Stormwind Tawny": 1,
+      "Mageroyal": 3
+    },
+    "colors": [
+      1,
+      50,
+      62,
+      75
+    ]
+  },
+  "Sparkling Apple Cider": {
+    "id": 34412,
+    "quality": 1,
+    "icon": "inv_drink_22"
+  },
+  "Hot Apple Cider": {
+    "id": 34411,
+    "quality": 1,
+    "icon": "inv_drink_23",
+    "craftMin": 2,
+    "craftMax": 2,
+    "reagents": {
+      "Sparkling Apple Cider": 1,
+      "Holiday Spirits": 1,
+      "Holiday Spices": 1
+    },
+    "colors": [
+      325,
+      325,
+      325,
+      325
+    ]
+  },
+  "Kibler's Bits": {
+    "id": 33874,
+    "quality": 1,
+    "icon": "inv_misc_food_49",
+    "craftMin": 1,
+    "craftMax": 1,
+    "reagents": {
+      "Buzzard Meat": 1
+    },
+    "colors": [
+      300,
+      345,
+      355,
+      365
+    ]
+  },
+  "Goldthorn": {
+    "id": 3821,
+    "quality": 1,
+    "icon": "inv_misc_herb_15"
+  },
+  "Goldthorn Tea": {
+    "id": 10841,
+    "quality": 1,
+    "icon": "inv_drink_15",
+    "craftMin": 4,
+    "craftMax": 4,
+    "reagents": {
+      "Goldthorn": 1,
+      "Refreshing Spring Water": 1
+    },
+    "colors": [
+      175,
+      175,
+      190,
+      205
+    ]
+  },
+  "Flagon of Dwarven Honeymead": {
+    "id": 2594,
+    "quality": 1,
+    "icon": "inv_drink_05"
+  },
+  "Captain Rumsey's Lager": {
+    "id": 34832,
+    "quality": 1,
+    "icon": "inv_drink_03",
+    "craftMin": 5,
+    "craftMax": 5,
+    "reagents": {
+      "Skin of Dwarven Stout": 1,
+      "Flagon of Dwarven Honeymead": 1
+    },
+    "colors": [
+      100,
+      100,
+      105,
+      110
+    ]
+  },
+  "Bear Flank": {
+    "id": 35562,
+    "quality": 1,
+    "icon": "inv_misc_food_13"
+  },
+  "Charred Bear Kabobs": {
+    "id": 35563,
+    "quality": 1,
+    "icon": "inv_misc_food_68",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bear Flank": 1
+    },
+    "colors": [
+      250,
+      275,
+      285,
+      295
+    ]
+  },
+  "Juicy Bear Burger": {
+    "id": 35565,
+    "quality": 1,
+    "icon": "inv_misc_food_65",
+    "craftMin": 1,
+    "craftMax": 1,
+    "source": 5,
+    "reagents": {
+      "Bear Flank": 1
+    },
+    "colors": [
+      250,
+      275,
+      285,
+      295
+    ]
+  }
+}

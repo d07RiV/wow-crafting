@@ -1,0 +1,207 @@
+$padding-outer: 4px;
+$padding-x: 4px;
+$padding-y: 4px;
+$indent-x: 8px;
+$text-color: #ccc;
+
+$brand-color: #057af0;
+
+.ui-Select {
+  display: inline-block;
+  width: 200px;
+  position: relative;
+  vertical-align: middle;
+  text-align: left;
+  line-height: normal;
+  background-color: #0d0d0d;
+  border-color: #1b1b1b;
+  color: #ddd;
+
+  &:not(.ui-drop-bottom):not(.ui-drop-top) {
+    &.ui-Select-noframe {
+      border-color: transparent;
+      background: none;
+      .ui-Select-value {
+        box-shadow: none;
+      }
+    }
+    &:not(.ui-Select-noframe) .ui-Select-value:focus {
+      border-color: $brand-color;
+      box-shadow: 0 0 5px rgba(#000, 0.3);    
+    }
+    .ui-Select-arrow {
+      transform: none;
+    }
+  }
+  
+  &.ui-drop-bottom {
+    .ui-Select-value {
+      box-shadow: inset 0 1px 0 rgba(#000, 0.4), 0 0 2px rgba(#000, 0.2);
+    }
+    .ui-Select-menu {
+      top: 100%;
+      margin-top: -2px;
+    }
+  }
+  &.ui-drop-top { 
+    .ui-Select-value {
+      box-shadow: inset 0 -1px 0 rgba(#000, 0.4), 0 0 2px rgba(#000, 0.2);
+    }
+    .ui-Select-menu {
+      bottom: 100%;
+      margin-bottom: -2px;
+    }
+  }
+  .ui-Select-menu {
+    left: 0;
+    right: 0;
+  }
+}
+
+.ui-Select-value {
+  background-color: inherit;
+  box-shadow: inset 0 0 2px rgba(#000, 0.4), 0 0 2px rgba(#000, 0.2);
+
+  cursor: pointer;
+  &.ui-select-disabled {
+    cursor: default;
+  }
+
+  position: relative;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  outline: none;
+  user-select: none;
+  border-color: inherit;
+  border-width: 2px;
+  border-style: solid;
+  box-sizing: border-box;
+
+  padding: $padding-y calc(#{$padding-outer + $padding-x} + 0.8em) $padding-y $padding-outer+$padding-x;
+  &.ui-has-clear {
+    padding: $padding-y calc(#{$padding-outer + $padding-x} + 2.1em) $padding-y $padding-outer+$padding-x;
+  }
+  
+  &.ui-select-empty {
+    color: #999;
+  }
+}
+.ui-Select-arrow, .ui-Select-clear {
+  position: absolute;
+  color: $brand-color;
+}
+:not(.ui-select-disabled) .ui-Select-arrow {
+  transform: rotate(-180deg);
+}
+.ui-select-disabled .ui-Select-arrow {
+  right: 0.8em;
+  font-size: 0.75em;
+}
+.ui-Select-arrow {
+  right: 0.5em;
+  top: calc(50% - 0.5em);
+  transition: transform 400ms ease-in-out;
+}
+.ui-Select-clear {
+  right: 1.8em;
+  top: calc(50% - 0.5em);
+}
+.ui-Select-menu {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  outline: none;
+  user-select: none;
+  background-color: inherit;
+  border-color: inherit;
+  border-width: 2px;
+  border-style: solid;
+  box-sizing: border-box;
+  overflow: hidden;
+  z-index: 100;
+
+  padding-left: $padding-outer;
+  padding-right: $padding-outer;
+
+
+  .ui-menu-scroll {
+    position: relative;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex-grow: 1;
+  }
+
+  &.ui-drop-bottom {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-top: none;
+    padding-bottom: $padding-outer;
+  }
+  &.ui-drop-top {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: none;
+    padding-top: $padding-outer;
+
+    flex-direction: column-reverse;
+  }
+  &.ui-drop-test {
+    visibility: hidden;
+  }
+
+  .no-results {
+    padding: 0 2px;
+    color: #999;
+  }
+
+  .depth-1 { padding-left: $padding-x + $indent-x; }
+  .depth-2 { padding-left: $padding-x + $indent-x * 2; }
+  .depth-3 { padding-left: $padding-x + $indent-x * 3; }
+}
+.ui-Select-search {
+  margin: $padding-outer 0;
+  position: relative;
+  .search-icon {
+    position: absolute;
+    right: 0.5em;
+    top: calc(50% - 0.5em);
+    color: $brand-color;
+  }
+  input {
+    border: 1px solid #333 !important;
+    background-color: #090909;
+    color: #eee;
+    padding: $padding-y - 1 $padding-x + 20 $padding-y - 1 $padding-x - 1;
+    width: 100%;
+    box-sizing: border-box;
+    outline: none;
+  }
+}
+.ui-Select-option {
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: $padding-y $padding-x;
+  &.option-selected {
+    //background-color: #3875d7;
+    //background-image: linear-gradient(#3875d7 20%, #2a62bc 90%);
+    background-color: $brand-color;
+    color: #fff;
+    * { color: inherit; }
+  }
+  &.option-disabled {
+    color: #666;
+    cursor: default;
+  }
+  em {
+    text-decoration: underline;
+  }
+}
+.ui-Select-group {
+  padding: $padding-y $padding-x;
+  font-weight: bold;
+}
